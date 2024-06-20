@@ -39,4 +39,4 @@ This project aims to deepen our understanding of simple axiom systems by enumera
 ## How to Contribute
 - **Clone the Repository**: 
   ```sh
-  git clone https://github.com/username/axiom-systems-analysis.git
+  git clone https://github.com/username/Proof-Path-Analysis.git
