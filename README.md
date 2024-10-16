@@ -30,11 +30,13 @@ In addition to the core objectives outlined, the project also explores:
 -**Typology of Axioms**: Understanding how different types of axioms interact and how their logical consequences differ depending on the initial configuration.
 
 ## Expected Outcomes
+
 - **Deeper Understanding of Theorem Derivation**: By examining entailment cones and proof path cycles, we expect to uncover fundamental structures that define how theorems are derived within simple axiom systems. This understanding will contribute to the broader study of metamathematics and formal logic.
 - **Topological Insights**: Through the application of homology and homotopy theory, we will gain insights into the topological properties of entailment cones, such as identifying critical loops or cycles that play a key role in theorem propagation.
 - **Proof Typology**: A classification of proof paths, based on their topological features, that may point toward universal properties of axiom systems.
 
 ##Future Directions
+
 - **Scaling Up to More Complex Systems**: The methods developed in this project can be scaled to more complex axiom systems, potentially yielding new insights into higher-order logical frameworks and their entailment structures.
 - **Machine Learning Applications**: We aim to explore machine learning approaches to predict patterns in entailment cone formation and proof path cycles, using data from our generated graphs.
 - **Application to Formal Logic Systems**: This framework could be applied to formal logic systems in computational theorem proving, allowing for more efficient exploration of large theorem spaces.
