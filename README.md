@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project seeks to deepen our understanding of formal axiom systems by systematically enumerating simple axiom systems and analyzing their entailment cones. We aim to compute both non-accumulative and accumulative entailment cones through the processes of substitution and co-substitution from various initial conditions. By exploring the structure of proof paths and identifying cycles, we hope to uncover topological insights into the nature of theorem derivation—a central aspect of metamathematics and formal logic.
+This is an on going project that seeks to deepen our understanding of formal axiom systems by systematically enumerating simple axiom systems and analyzing their entailment cones. We aim to compute both non-accumulative and accumulative entailment cones through the processes of substitution and co-substitution from various initial conditions. By exploring the structure of proof paths and identifying cycles, we hope to uncover topological insights into the nature of theorem derivation—a central aspect of metamathematics and formal logic.
 
 Through this analysis, the project explores not only the combinatorial properties of axiom systems but also their topological and geometric characteristics, applying concepts from homology and homotopy theory to better understand their proof structures.
 
@@ -34,9 +34,9 @@ In addition to the core objectives outlined, the project also explores:
 -**Proof Typology**: A classification of proof paths, based on their topological features, that may point toward universal properties of axiom systems.
 
 ##Future Directions
--Scaling Up to More Complex Systems: The methods developed in this project can be scaled to more complex axiom systems, potentially yielding new insights into higher-order logical frameworks and their entailment structures.
--Machine Learning Applications: We aim to explore machine learning approaches to predict patterns in entailment cone formation and proof path cycles, using data from our generated graphs.
--Application to Formal Logic Systems: This framework could be applied to formal logic systems in computational theorem proving, allowing for more efficient exploration of large theorem spaces.
+-**Scaling Up to More Complex Systems**: The methods developed in this project can be scaled to more complex axiom systems, potentially yielding new insights into higher-order logical frameworks and their entailment structures.
+-**Machine Learning Applications**: We aim to explore machine learning approaches to predict patterns in entailment cone formation and proof path cycles, using data from our generated graphs.
+-**Application to Formal Logic Systems**: This framework could be applied to formal logic systems in computational theorem proving, allowing for more efficient exploration of large theorem spaces.
 
 ## References
 - Kleene, S.C. (1967). *Mathematical Logic*. Wiley.
