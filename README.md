@@ -1,11 +1,10 @@
-
 # Understanding Axiom Systems through Entailment Cones and Proof Path Analysis
 
 ## Project Overview
 
-This is an on going project that seeks to deepen our understanding of formal axiom systems by systematically enumerating simple axiom systems and analyzing their entailment cones. We aim to compute both non-accumulative and accumulative entailment cones through the processes of substitution and co-substitution from various initial conditions. By exploring the structure of proof paths and identifying cycles, we hope to uncover topological insights into the nature of theorem derivation—a central aspect of metamathematics and formal logic.
+This ongoing project seeks to deepen our understanding of formal axiom systems by systematically enumerating simple axiom systems and analyzing their entailment cones. We aim to compute both non-accumulative and accumulative entailment cones through substitution and co-substitution from various initial conditions. By exploring the structure of proof paths and identifying cycles, we aim to uncover topological insights into the nature of theorem derivation—a central aspect of metamathematics and formal logic.
 
-Through this analysis, the project explores not only the combinatorial properties of axiom systems but also their topological and geometric characteristics, applying concepts from homology and homotopy theory to better understand their proof structures.
+Through this analysis, the project explores not only the combinatorial properties of axiom systems but also their topological and geometric characteristics. Concepts from homology and homotopy theory are applied to better understand their proof structures.
 
 ## Objectives
 - **Enumerate Axiom Systems**: Define and explore different axiom systems using a two-way system with arbitrary rules from A ↔ A to BBB ↔ BBB.
@@ -21,13 +20,13 @@ Through this analysis, the project explores not only the combinatorial propertie
 4. **Cycle Graphs**: Define proofs using cycle graphs and utilize graph unions to map out all possible cycles.
 5. **Homology and Homotopy Theory**: Apply these mathematical methods to analyze the topological features of entailment cones.
 
-##Project Scope Expansion
+## Project Scope Expansion
 
 In addition to the core objectives outlined, the project also explores:
 
--**Proof Path Enumeration**: By enumerating proof paths and analyzing the variations between them, we can better understand the logical flow and possible bottlenecks in theorem derivation.
--**Substitution and Co-substitution**: These operations will be used to generate different entailment cones, with particular attention to how substitutions from different initial conditions lead to varying proof topologies.
--**Typology of Axioms**: Understanding how different types of axioms interact and how their logical consequences differ depending on the initial configuration.
+- **Proof Path Enumeration**: By enumerating proof paths and analyzing the variations between them, we can better understand the logical flow and potential bottlenecks in theorem derivation.
+- **Substitution and Co-substitution**: These operations will be used to generate different entailment cones, with attention to how substitutions from different initial conditions lead to varying proof topologies.
+- **Typology of Axioms**: Understanding how different types of axioms interact and how their logical consequences differ depending on the initial configuration.
 
 ## Expected Outcomes
 
@@ -35,7 +34,7 @@ In addition to the core objectives outlined, the project also explores:
 - **Topological Insights**: Through the application of homology and homotopy theory, we will gain insights into the topological properties of entailment cones, such as identifying critical loops or cycles that play a key role in theorem propagation.
 - **Proof Typology**: A classification of proof paths, based on their topological features, that may point toward universal properties of axiom systems.
 
-##Future Directions
+## Future Directions
 
 - **Scaling Up to More Complex Systems**: The methods developed in this project can be scaled to more complex axiom systems, potentially yielding new insights into higher-order logical frameworks and their entailment structures.
 - **Machine Learning Applications**: We aim to explore machine learning approaches to predict patterns in entailment cone formation and proof path cycles, using data from our generated graphs.
@@ -57,3 +56,4 @@ In addition to the core objectives outlined, the project also explores:
 - **Clone the Repository**: 
   ```sh
   git clone https://github.com/username/Proof-Path-Analysis.git
+
