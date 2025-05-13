@@ -1,59 +1,57 @@
-# Understanding Axiom Systems through Entailment Cones and Proof Path Analysis
+# Entailment Cone Analysis
 
-## Project Overview
+A computational framework for analyzing the logical structure of mathematical knowledge using entailment cones.
 
-This ongoing project seeks to deepen our understanding of formal axiom systems by systematically enumerating simple axiom systems and analyzing their entailment cones. We aim to compute both non-accumulative and accumulative entailment cones through substitution and co-substitution from various initial conditions. By exploring the structure of proof paths and identifying cycles, we aim to uncover topological insights into the nature of theorem derivation—a central aspect of metamathematics and formal logic.
+## Overview
 
-Through this analysis, the project explores not only the combinatorial properties of axiom systems but also their topological and geometric characteristics. Concepts from homology and homotopy theory are applied to better understand their proof structures.
+This project provides tools for analyzing the relationships between mathematical axioms, theorems, and formal systems. It uses graph theory to represent and analyze the structure of mathematical knowledge, with a focus on independence results and logical strength.
 
-## Objectives
-- **Enumerate Axiom Systems**: Define and explore different axiom systems using a two-way system with arbitrary rules from A ↔ A to BBB ↔ BBB.
-- **Compute Entailment Cones**: Utilize substitution and co-substitution to calculate entailment cones from various initial conditions.
-- **Proof Path Analysis**: Use proof path graphs across multiple iterations to generate sample types, identifying cycles through cycle graphs.
-- **Graph Union**: Identify all cycles connected to the base axiom to uncover the structure and typological features of the system.
-- **Topology Analysis**: Apply methods from homology and homotopy theory to understand the topology of entailment cones.
+## Features
 
-## Methodology
-1. **Axiom System Definition**: Start with basic axiom systems and define rules within a two-way system framework.
-2. **Entailment Cone Calculation**: Compute entailment cones using substitution and co-substitution techniques.
-3. **Proof Path Graphs**: Create proof path graphs to explore different iterations and identify cyclic structures.
-4. **Cycle Graphs**: Define proofs using cycle graphs and utilize graph unions to map out all possible cycles.
-5. **Homology and Homotopy Theory**: Apply these mathematical methods to analyze the topological features of entailment cones.
+- **Entailment Graph Construction**: Build graphs representing logical relationships between mathematical statements
+- **Independence Analysis**: Analyze and predict independence results in mathematical logic
+- **Logical Strength Metrics**: Compute metrics for the logical strength of axioms and theorems
+- **Open Problem Analysis**: Analyze open problems and suggest potential resolution approaches
+- **Visualization**: Generate visualizations of logical dependencies and relationships
 
-## Project Scope Expansion
+## Components
 
-In addition to the core objectives outlined, the project also explores:
+- `entailment_theory.py`: Core classes for logical statements and entailment relations
+- `independence_results.py`: Creates entailment graphs with independence results
+- `open_problems_analyzer.py`: Tools for analyzing open problems using entailment cones
+- `logical_metrics.py`: Metrics for measuring logical strength and relationships
+- `structural_analysis.py`: Analysis of structural properties of entailment graphs
+- `analyze_open_problems.py`: Script to analyze famous open problems in mathematical logic
+- `deep_analysis.py`: In-depth analysis of entailment graph structure
 
-- **Proof Path Enumeration**: By enumerating proof paths and analyzing the variations between them, we can better understand the logical flow and potential bottlenecks in theorem derivation.
-- **Substitution and Co-substitution**: These operations will be used to generate different entailment cones, with attention to how substitutions from different initial conditions lead to varying proof topologies.
-- **Typology of Axioms**: Understanding how different types of axioms interact and how their logical consequences differ depending on the initial configuration.
+## Usage
 
-## Expected Outcomes
+To analyze famous open problems:
 
-- **Deeper Understanding of Theorem Derivation**: By examining entailment cones and proof path cycles, we expect to uncover fundamental structures that define how theorems are derived within simple axiom systems. This understanding will contribute to the broader study of metamathematics and formal logic.
-- **Topological Insights**: Through the application of homology and homotopy theory, we will gain insights into the topological properties of entailment cones, such as identifying critical loops or cycles that play a key role in theorem propagation.
-- **Proof Typology**: A classification of proof paths, based on their topological features, that may point toward universal properties of axiom systems.
+```python
+python analyze_open_problems.py
+```
 
-## Future Directions
+This will generate:
+- A comprehensive report in `entailment_output/open_problems_analysis.md`
+- Visualizations of problem dependencies in the `entailment_output` directory
 
-- **Scaling Up to More Complex Systems**: The methods developed in this project can be scaled to more complex axiom systems, potentially yielding new insights into higher-order logical frameworks and their entailment structures.
-- **Machine Learning Applications**: We aim to explore machine learning approaches to predict patterns in entailment cone formation and proof path cycles, using data from our generated graphs.
-- **Application to Formal Logic Systems**: This framework could be applied to formal logic systems in computational theorem proving, allowing for more efficient exploration of large theorem spaces.
+## Research Applications
 
-## References
-- Kleene, S.C. (1967). *Mathematical Logic*. Wiley.
-- Enderton, H.B. (2001). *A Mathematical Introduction to Logic* (2nd ed.). Academic Press.
-- Shoenfield, J.R. (1967). *Mathematical Logic*. Addison-Wesley.
-- Mendelson, E. (2015). *Introduction to Mathematical Logic* (6th ed.). CRC Press.
-- Tarski, A. (1941). *Introduction to Logic and to the Methodology of Deductive Sciences* (4th ed.). Oxford University Press.
-- Smullyan, R.M. (1995). *First-Order Logic*. Dover Publications.
-- Hatcher, A. (2002). *Algebraic Topology*. Cambridge University Press.
-- Spanier, E.H. (1994). *Algebraic Topology*. Springer.
-- Diestel, R. (2017). *Graph Theory* (5th ed.). Springer.
-- West, D.B. (2001). *Introduction to Graph Theory* (2nd ed.). Prentice Hall.
+This framework can be used to:
+1. Identify critical junctures in the logical structure of mathematics
+2. Discover natural divisions in mathematical knowledge
+3. Find economical axiom systems for specific theorems
+4. Predict independence results
+5. Analyze the structure of open problems
 
-## How to Contribute
-- **Clone the Repository**: 
-  ```sh
-  git clone https://github.com/username/Proof-Path-Analysis.git
+## Requirements
 
+- Python 3.7+
+- NetworkX
+- Matplotlib
+- NumPy
+
+## License
+
+[MIT License](LICENSE)
