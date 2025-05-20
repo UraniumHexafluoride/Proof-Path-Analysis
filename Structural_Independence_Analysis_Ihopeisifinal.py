@@ -933,6 +933,240 @@ def generate_enhanced_report(metrics, classifications, neighborhood_metrics, ext
     return report_path
 
 
+def compute_advanced_metrics(G, classifications):
+    """
+    Compute advanced structural metrics that may correlate with independence.
+    
+    Args:
+        G (nx.DiGraph): The entailment graph
+        classifications (dict): Known classifications of theorems
+        
+    Returns:
+        dict: Advanced metrics for each theorem node
+    """
+    advanced_metrics = {}
+    
+    # Get all theorem nodes
+    theorem_nodes = [n for n in G.nodes() if G.nodes[n].get('type') == 'theorem']
+    
+    for node in theorem_nodes:
+        node_metrics = {}
+        
+        # 1. System diversity: number of different formal systems that connect to this theorem
+        predecessors = list(G.predecessors(node))
+        system_predecessors = [p for p in predecessors if G.nodes[p].get('type') == 'system']
+        node_metrics['system_diversity'] = len(system_predecessors)
+        
+        # 2. Independence ratio: ratio of independence edges to total edges for systems
+        independence_edges = sum(1 for _, _, data in G.in_edges(node, data=True) 
+                               if data.get('relation') == 'Independence')
+        proves_edges = sum(1 for _, _, data in G.in_edges(node, data=True) 
+                          if data.get('relation') == 'Proves')
+        total_system_edges = independence_edges + proves_edges
+        node_metrics['independence_ratio'] = independence_edges / total_system_edges if total_system_edges > 0 else 0
+        
+        # 3. Theorem neighborhood similarity: how similar is this theorem to known independent theorems
+        independent_theorems = [t for t in theorem_nodes if classifications.get(t) == 'independent']
+        provable_theorems = [t for t in theorem_nodes if classifications.get(t) == 'provable']
+        
+        # Jaccard similarity with independent theorems
+        if independent_theorems:
+            ind_similarities = []
+            for ind_theorem in independent_theorems:
+                ind_neighbors = set(G.neighbors(ind_theorem))
+                node_neighbors = set(G.neighbors(node))
+                if ind_neighbors or node_neighbors:
+                    similarity = len(ind_neighbors & node_neighbors) / len(ind_neighbors | node_neighbors)
+                    ind_similarities.append(similarity)
+            node_metrics['independent_similarity'] = sum(ind_similarities) / len(ind_similarities) if ind_similarities else 0
+        else:
+            node_metrics['independent_similarity'] = 0
+            
+        # Jaccard similarity with provable theorems
+        if provable_theorems:
+            prov_similarities = []
+            for prov_theorem in provable_theorems:
+                prov_neighbors = set(G.neighbors(prov_theorem))
+                node_neighbors = set(G.neighbors(node))
+                if prov_neighbors or node_neighbors:
+                    similarity = len(prov_neighbors & node_neighbors) / len(prov_neighbors | node_neighbors)
+                    prov_similarities.append(similarity)
+            node_metrics['provable_similarity'] = sum(prov_similarities) / len(prov_similarities) if prov_similarities else 0
+        else:
+            node_metrics['provable_similarity'] = 0
+            
+        # 4. Path diversity: number of distinct paths to this theorem
+        node_metrics['path_diversity'] = 0
+        for system in [n for n in G.nodes() if G.nodes[n].get('type') == 'system']:
+            try:
+                paths = list(nx.all_simple_paths(G, system, node, cutoff=5))
+                node_metrics['path_diversity'] += len(paths)
+            except (nx.NetworkXNoPath, nx.NodeNotFound):
+                continue
+                
+        # 5. Structural balance: ratio of triangles to wedges in neighborhood
+        try:
+            triangles = sum(1 for _ in nx.triangles(G.to_undirected(), [node]).values())
+            neighbors = list(G.successors(node)) + list(G.predecessors(node))
+            possible_triangles = len(neighbors) * (len(neighbors) - 1) // 2
+            node_metrics['structural_balance'] = triangles / possible_triangles if possible_triangles > 0 else 0
+        except:
+            node_metrics['structural_balance'] = 0
+        
+        advanced_metrics[node] = node_metrics
+    
+    return advanced_metrics
+
+def analyze_independence_patterns(G, classifications, metrics, advanced_metrics):
+    """
+    Analyze patterns that distinguish independent from provable theorems.
+    
+    Args:
+        G (nx.DiGraph): The entailment graph
+        classifications (dict): Known classifications of theorems
+        metrics (dict): Basic structural metrics
+        advanced_metrics (dict): Advanced structural metrics
+        
+    Returns:
+        dict: Analysis results
+    """
+    results = {
+        'independent_theorems': [],
+        'provable_theorems': [],
+        'metric_differences': {},
+        'significant_indicators': []
+    }
+    
+    # Separate theorems by classification
+    for node, cls in classifications.items():
+        if G.nodes[node].get('type') == 'theorem':
+            if cls == 'independent':
+                results['independent_theorems'].append(node)
+            elif cls == 'provable':
+                results['provable_theorems'].append(node)
+    
+    # Compare metrics between independent and provable theorems
+    all_metrics = {}
+    for node in G.nodes():
+        if G.nodes[node].get('type') == 'theorem':
+            all_metrics[node] = {
+                **{k: v for k, v in metrics[node].items() if k != 'type'},
+                **advanced_metrics.get(node, {})
+            }
+    
+    # Calculate average metrics for each classification
+    independent_avg = {metric: 0 for metric in all_metrics.get(results['independent_theorems'][0], {})} if results['independent_theorems'] else {}
+    provable_avg = {metric: 0 for metric in all_metrics.get(results['provable_theorems'][0], {})} if results['provable_theorems'] else {}
+    
+    for node in results['independent_theorems']:
+        for metric, value in all_metrics.get(node, {}).items():
+            independent_avg[metric] = independent_avg.get(metric, 0) + value
+    
+    for node in results['provable_theorems']:
+        for metric, value in all_metrics.get(node, {}).items():
+            provable_avg[metric] = provable_avg.get(metric, 0) + value
+    
+    # Calculate averages
+    for metric in independent_avg:
+        independent_avg[metric] /= len(results['independent_theorems']) if results['independent_theorems'] else 1
+    
+    for metric in provable_avg:
+        provable_avg[metric] /= len(results['provable_theorems']) if results['provable_theorems'] else 1
+    
+    # Calculate differences and identify significant indicators
+    for metric in independent_avg:
+        if metric in provable_avg:
+            ind_val = independent_avg[metric]
+            prov_val = provable_avg[metric]
+            diff = ind_val - prov_val
+            results['metric_differences'][metric] = diff
+            
+            # Identify metrics with substantial differences
+            if abs(diff) > 0.1 and max(ind_val, prov_val) > 0:
+                relative_diff = abs(diff) / max(ind_val, prov_val)
+                if relative_diff > 0.2:  # 20% difference threshold
+                    results['significant_indicators'].append({
+                        'metric': metric,
+                        'independent_avg': ind_val,
+                        'provable_avg': prov_val,
+                        'difference': diff,
+                        'relative_difference': relative_diff
+                    })
+    
+    # Sort significant indicators by relative difference
+    results['significant_indicators'].sort(key=lambda x: abs(x['relative_difference']), reverse=True)
+    
+    return results
+
+def generate_independence_patterns_report(patterns, output_path=None):
+    """
+    Generate a report on independence patterns.
+    
+    Args:
+        patterns (dict): Results from analyze_independence_patterns
+        output_path (str, optional): Path to save the report
+        
+    Returns:
+        str: Path to the saved report
+    """
+    if output_path is None:
+        output_path = os.path.join(OUTPUT_DIR, 'independence_patterns_report.md')
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write("# Independence Patterns Analysis\n\n")
+        
+        f.write("## Overview\n\n")
+        f.write(f"This analysis compares {len(patterns['independent_theorems'])} independent theorems ")
+        f.write(f"with {len(patterns['provable_theorems'])} provable theorems to identify structural patterns.\n\n")
+        
+        f.write("## Significant Indicators of Independence\n\n")
+        
+        if patterns['significant_indicators']:
+            f.write("The following metrics show substantial differences between independent and provable theorems:\n\n")
+            f.write("| Metric | Independent Avg | Provable Avg | Difference | Relative Difference |\n")
+            f.write("|--------|----------------|--------------|------------|--------------------|\n")
+            
+            for indicator in patterns['significant_indicators']:
+                f.write(f"| {indicator['metric']} | {indicator['independent_avg']:.4f} | ")
+                f.write(f"{indicator['provable_avg']:.4f} | {indicator['difference']:.4f} | ")
+                f.write(f"{indicator['relative_difference']:.2%} |\n")
+        else:
+            f.write("No significant indicators were found. This may be due to insufficient data or lack of clear patterns.\n")
+        
+        f.write("\n## Interpretation\n\n")
+        
+        if patterns['significant_indicators']:
+            top_indicator = patterns['significant_indicators'][0]
+            metric_name = top_indicator['metric']
+            
+            f.write(f"The most significant indicator is **{metric_name}**, where ")
+            
+            if top_indicator['difference'] > 0:
+                f.write(f"independent theorems have a {top_indicator['relative_difference']:.2%} higher value than provable theorems.\n\n")
+            else:
+                f.write(f"provable theorems have a {abs(top_indicator['relative_difference']):.2%} higher value than independent theorems.\n\n")
+            
+            # Add interpretations for common metrics
+            if metric_name == 'betweenness_centrality':
+                f.write("Higher betweenness centrality for independent theorems suggests they act as bridges between different areas of mathematics.\n")
+            elif metric_name == 'pagerank':
+                f.write("Higher PageRank for independent theorems suggests they are more central to the mathematical landscape despite being unprovable.\n")
+            elif metric_name == 'system_diversity':
+                f.write("Higher system diversity for independent theorems suggests they connect to more diverse formal systems.\n")
+            elif metric_name == 'independence_ratio':
+                f.write("Higher independence ratio indicates that theorems with more independence relationships tend to be independent themselves.\n")
+            elif metric_name == 'path_diversity':
+                f.write("Higher path diversity suggests that independent theorems have more complex relationships with formal systems.\n")
+        
+        f.write("\n## Recommendations\n\n")
+        f.write("Based on this analysis, we recommend:\n\n")
+        f.write("1. Using these indicators to develop a predictive model for independence\n")
+        f.write("2. Expanding the dataset with more theorems to strengthen the statistical significance\n")
+        f.write("3. Investigating the causal relationships behind these correlations\n")
+    
+    return output_path
+
+
 def main():
     """
     Main function to run the complete structural independence analysis.
@@ -978,12 +1212,22 @@ def main():
     enhanced_report_path = generate_enhanced_report(metrics, classifications, 
                                                   neighborhood_metrics, extended_metrics)
     
+    print("\nComputing advanced metrics...")
+    advanced_metrics = compute_advanced_metrics(G, classifications)
+    
+    print("\nAnalyzing independence patterns...")
+    patterns = analyze_independence_patterns(G, classifications, metrics, advanced_metrics)
+    
+    print("\nGenerating independence patterns report...")
+    patterns_report_path = generate_independence_patterns_report(patterns)
+    
     print(f"\nAnalysis complete! Results saved to:")
     print(f"  Structural Analysis Report: {report_path}")
     print(f"  Centrality Visualizations: {viz_path}")
     print(f"  Network Structure Visualization: {network_viz_path}")
     print(f"  Logical Strength Analysis: {strength_report_path}")
     print(f"  Enhanced Report: {enhanced_report_path}")
+    print(f"  Independence Patterns Report: {patterns_report_path}")
 
 
 if __name__ == "__main__":
