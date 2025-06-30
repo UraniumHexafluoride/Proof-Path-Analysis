@@ -1,0 +1,260 @@
+2025-06-23 01:19:59,700 - __main__ - INFO - Processing source: wikipedia
+2025-06-23 01:19:59,701 - __main__ - INFO - Items to process: 5
+2025-06-23 01:19:59,701 - __main__ - INFO - Categories to process: 5
+2025-06-23 01:20:04,452 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's Theorem' (proves) in paragraph.
+2025-06-23 01:20:04,873 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's theorem' (proves) in paragraph.
+2025-06-23 01:20:06,834 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Fermat's right triangle theorem' (uses) in paragraph.
+2025-06-23 01:20:13,575 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-23 01:20:14,020 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-23 01:20:14,823 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's theorem' (proves) in paragraph.
+2025-06-23 01:20:15,049 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Epsilon conjecture' (proves) in paragraph.
+2025-06-23 01:20:15,050 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-23 01:20:17,808 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Catalan conjecture' (generalizes) in paragraph.
+2025-06-23 01:20:21,571 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem with 10 relationships.
+2025-06-23 01:20:45,843 - __main__ - INFO - ✓ Successfully scraped: Gödel's incompleteness theorems with 1 relationships.
+2025-06-23 01:21:06,809 - __main__ - INFO - ✓ Successfully scraped: Axiom of choice with 0 relationships.
+2025-06-23 01:21:16,659 - __main__ - INFO - ✓ Successfully scraped: Continuum hypothesis with 0 relationships.
+2025-06-23 01:21:55,940 - __main__ - INFO - ✓ Successfully scraped: Riemann hypothesis with 0 relationships.
+2025-06-23 01:21:56,043 - __main__ - INFO - Fetching theorems from category: Theorems in logic
+2025-06-23 01:21:56,387 - __main__ - ERROR - Network error fetching category 'Theorems in logic': 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Category:Theorems_in_logic
+2025-06-23 01:21:56,387 - __main__ - INFO - No new theorems found in 'Theorems in logic'.
+2025-06-23 01:21:56,388 - __main__ - INFO - Fetching theorems from category: Theorems in number theory
+2025-06-23 01:21:56,614 - __main__ - INFO - ✓ Found 111 new theorems in 'Theorems in number theory'.
+2025-06-23 01:21:56,615 - __main__ - INFO - Fetching theorems from category: Theorems in geometry
+2025-06-23 01:21:56,955 - __main__ - INFO - ✓ Found 48 new theorems in 'Theorems in geometry'.
+2025-06-23 01:21:56,956 - __main__ - INFO - Fetching theorems from category: Theorems in abstract algebra
+2025-06-23 01:21:57,304 - __main__ - INFO - ✓ Found 23 new theorems in 'Theorems in abstract algebra'.
+2025-06-23 01:21:57,304 - __main__ - INFO - Fetching theorems from category: Theorems in analysis
+2025-06-23 01:21:57,676 - __main__ - ERROR - Network error fetching category 'Theorems in analysis': 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Category:Theorems_in_analysis
+2025-06-23 01:21:57,677 - __main__ - INFO - No new theorems found in 'Theorems in analysis'.
+2025-06-23 01:21:57,984 - __main__ - INFO - ✓ Successfully scraped discovered item: Converse theorem
+2025-06-23 01:21:59,488 - __main__ - INFO - ✓ Successfully scraped discovered item: Lochs's theorem
+2025-06-23 01:21:59,911 - __main__ - INFO - ✓ Successfully scraped discovered item: Fundamental theorem on homomorphisms
+2025-06-23 01:22:03,303 - __main__ - INFO - ✓ Successfully scraped discovered item: Apéry's theorem
+2025-06-23 01:22:05,050 - __main__ - INFO - ✓ Successfully scraped discovered item: Fold-and-cut theorem
+2025-06-23 01:22:05,430 - __main__ - INFO - ✓ Successfully scraped discovered item: Thom conjecture
+2025-06-23 01:22:06,310 - __main__ - INFO - ✓ Successfully scraped discovered item: Mahler's compactness theorem
+2025-06-23 01:22:08,607 - __main__ - INFO - ✓ Successfully scraped discovered item: Schauenburg–Ng theorem
+2025-06-23 01:22:09,007 - __main__ - INFO - ✓ Successfully scraped discovered item: Eichler–Shimura congruence relation
+2025-06-23 01:22:19,740 - __main__ - INFO - ✓ Successfully scraped discovered item: Algebraic number field
+2025-06-23 01:22:20,162 - __main__ - INFO - ✓ Successfully scraped discovered item: Szemerédi's theorem
+2025-06-23 01:22:24,251 - __main__ - INFO - ✓ Successfully scraped discovered item: Three-gap theorem
+2025-06-23 01:22:28,554 - __main__ - INFO - Found valid relationship: 'Lambek–Moser theorem' -> 'Beatty sequence' (proves) in paragraph.
+2025-06-23 01:22:30,924 - __main__ - INFO - Found valid relationship: 'Lambek–Moser theorem' -> 'Beatty sequence' (implies) in paragraph.
+2025-06-23 01:22:31,470 - __main__ - INFO - Found valid relationship: 'Lambek–Moser theorem' -> 'Beatty sequence' (implies) in paragraph.
+2025-06-23 01:22:31,471 - __main__ - INFO - ✓ Successfully scraped discovered item: Lambek–Moser theorem
+2025-06-23 01:22:31,918 - __main__ - INFO - ✓ Successfully scraped discovered item: Mestre bound
+2025-06-23 01:22:33,609 - __main__ - INFO - Found valid relationship: 'Freiman's theorem' -> 'Minkowski's theorem' (proves) in paragraph.
+2025-06-23 01:22:33,866 - __main__ - INFO - ✓ Successfully scraped discovered item: Freiman's theorem
+2025-06-23 01:22:34,179 - __main__ - INFO - ✓ Successfully scraped discovered item: Jacobi's four-square theorem
+2025-06-23 01:22:35,012 - __main__ - INFO - Found valid relationship: 'Roth's theorem' -> 'Subspace theorem' (uses) in paragraph.
+2025-06-23 01:22:36,141 - __main__ - INFO - ✓ Successfully scraped discovered item: Roth's theorem
+2025-06-23 01:22:36,568 - __main__ - INFO - ✓ Successfully scraped discovered item: Skolem–Mahler–Lech theorem
+2025-06-23 01:22:38,763 - __main__ - INFO - ✓ Successfully scraped discovered item: Eckmann–Hilton argument
+2025-06-23 01:22:39,443 - __main__ - INFO - Found valid relationship: 'Tijdeman's theorem' -> 'Catalan's conjecture' (proves) in paragraph.
+2025-06-23 01:22:40,058 - __main__ - INFO - Found valid relationship: 'Tijdeman's theorem' -> 'Mihăilescu's theorem' (proves) in paragraph.
+2025-06-23 01:22:40,059 - __main__ - INFO - ✓ Successfully scraped discovered item: Tijdeman's theorem
+2025-06-23 01:22:40,475 - __main__ - INFO - ✓ Successfully scraped discovered item: Hasse–Minkowski theorem
+2025-06-23 01:22:41,006 - __main__ - INFO - ✓ Successfully scraped discovered item: Marsaglia's theorem
+2025-06-23 01:22:41,449 - __main__ - INFO - ✓ Successfully scraped discovered item: Thomae's formula
+2025-06-23 01:22:42,607 - __main__ - INFO - Found valid relationship: 'Modularity theorem' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-23 01:22:42,607 - __main__ - INFO - Found valid relationship: 'Modularity theorem' -> 'Epsilon conjecture' (proves) in paragraph.
+2025-06-23 01:22:45,961 - __main__ - INFO - Found valid relationship: 'Modularity theorem' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-23 01:22:46,405 - __main__ - INFO - ✓ Successfully scraped discovered item: Modularity theorem
+2025-06-23 01:22:46,754 - __main__ - INFO - ✓ Successfully scraped discovered item: Skoda–El Mir theorem
+2025-06-23 01:22:47,164 - __main__ - INFO - ✓ Successfully scraped discovered item: Local trace formula
+2025-06-23 01:22:47,951 - __main__ - INFO - Found valid relationship: 'Dirichlet's approximation theorem' -> 'Thue–Siegel–Roth theorem' (uses) in paragraph.
+2025-06-23 01:22:47,952 - __main__ - INFO - Found valid relationship: 'Dirichlet's approximation theorem' -> 'Minkowski's theorem' (proves) in paragraph.
+2025-06-23 01:22:47,952 - __main__ - INFO - Found valid relationship: 'Dirichlet's approximation theorem' -> 'Minkowski's theorem' (proves) in paragraph.
+2025-06-23 01:22:47,954 - __main__ - INFO - ✓ Successfully scraped discovered item: Dirichlet's approximation theorem
+2025-06-23 01:22:49,361 - __main__ - INFO - ✓ Successfully scraped discovered item: Chow–Rashevskii theorem
+2025-06-23 01:22:50,087 - __main__ - INFO - Found valid relationship: 'Jacobi triple product' -> 'Pentagonal number theorem' (uses) in paragraph.
+2025-06-23 01:22:50,368 - __main__ - INFO - ✓ Successfully scraped discovered item: Jacobi triple product
+2025-06-23 01:22:53,477 - __main__ - INFO - ✓ Successfully scraped discovered item: Six exponentials theorem
+2025-06-23 01:22:57,028 - __main__ - INFO - ✓ Successfully scraped discovered item: Artin–Verdier duality
+2025-06-23 01:22:57,424 - __main__ - INFO - ✓ Successfully scraped discovered item: Katz–Lang finiteness theorem
+2025-06-23 01:23:00,749 - __main__ - INFO - ✓ Successfully scraped discovered item: Dedekind–Kummer theorem
+2025-06-23 01:23:01,825 - __main__ - INFO - Found valid relationship: 'Thue equation' -> 'Thue-Siegel-Roth theorem' (proves) in paragraph.
+2025-06-23 01:23:05,010 - __main__ - INFO - ✓ Successfully scraped discovered item: Thue equation
+2025-06-23 01:23:05,471 - __main__ - INFO - ✓ Successfully scraped discovered item: Kummer's theorem
+2025-06-23 01:23:06,030 - __main__ - INFO - ✓ Successfully scraped discovered item: Davenport–Erdős theorem
+2025-06-23 01:23:06,427 - __main__ - INFO - ✓ Successfully scraped discovered item: Jørgensen's inequality
+2025-06-23 01:23:08,704 - __main__ - INFO - Found valid relationship: 'Schneider–Lang theorem' -> 'Hermite–Lindemann theorem' (implies) in paragraph.
+2025-06-23 01:23:08,953 - __main__ - INFO - Found valid relationship: 'Schneider–Lang theorem' -> 'Gelfond–Schneider theorem' (implies) in paragraph.
+2025-06-23 01:23:10,089 - __main__ - INFO - ✓ Successfully scraped discovered item: Schneider–Lang theorem
+2025-06-23 01:23:10,571 - __main__ - INFO - ✓ Successfully scraped discovered item: Soddy's hexlet
+2025-06-23 01:23:11,150 - __main__ - INFO - ✓ Successfully scraped discovered item: Pappus's centroid theorem
+2025-06-23 01:23:11,582 - __main__ - INFO - ✓ Successfully scraped discovered item: Murakami–Yano formula
+2025-06-23 01:23:13,996 - __main__ - INFO - ✓ Successfully scraped discovered item: Quartic reciprocity
+2025-06-23 01:23:14,426 - __main__ - INFO - ✓ Successfully scraped discovered item: Steinitz's theorem (field theory)
+2025-06-23 01:23:15,191 - __main__ - INFO - ✓ Successfully scraped discovered item: Hurwitz's theorem (number theory)
+2025-06-23 01:23:22,503 - __main__ - INFO - ✓ Successfully scraped discovered item: Euclidean division
+2025-06-23 01:23:22,924 - __main__ - INFO - ✓ Successfully scraped discovered item: Davenport–Schmidt theorem
+2025-06-23 01:23:23,950 - __main__ - INFO - ✓ Successfully scraped discovered item: Lindemann–Weierstrass theorem
+2025-06-23 01:23:24,325 - __main__ - INFO - ✓ Successfully scraped discovered item: Chowla–Mordell theorem
+2025-06-23 01:23:24,760 - __main__ - INFO - ✓ Successfully scraped discovered item: Shimura's reciprocity law
+2025-06-23 01:23:36,364 - __main__ - INFO - ✓ Successfully scraped discovered item: Riemannian Penrose inequality
+2025-06-23 01:23:36,849 - __main__ - INFO - ✓ Successfully scraped discovered item: Romanov's theorem
+2025-06-23 01:23:37,676 - __main__ - INFO - ✓ Successfully scraped discovered item: Local criterion for flatness
+2025-06-23 01:23:44,171 - __main__ - INFO - ✓ Successfully scraped discovered item: Structure theorem for finitely generated modules over a principal ideal domain
+2025-06-23 01:23:44,613 - __main__ - INFO - ✓ Successfully scraped discovered item: Tunnell's theorem
+2025-06-23 01:23:55,781 - __main__ - INFO - ✓ Successfully scraped discovered item: Weil conjectures
+2025-06-23 01:23:58,100 - __main__ - INFO - ✓ Successfully scraped discovered item: Faltings' product theorem
+2025-06-23 01:24:01,490 - __main__ - INFO - ✓ Successfully scraped discovered item: Equidistribution theorem
+2025-06-23 01:24:01,940 - __main__ - INFO - ✓ Successfully scraped discovered item: Von Staudt–Clausen theorem
+2025-06-23 01:24:03,040 - __main__ - INFO - Found valid relationship: 'Schnirelmann density' -> 'Lagrange's four-square theorem' (implies) in paragraph.
+2025-06-23 01:24:04,172 - __main__ - INFO - ✓ Successfully scraped discovered item: Schnirelmann density
+2025-06-23 01:24:07,913 - __main__ - INFO - ✓ Successfully scraped discovered item: Hyperbolization theorem
+2025-06-23 01:24:11,753 - __main__ - INFO - ✓ Successfully scraped discovered item: Quillen–Suslin theorem
+2025-06-23 01:24:12,227 - __main__ - INFO - ✓ Successfully scraped discovered item: Dold–Kan correspondence
+2025-06-23 01:24:12,867 - __main__ - INFO - ✓ Successfully scraped discovered item: Birch's theorem
+2025-06-23 01:24:16,025 - __main__ - INFO - Found valid relationship: 'Fermat's right triangle theorem' -> 'Congruum' (proves) in paragraph.
+2025-06-23 01:24:18,854 - __main__ - INFO - Found valid relationship: 'Fermat's right triangle theorem' -> 'Fermat's Last Theorem' (implies) in paragraph.
+2025-06-23 01:24:19,946 - __main__ - INFO - Found valid relationship: 'Fermat's right triangle theorem' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-23 01:24:20,229 - __main__ - INFO - ✓ Successfully scraped discovered item: Fermat's right triangle theorem
+2025-06-23 01:24:24,397 - __main__ - INFO - Found valid relationship: 'Minkowski's theorem' -> 'Blichfeldt's theorem' (proves) in paragraph.
+2025-06-23 01:24:24,607 - __main__ - INFO - ✓ Successfully scraped discovered item: Minkowski's theorem
+2025-06-23 01:24:25,008 - __main__ - INFO - ✓ Successfully scraped discovered item: Latimer–MacDuffee theorem
+2025-06-23 01:24:26,054 - __main__ - INFO - ✓ Successfully scraped discovered item: Almost flat manifold
+2025-06-23 01:24:34,841 - __main__ - INFO - ✓ Successfully scraped discovered item: Principal axis theorem
+2025-06-23 01:24:37,531 - __main__ - INFO - ✓ Successfully scraped discovered item: Glaisher's theorem
+2025-06-23 01:24:39,268 - __main__ - INFO - Found valid relationship: 'Double limit theorem' -> 'Hyperbolization theorem' (proves) in paragraph.
+2025-06-23 01:24:39,828 - __main__ - INFO - ✓ Successfully scraped discovered item: Double limit theorem
+2025-06-23 01:24:41,307 - __main__ - INFO - ✓ Successfully scraped discovered item: Catalan's conjecture
+2025-06-23 01:24:42,988 - __main__ - INFO - ✓ Successfully scraped discovered item: Almgren regularity theorem
+2025-06-23 01:24:43,327 - __main__ - INFO - ✓ Successfully scraped discovered item: Bernstein–Kushnirenko theorem
+2025-06-23 01:24:43,741 - __main__ - INFO - ✓ Successfully scraped discovered item: Minkowski–Hlawka theorem
+2025-06-23 01:24:44,106 - __main__ - INFO - ✓ Successfully scraped discovered item: Lickorish–Wallace theorem
+2025-06-23 01:24:44,594 - __main__ - INFO - ✓ Successfully scraped discovered item: Kronecker's congruence
+2025-06-23 01:24:45,667 - __main__ - INFO - ✓ Successfully scraped discovered item: Blichfeldt's theorem
+2025-06-23 01:24:46,071 - __main__ - INFO - Found valid relationship: 'Ribet's theorem' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-23 01:24:46,639 - __main__ - INFO - Found valid relationship: 'Ribet's theorem' -> 'Taniyama–Shimura conjecture' (proves) in paragraph.
+2025-06-23 01:24:46,996 - __main__ - INFO - Found valid relationship: 'Ribet's theorem' -> 'Modularity theorem' (implies) in paragraph.
+2025-06-23 01:24:48,530 - __main__ - INFO - Found valid relationship: 'Ribet's theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-23 01:24:48,531 - __main__ - INFO - ✓ Successfully scraped discovered item: Ribet's theorem
+2025-06-23 01:24:49,425 - __main__ - INFO - Found valid relationship: 'Zsigmondy's theorem' -> 'Carmichael's theorem' (implies) in paragraph.
+2025-06-23 01:24:53,077 - __main__ - INFO - ✓ Successfully scraped discovered item: Zsigmondy's theorem
+2025-06-23 01:24:54,321 - __main__ - INFO - ✓ Successfully scraped discovered item: Dodecahedral conjecture
+2025-06-23 01:24:54,716 - __main__ - INFO - ✓ Successfully scraped discovered item: Campbell's theorem (geometry)
+2025-06-23 01:24:55,799 - __main__ - INFO - Found valid relationship: 'Siegel's theorem on integral points' -> 'Subspace theorem' (uses) in paragraph.
+2025-06-23 01:24:55,800 - __main__ - INFO - ✓ Successfully scraped discovered item: Siegel's theorem on integral points
+2025-06-23 01:24:56,217 - __main__ - INFO - ✓ Successfully scraped discovered item: Andreotti–Grauert theorem
+2025-06-23 01:24:59,816 - __main__ - INFO - ✓ Successfully scraped discovered item: Ax–Kochen theorem
+2025-06-23 01:25:01,355 - __main__ - INFO - ✓ Successfully scraped discovered item: Diophantine set
+2025-06-23 01:25:02,674 - __main__ - INFO - Found valid relationship: 'Roth's theorem on arithmetic progressions' -> 'Additive combinatorics' (special_case_of) in paragraph.
+2025-06-23 01:25:03,574 - __main__ - INFO - Found valid relationship: 'Roth's theorem on arithmetic progressions' -> 'Szemerédi's theorem' (special_case_of) in paragraph.
+2025-06-23 01:25:04,151 - __main__ - INFO - ✓ Successfully scraped discovered item: Roth's theorem on arithmetic progressions
+2025-06-23 01:25:04,553 - __main__ - INFO - ✓ Successfully scraped discovered item: Chowla–Selberg formula
+2025-06-23 01:25:07,536 - __main__ - INFO - ✓ Successfully scraped discovered item: Faltings's theorem
+2025-06-23 01:25:07,981 - __main__ - INFO - Found valid relationship: '15 and 290 theorems' -> 'Lagrange's four-square theorem' (proves) in paragraph.
+2025-06-23 01:25:07,982 - __main__ - INFO - ✓ Successfully scraped discovered item: 15 and 290 theorems
+2025-06-23 01:25:09,183 - __main__ - INFO - ✓ Successfully scraped discovered item: Analytic subgroup theorem
+2025-06-23 01:25:09,613 - __main__ - INFO - ✓ Successfully scraped discovered item: Strassmann's theorem
+2025-06-23 01:25:10,905 - __main__ - INFO - Found valid relationship: 'Lagrange's four-square theorem' -> 'Fermat polygonal number theorem' (special_case_of) in paragraph.
+2025-06-23 01:25:13,467 - __main__ - INFO - Found valid relationship: 'Lagrange's four-square theorem' -> 'Fermat polygonal number theorem' (special_case_of) in paragraph.
+2025-06-23 01:25:13,803 - __main__ - INFO - ✓ Successfully scraped discovered item: Lagrange's four-square theorem
+2025-06-23 01:25:14,213 - __main__ - INFO - ✓ Successfully scraped discovered item: Brokard's theorem
+2025-06-23 01:25:14,583 - __main__ - INFO - ✓ Successfully scraped discovered item: Abhyankar's lemma
+2025-06-23 01:25:15,344 - __main__ - INFO - ✓ Successfully scraped discovered item: Segal's conjecture
+2025-06-23 01:25:15,736 - __main__ - INFO - ✓ Successfully scraped discovered item: 2π theorem
+2025-06-23 01:25:16,573 - __main__ - INFO - Found valid relationship: 'Beatty sequence' -> 'Lambek–Moser theorem' (generalizes) in paragraph.
+2025-06-23 01:25:16,574 - __main__ - INFO - ✓ Successfully scraped discovered item: Beatty sequence
+2025-06-23 01:25:19,957 - __main__ - INFO - Found valid relationship: 'Quadratic reciprocity' -> 'Quartic reciprocity' (proves) in paragraph.
+2025-06-23 01:25:20,375 - __main__ - INFO - Found valid relationship: 'Quadratic reciprocity' -> 'Quartic reciprocity' (proves) in paragraph.
+2025-06-23 01:25:21,288 - __main__ - INFO - ✓ Successfully scraped discovered item: Quadratic reciprocity
+2025-06-23 01:25:21,686 - __main__ - INFO - ✓ Successfully scraped discovered item: Kaplansky's theorem on quadratic forms
+2025-06-23 01:25:27,462 - __main__ - INFO - ✓ Successfully scraped discovered item: Primitive element theorem
+2025-06-23 01:25:28,235 - __main__ - INFO - ✓ Successfully scraped discovered item: Cubic reciprocity
+2025-06-23 01:25:28,885 - __main__ - INFO - ✓ Successfully scraped discovered item: Non-squeezing theorem
+2025-06-23 01:25:29,217 - __main__ - INFO - ✓ Successfully scraped discovered item: Lamé's theorem
+2025-06-23 01:25:39,428 - __main__ - INFO - ✓ Successfully scraped discovered item: Chinese remainder theorem
+2025-06-23 01:25:39,819 - __main__ - INFO - ✓ Successfully scraped discovered item: Generic flatness
+2025-06-23 01:25:41,229 - __main__ - INFO - ✓ Successfully scraped discovered item: Turán–Kubilius inequality
+2025-06-23 01:25:43,159 - __main__ - INFO - ✓ Successfully scraped discovered item: Pentagonal number theorem
+2025-06-23 01:25:43,592 - __main__ - INFO - ✓ Successfully scraped discovered item: Castelnuovo's contraction theorem
+2025-06-23 01:25:43,887 - __main__ - INFO - ✓ Successfully scraped discovered item: Subspace theorem
+2025-06-23 01:25:44,291 - __main__ - INFO - ✓ Successfully scraped discovered item: Reshetnyak gluing theorem
+2025-06-23 01:25:45,129 - __main__ - INFO - ✓ Successfully scraped discovered item: Spherical law of cosines
+2025-06-23 01:25:45,542 - __main__ - INFO - ✓ Successfully scraped discovered item: Kummer's congruence
+2025-06-23 01:25:45,924 - __main__ - INFO - ✓ Successfully scraped discovered item: Siegel–Weil formula
+2025-06-23 01:25:46,320 - __main__ - INFO - ✓ Successfully scraped discovered item: Whitehead's lemma
+2025-06-23 01:25:46,734 - __main__ - INFO - ✓ Successfully scraped discovered item: Quintuple product identity
+2025-06-23 01:25:47,732 - __main__ - INFO - ✓ Successfully scraped discovered item: Zeckendorf's theorem
+2025-06-23 01:25:48,134 - __main__ - INFO - ✓ Successfully scraped discovered item: Brumer bound
+2025-06-23 01:25:52,132 - __main__ - INFO - ✓ Successfully scraped discovered item: Euclid–Euler theorem
+2025-06-23 01:25:52,436 - __main__ - INFO - ✓ Successfully scraped discovered item: Nagell–Lutz theorem
+2025-06-23 01:25:52,856 - __main__ - INFO - ✓ Successfully scraped discovered item: Lehmer's conjecture
+2025-06-23 01:25:53,251 - __main__ - INFO - ✓ Successfully scraped discovered item: Castelnuovo–de Franchis theorem
+2025-06-23 01:25:53,552 - __main__ - INFO - Found valid relationship: 'Congruum' -> 'Fermat's right triangle theorem' (proves) in paragraph.
+2025-06-23 01:25:53,553 - __main__ - INFO - ✓ Successfully scraped discovered item: Congruum
+2025-06-23 01:25:54,605 - __main__ - INFO - Found valid relationship: 'Sum of two squares theorem' -> 'Jacobi triple product' (uses) in paragraph.
+2025-06-23 01:25:54,606 - __main__ - INFO - ✓ Successfully scraped discovered item: Sum of two squares theorem
+2025-06-23 01:25:54,918 - __main__ - INFO - ✓ Successfully scraped discovered item: Yau's conjecture
+2025-06-23 01:25:55,325 - __main__ - INFO - ✓ Successfully scraped discovered item: Torsion conjecture
+2025-06-23 01:25:55,720 - __main__ - INFO - ✓ Successfully scraped discovered item: Petersen–Morley theorem
+2025-06-23 01:25:56,597 - __main__ - INFO - ✓ Successfully scraped discovered item: Joubert's theorem
+2025-06-23 01:25:58,756 - __main__ - INFO - ✓ Successfully scraped discovered item: Ramanujan's congruences
+2025-06-23 01:26:02,711 - __main__ - INFO - ✓ Successfully scraped discovered item: Moessner's theorem
+2025-06-23 01:26:03,016 - __main__ - INFO - ✓ Successfully scraped discovered item: Anderson's theorem
+2025-06-23 01:26:08,633 - __main__ - INFO - ✓ Successfully scraped discovered item: Triangle inequality
+2025-06-23 01:26:11,553 - __main__ - INFO - ✓ Successfully scraped discovered item: Størmer's theorem
+2025-06-23 01:26:12,154 - __main__ - INFO - Found valid relationship: 'Schnirelmann density' -> 'Lagrange's four-square theorem' (implies) in paragraph.
+2025-06-23 01:26:12,156 - __main__ - INFO - ✓ Successfully scraped discovered item: Schnirelmann density
+2025-06-23 01:26:12,559 - __main__ - INFO - ✓ Successfully scraped discovered item: Waldspurger's theorem
+2025-06-23 01:26:12,960 - __main__ - INFO - ✓ Successfully scraped discovered item: Meyer's theorem
+2025-06-23 01:26:13,257 - __main__ - INFO - ✓ Successfully scraped discovered item: Carmichael's theorem
+2025-06-23 01:26:13,648 - __main__ - INFO - ✓ Successfully scraped discovered item: Midy's theorem
+2025-06-23 01:26:14,134 - __main__ - INFO - ✓ Successfully scraped discovered item: Beckman–Quarles theorem
+2025-06-23 01:26:14,987 - __main__ - INFO - Found valid relationship: 'Legendre's three-square theorem' -> 'Eureka theorem' (proves) in paragraph.
+2025-06-23 01:26:15,736 - __main__ - INFO - Found valid relationship: 'Legendre's three-square theorem' -> 'Lagrange's four-square theorem' (proves) in paragraph.
+2025-06-23 01:26:15,737 - __main__ - INFO - ✓ Successfully scraped discovered item: Legendre's three-square theorem
+2025-06-23 01:26:28,761 - __main__ - INFO - ✓ Successfully scraped discovered item: Shapley–Folkman lemma
+2025-06-23 01:26:29,211 - __main__ - INFO - ✓ Successfully scraped discovered item: Abhyankar's conjecture
+2025-06-23 01:26:32,590 - __main__ - INFO - ✓ Successfully scraped discovered item: Baker's theorem
+2025-06-23 01:26:33,052 - __main__ - INFO - ✓ Successfully scraped discovered item: Commandino's theorem
+2025-06-23 01:26:33,517 - __main__ - INFO - ✓ Successfully scraped discovered item: Minkowski's second theorem
+2025-06-23 01:26:33,844 - __main__ - INFO - ✓ Successfully scraped discovered item: Hilbert's irreducibility theorem
+2025-06-23 01:26:34,177 - __main__ - INFO - ✓ Successfully scraped discovered item: Catalan's conjecture
+2025-06-23 01:26:34,750 - __main__ - INFO - ✓ Successfully scraped discovered item: Brauer's theorem on forms
+2025-06-23 01:26:39,317 - __main__ - INFO - ✓ Successfully scraped discovered item: Dimension theorem for vector spaces
+2025-06-23 01:26:39,731 - __main__ - INFO - ✓ Successfully scraped discovered item: Bang's theorem on tetrahedra
+2025-06-23 01:26:42,037 - __main__ - INFO - ✓ Successfully scraped discovered item: Gram–Euler theorem
+2025-06-23 01:26:42,406 - __main__ - INFO - ✓ Successfully scraped discovered item: Cartan's theorem
+2025-06-23 01:26:42,853 - __main__ - INFO - ✓ Successfully scraped discovered item: Proizvolov's identity
+2025-06-23 01:26:45,657 - __main__ - INFO - ✓ Successfully scraped discovered item: Fundamental lemma (Langlands program)
+2025-06-23 01:26:46,196 - __main__ - INFO - ✓ Successfully scraped discovered item: Ultraparallel theorem
+2025-06-23 01:26:46,639 - __main__ - INFO - ✓ Successfully scraped discovered item: Jung's theorem
+2025-06-23 01:26:47,054 - __main__ - INFO - ✓ Successfully scraped discovered item: Multiplicity-one theorem
+2025-06-23 01:26:47,361 - __main__ - INFO - Found valid relationship: 'Fermat polygonal number theorem' -> 'Lagrange's four-square theorem' (proves) in paragraph.
+2025-06-23 01:26:48,814 - __main__ - INFO - ✓ Successfully scraped discovered item: Fermat polygonal number theorem
+2025-06-23 01:26:49,263 - __main__ - INFO - ✓ Successfully scraped discovered item: Erdős–Graham problem
+2025-06-23 01:26:49,651 - __main__ - INFO - ✓ Successfully scraped discovered item: Manin–Drinfeld theorem
+2025-06-23 01:26:50,040 - __main__ - INFO - ✓ Successfully scraped discovered item: Eisenstein's theorem
+2025-06-23 01:26:52,830 - __main__ - INFO - ✓ Successfully scraped discovered item: Gabriel–Popescu theorem
+2025-06-23 01:26:55,115 - __main__ - INFO - ✓ Successfully scraped discovered item: Euler's theorem
+2025-06-23 01:26:55,492 - __main__ - INFO - ✓ Successfully scraped discovered item: Isomorphism extension theorem
+2025-06-23 01:26:56,832 - __main__ - INFO - Found valid relationship: 'Fermat's theorem on sums of two squares' -> 'Sum of two squares theorem' (implies) in paragraph.
+2025-06-23 01:27:00,508 - __main__ - INFO - Found valid relationship: 'Fermat's theorem on sums of two squares' -> 'Law of quadratic reciprocity' (special_case_of) in paragraph.
+2025-06-23 01:27:04,032 - __main__ - INFO - Found valid relationship: 'Fermat's theorem on sums of two squares' -> 'Minkowski's theorem' (proves) in paragraph.
+2025-06-23 01:27:08,852 - __main__ - INFO - ✓ Successfully scraped discovered item: Fermat's theorem on sums of two squares
+2025-06-23 01:27:16,228 - __main__ - INFO - ✓ Successfully scraped discovered item: Euler's rotation theorem
+2025-06-23 01:27:16,640 - __main__ - INFO - ✓ Successfully scraped discovered item: Collage theorem
+2025-06-23 01:27:17,042 - __main__ - INFO - ✓ Successfully scraped discovered item: Sophie Germain's theorem
+2025-06-23 01:27:20,514 - __main__ - INFO - ✓ Successfully scraped discovered item: De Gua's theorem
+2025-06-23 01:27:21,038 - __main__ - INFO - ✓ Successfully scraped discovered item: Abhyankar's inequality
+2025-06-23 01:27:23,797 - __main__ - INFO - ✓ Successfully scraped discovered item: Wiener–Ikehara theorem
+2025-06-23 01:27:26,969 - __main__ - INFO - ✓ Successfully scraped discovered item: Dévissage
+2025-06-23 01:27:31,695 - __main__ - INFO - ✓ Successfully scraped discovered item: Minkowski problem
+2025-06-23 01:27:32,967 - __main__ - INFO - ✓ Successfully scraped discovered item: Wendel's theorem
+2025-06-23 01:27:33,467 - __main__ - INFO - ✓ Successfully scraped discovered item: Theorem of the cube
+2025-06-23 01:27:33,799 - __main__ - INFO - ✓ Successfully scraped discovered item: Gelfond–Schneider theorem
+2025-06-23 01:27:36,649 - __main__ - INFO - ✓ Successfully scraped discovered item: Compass equivalence theorem
+2025-06-23 01:27:37,102 - __main__ - INFO - ✓ Successfully scraped discovered item: Behrend's theorem
+2025-06-23 01:27:38,056 - __main__ - INFO - ✓ Successfully scraped discovered item: Niven's theorem
+2025-06-23 01:27:39,124 - __main__ - INFO - Found valid relationship: 'Serre's modularity conjecture' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-23 01:27:39,124 - __main__ - INFO - Found valid relationship: 'Serre's modularity conjecture' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-23 01:27:39,125 - __main__ - INFO - ✓ Successfully scraped discovered item: Serre's modularity conjecture
+2025-06-23 01:27:39,679 - __main__ - INFO - ✓ Successfully scraped discovered item: Erdős–Fuchs theorem
+2025-06-23 01:27:40,542 - __main__ - INFO - ✓ Successfully scraped discovered item: Erdős–Tetali theorem
+2025-06-23 01:27:41,575 - __main__ - INFO - ✓ Successfully scraped discovered item: Erdős–Szemerédi theorem
+2025-06-23 01:27:41,683 - __main__ - INFO - Results saved to: entailment_output/scraped_data\improved_scraping_results_20250623_012741.json

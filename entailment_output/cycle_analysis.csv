@@ -1,0 +1,7 @@
+Cycle ID,Length,Systems Count,Theorems Count,Nodes
+1,3,2,1,"PA, PA+Con(PA), GT"
+2,4,2,2,"PH, PA+Con(PA), GT, ACA0"
+3,3,3,0,"PA, Con(PA), PA+Con(PA)"
+4,3,2,1,"CH, ZFC+LC, ZFC"
+5,3,3,0,"ZF, AC, ZFC"
+6,4,2,2,"PH, PA, GT, ACA0"

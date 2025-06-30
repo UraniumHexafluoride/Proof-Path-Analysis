@@ -1,0 +1,30 @@
+2025-06-22 23:22:09,471 - __main__ - INFO - Processing source: wikipedia
+2025-06-22 23:22:09,472 - __main__ - INFO - Items to process: 18
+2025-06-22 23:22:09,472 - __main__ - INFO - Categories to process: 0
+2025-06-22 23:22:12,240 - __main__ - INFO - ✓ Successfully scraped: Gödel's incompleteness theorems with 45 relationships.
+2025-06-22 23:22:14,667 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem with 27 relationships.
+2025-06-22 23:22:16,151 - __main__ - INFO - ✓ Successfully scraped: Axiom of choice with 14 relationships.
+2025-06-22 23:22:18,547 - __main__ - INFO - ✓ Successfully scraped: Pythagorean theorem with 20 relationships.
+2025-06-22 23:22:19,776 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of arithmetic with 7 relationships.
+2025-06-22 23:22:21,054 - __main__ - INFO - ✓ Successfully scraped: Continuum hypothesis with 10 relationships.
+2025-06-22 23:22:23,917 - __main__ - INFO - ✓ Successfully scraped: Riemann hypothesis with 31 relationships.
+2025-06-22 23:22:24,767 - __main__ - INFO - ✓ Successfully scraped: Twin prime with 3 relationships.
+2025-06-22 23:22:25,692 - __main__ - INFO - ✓ Successfully scraped: Goldbach's conjecture with 5 relationships.
+2025-06-22 23:22:27,497 - __main__ - INFO - ✓ Successfully scraped: Collatz conjecture with 8 relationships.
+2025-06-22 23:22:28,737 - __main__ - INFO - ✓ Successfully scraped: Zorn's lemma with 9 relationships.
+2025-06-22 23:22:28,954 - __main__ - WARNING - Direct URL for 'Well-Ordering Theorem' failed with status 404. Falling back to search.
+2025-06-22 23:22:29,050 - __main__ - INFO - Found 'Well-Ordering Theorem' via search at: https://en.wikipedia.org/wiki/Well-ordering_theorem
+2025-06-22 23:22:29,339 - __main__ - INFO - ✓ Successfully scraped: Well-ordering theorem with 1 relationships.
+2025-06-22 23:22:29,554 - __main__ - WARNING - Direct URL for 'Compactness Theorem' failed with status 404. Falling back to search.
+2025-06-22 23:22:29,663 - __main__ - INFO - Found 'Compactness Theorem' via search at: https://en.wikipedia.org/wiki/Compactness_theorem
+2025-06-22 23:22:30,441 - __main__ - INFO - ✓ Successfully scraped: Compactness theorem with 5 relationships.
+2025-06-22 23:22:30,651 - __main__ - WARNING - Direct URL for 'Löwenheim–Skolem Theorem' failed with status 404. Falling back to search.
+2025-06-22 23:22:30,765 - __main__ - INFO - Found 'Löwenheim–Skolem Theorem' via search at: https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem
+2025-06-22 23:22:31,477 - __main__ - INFO - ✓ Successfully scraped: Löwenheim–Skolem theorem with 4 relationships.
+2025-06-22 23:22:31,702 - __main__ - WARNING - Direct URL for 'Completeness Theorem' failed with status 404. Falling back to search.
+2025-06-22 23:22:31,801 - __main__ - INFO - Found 'Completeness Theorem' via search at: https://en.wikipedia.org/wiki/Completeness_theorem
+2025-06-22 23:22:32,604 - __main__ - INFO - ✓ Successfully scraped: Gödel's completeness theorem with 7 relationships.
+2025-06-22 23:22:34,048 - __main__ - INFO - ✓ Successfully scraped: Halting problem with 6 relationships.
+2025-06-22 23:22:35,326 - __main__ - INFO - ✓ Successfully scraped: Church–Turing thesis with 6 relationships.
+2025-06-22 23:22:37,404 - __main__ - INFO - ✓ Successfully scraped: Prime number theorem with 18 relationships.
+2025-06-22 23:22:37,512 - __main__ - INFO - Results saved to: entailment_output/scraped_data\improved_scraping_results_20250622_232237.json

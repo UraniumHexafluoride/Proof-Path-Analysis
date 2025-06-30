@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-05-27 19:13:48.025709",
+  "base_expansion": {
+    "timestamp": "2025-05-27 19:13:48.024710",
+    "added_statements": [
+      "Added system: ZFC",
+      "Added system: ZF",
+      "Added system: PA",
+      "Added system: PA2",
+      "Added system: ZFC+LC",
+      "Added system: ZFC+MM",
+      "Added theorem: Fermat's Last Theorem",
+      "Added theorem: Four Color Theorem",
+      "Added theorem: Continuum Hypothesis"
+    ],
+    "added_relations": [
+      "Added containment: ZFC contains ZF",
+      "Added containment: PA2 contains PA",
+      "Added containment: ZFC+LC contains ZFC",
+      "Added containment: ZFC+MM contains ZFC",
+      "Added proof: PA2 proves Fermat's Last Theorem",
+      "Added proof: PA proves Four Color Theorem",
+      "Added independence: Continuum Hypothesis independent of ZFC"
+    ],
+    "validation_messages": [
+      "Error adding containment ZF -> Z: Target statement 'Z' does not exist",
+      "Error adding containment PA -> HA: Target statement 'HA' does not exist"
+    ]
+  },
+  "additional_systems": {
+    "added_systems": [
+      "ZFC+AD",
+      "ZFC+PD",
+      "HOL",
+      "IZF"
+    ],
+    "errors": [
+      "Error adding system ZFC+AD: Target statement 'AC' does not exist"
+    ],
+    "warnings": []
+  },
+  "additional_theorems": {
+    "added_theorems": [
+      "G\u00f6del Completeness",
+      "L\u00f6wenheim-Skolem",
+      "Banach-Tarski Paradox"
+    ],
+    "errors": [
+      "Error adding theorem Banach-Tarski Paradox: Source statement 'AC' does not exist"
+    ],
+    "warnings": []
+  },
+  "additional_relationships": {
+    "added_relationships": [
+      "G\u00f6del Completeness -implies-> L\u00f6wenheim-Skolem"
+    ],
+    "errors": [
+      "Error adding relationship AC -> Banach-Tarski Paradox: Source statement 'AC' does not exist"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+# Recommended Reading List for Entailment Cone Analysis Project
+
+## Core Books on Mathematical Logic and Foundations
+
+1. Simpson, Stephen G. "Subsystems of Second Order Arithmetic"
+   - Comprehensive treatment of reverse mathematics
+   - Explores which axioms are needed for various theorems
+
+2. Kunen, Kenneth. "Set Theory: An Introduction to Independence Proofs"
+   - Detailed coverage of independence results in set theory
+   - Explains forcing and other techniques for proving independence
+
+3. Cohen, Paul. "Set Theory and the Continuum Hypothesis"
+   - Written by the discoverer of forcing
+   - Historical importance for independence results
+
+4. Hájek, Petr and Pudlák, Pavel. "Metamathematics of First-Order Arithmetic"
+   - Detailed analysis of arithmetic systems and their properties
+   - Covers independence results in arithmetic
+
+5. Pudlák, Pavel. "Logical Foundations of Mathematics and Computational Complexity"
+   - Connects logic, complexity theory, and foundations
+   - Explores structural aspects of mathematical knowledge
+
+## Network Analysis and Graph Theory
+
+6. Newman, Mark. "Networks: An Introduction"
+   - Comprehensive introduction to network analysis
+   - Covers centrality measures, community detection, and other techniques
+
+7. Diestel, Reinhard. "Graph Theory"
+   - Thorough treatment of graph theory concepts
+   - Useful for understanding the mathematical properties of entailment graphs
+
+8. Barabási, Albert-László. "Network Science"
+   - Explores complex networks and their properties
+   - Relevant for analyzing large-scale mathematical knowledge networks
+
+## Philosophy of Mathematics
+
+9. Shapiro, Stewart. "Philosophy of Mathematics: Structure and Ontology"
+   - Explores the structural aspects of mathematics
+   - Relevant for interpreting findings about mathematical knowledge structure
+
+10. Maddy, Penelope. "Defending the Axioms: On the Philosophical Foundations of Set Theory"
+    - Examines the justification of axioms
+    - Helpful for understanding the significance of axiom systems
+
+11. Shapiro, Stewart. "Thinking about Mathematics"
+    - Accessible introduction to philosophy of mathematics
+    - Provides context for structural analysis
+
+## Computational and Applied Logic
+
+12. Harrison, John. "Handbook of Practical Logic and Automated Reasoning"
+    - Covers computational aspects of logic
+    - Useful for implementing logical reasoning systems
+
+13. Kohlenbach, Ulrich. "Applied Proof Theory: Proof Interpretations and their Use in Mathematics"
+    - Explores applications of proof theory
+    - Relevant for understanding the practical implications of logical dependencies
+
+14. Lakatos, Imre. "Proofs and Refutations"
+    - Classic work on the development of mathematical knowledge
+    - Provides insights into how mathematical concepts evolve
+
+15. Goldstein, Rebecca. "Incompleteness: The Proof and Paradox of Kurt Gödel"
+    - Accessible account of Gödel's incompleteness theorems
+    - Provides historical context for independence results
+
+## Key Researchers and Papers
+
+- Harvey Friedman: "Independence Results in Finite Graph Theory", "Boolean Relation Theory and Incompleteness"
+- Stephen G. Simpson: "Reverse Mathematics: The Interface Between Computability Theory and Computable Analysis"
+- Hugh Woodin: "The Continuum Hypothesis, the Generic-Multiverse of Sets, and the Ω Conjecture"
+- Joel David Hamkins: "The Set-theoretic Multiverse", "A Survey of the Modal Logic of Forcing"
+- Timothy Gowers: "The Two Cultures of Mathematics"
+- Ulrich Kohlenbach: "Applied Proof Theory: Proof Interpretations and their Use in Mathematics"
+- Jeremy Avigad: "Mathematical Method and Proof"
+- Angus Macintyre: "The Impact of Gödel's Incompleteness Theorems on Mathematics"
+- Maryanthe Malliaris and Saharon Shelah: "Regularity Lemmas for Stable Graphs"
+- Penelope Maddy: "Defending the Axioms: On the Philosophical Foundations of Set Theory"
+- Lev Beklemishev: "Provability Algebras and Proof-Theoretic Ordinals"
+- Sam Sanders and Dag Normann: "On the Mathematical and Foundational Significance of the Uncountable"
+- Denis Hirschfeldt: "Slicing the Truth: On the Computable and Reverse Mathematics of Combinatorial Principles"
+- Solomon Feferman: "Does Mathematics Need New Axioms?"

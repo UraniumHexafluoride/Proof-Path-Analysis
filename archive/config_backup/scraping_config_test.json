@@ -1,0 +1,41 @@
+{
+    "output_dir": "entailment_output/scraped_data",
+    "chunk_size": 10,
+    "max_workers": 2,
+    "rate_limit": 2.0,
+    "wikipedia": {
+        "enabled": true,
+        "rate_limit": 2.0,
+        "max_retries": 2,
+        "items": [
+            "Fundamental_Theorem_of_Arithmetic",
+            "Fundamental_Theorem_of_Algebra",
+            "Fundamental_Theorem_of_Calculus",
+            "Pythagorean_theorem",
+            "Fermat's_Last_Theorem"
+        ]
+    },
+    "nlab": {
+        "enabled": true,
+        "rate_limit": 3.0,
+        "max_retries": 2,
+        "categories": [
+            "foundations",
+            "logic"
+        ],
+        "items": [
+            "yoneda lemma",
+            "adjoint functor theorems"
+        ]
+    },
+    "proofwiki": {
+        "enabled": true,
+        "rate_limit": 1.5,
+        "max_retries": 2,
+        "items": [
+            "Pythagorean_Theorem",
+            "Fundamental_Theorem_of_Arithmetic",
+            "Binomial_Theorem"
+        ]
+    }
+}

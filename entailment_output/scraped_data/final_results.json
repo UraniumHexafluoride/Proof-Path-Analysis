@@ -1,0 +1,3757 @@
+{
+  "proofwiki": [
+    {
+      "name": "Pythagorean Theorem",
+      "description": "This page lists articles associated with the same title. If an internal link led you here, you may wish to change the link to point directly to the intended article.",
+      "source_url": "https://proofwiki.org/wiki/Pythagorean_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Category",
+          "Theorem Disambiguation Pages"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": []
+    },
+    {
+      "name": "Fundamental Theorem of Arithmetic",
+      "description": "For every integer $n$ such that $n > 1$, $n$ can be expressed as the product of one or more primes, uniquely up to the order in which they appear.",
+      "source_url": "https://proofwiki.org/wiki/Fundamental_Theorem_of_Arithmetic",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Previous POTW",
+          "Proven Results",
+          "Fundamental Theorem of Arithmetic",
+          "Prime Numbers",
+          "Fundamental Theorems",
+          "Factorization",
+          "Prime Decompositions"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "Fundamental Theorem of Arithmetic",
+          "target_theorem": "Also known as\nThe fundamental theorem of arithmetic is also known as the unique factorization theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Fundamental Theorem of Arithmetic",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Fundamental Theorem of Arithmetic",
+          "target_theorem": "Statement of the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Fundamental Theorem of Algebra",
+      "description": "Every non-constant polynomial with coefficients in $\\C$ has a root in $\\C$.",
+      "source_url": "https://proofwiki.org/wiki/Fundamental_Theorem_of_Algebra",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Explanation Required",
+          "Proven Results",
+          "Proofs by Contradiction",
+          "Research Required",
+          "Fundamental Theorem of Algebra",
+          "Polynomial Theory",
+          "Algebra",
+          "Analysis",
+          "Fundamental Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "Fundamental Theorem of Algebra",
+          "target_theorem": "Euler's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Fundamental Theorem of Algebra",
+          "target_theorem": "Historical Note\nThe Fundamental Theorem of Algebra was first conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Fundamental Theorem of Algebra",
+          "target_theorem": "Demonstratio nova theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "A new proof of the theorem",
+          "target_theorem": "Fundamental Theorem of Algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "name": "Fundamental Theorem of Calculus",
+      "description": "Let $f$ be a real function which is continuous on the closed interval $\\closedint a b$.",
+      "source_url": "https://proofwiki.org/wiki/Fundamental_Theorem_of_Calculus",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Calculus",
+          "Fundamental Theorems",
+          "Fundamental Theorem of Calculus"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": []
+    },
+    {
+      "name": "Chinese Remainder Theorem",
+      "description": "Let $b_1, b_2, \\ldots, b_r \\in \\Z$.",
+      "source_url": "https://proofwiki.org/wiki/Chinese_Remainder_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Previous POTW",
+          "Proven Results",
+          "Chinese Remainder Theorem",
+          "Modulo Arithmetic",
+          "Commutative Algebra",
+          "Number Theory",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Chinese Remainder Theorem (Commutative Algebra)"
+        ]
+      },
+      "relationships": [
+        {
+          "source_theorem": "Chinese Remainder Theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Chinese Remainder Theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Chinese Remainder Theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Binomial Theorem",
+      "description": "Let $X$ be one of the standard number systems $\\N$, $\\Z$, $\\Q$, $\\R$ or $\\C$.",
+      "source_url": "https://proofwiki.org/wiki/Binomial_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Expansion Required",
+          "Binomial Theorem",
+          "Binomial Coefficients",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Definition:Binomial Expansion",
+          "Definition:Binomial Series",
+          "Definition:Pascal's Triangle",
+          "Pascal's Rule"
+        ]
+      },
+      "relationships": [
+        {
+          "source_theorem": "Binomial Theorem",
+          "target_theorem": "Also known as\nThe binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Quadratic Formula",
+      "description": "The quadratic equation of the form $a x^2 + b x + c = 0$ has solutions:",
+      "source_url": "https://proofwiki.org/wiki/Quadratic_Formula",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Previous POTW",
+          "Proven Results",
+          "Quadratic Equations"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": []
+    },
+    {
+      "name": "First Isomorphism Theorem",
+      "description": "This theorem applies for Groups, Rings, Modules, Algebras, and any other algebraic structure where you see the word homomorphism.",
+      "source_url": "https://proofwiki.org/wiki/First_Isomorphism_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "First Isomorphism Theorem",
+          "Named Theorems",
+          "Isomorphism Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Isomorphism Theorems"
+        ]
+      },
+      "relationships": [
+        {
+          "source_theorem": "First Isomorphism Theorem",
+          "target_theorem": "Also see\n\n\nContext\nThis theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Mean Value Theorem",
+      "description": "Let $f$ be a real function which is continuous on the closed interval $\\closedint a b$ and differentiable on the open interval $\\openint a b$.",
+      "source_url": "https://proofwiki.org/wiki/Mean_Value_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Previous POTW",
+          "Proven Results",
+          "Mean Value Theorem",
+          "Differential Calculus",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Mean Value Theorem for Integrals"
+        ]
+      },
+      "relationships": [
+        {
+          "source_theorem": "Mean Value Theorem",
+          "target_theorem": "Also presented as\nThe mean value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Mean Value Theorem",
+          "target_theorem": "Also known as\nThe mean value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Value Theorem",
+      "description": "Let $I \\subseteq \\R$ be a real interval.",
+      "source_url": "https://proofwiki.org/wiki/Intermediate_Value_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Proven Results",
+          "Intermediate Value Theorem",
+          "Named Theorems",
+          "Analysis"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Intermediate Value Theorem (Topology)"
+        ]
+      },
+      "relationships": [
+        {
+          "source_theorem": "Intermediate Value Theorem",
+          "target_theorem": "Proof\nThis theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Intermediate Value Theorem",
+          "target_theorem": "Also known as\nThe intermediate value theorem is also known as Bolzano's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Intermediate Value Theorem",
+          "target_theorem": "Weierstrass intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Extreme Value Theorem",
+      "description": "Let $X$ be a compact metric space and $Y$ a normed vector space.",
+      "source_url": "https://proofwiki.org/wiki/Extreme_Value_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Proofread",
+          "Axiom Review Requests",
+          "Explanation Required",
+          "Proven Results",
+          "Metric Spaces",
+          "Continuous Functions"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "Extreme Value Theorem",
+          "target_theorem": "Weierstrass' theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Law of Cosines",
+      "description": "Let $\\triangle ABC$ be a triangle whose sides $a, b, c$ are such that $a$ is opposite $A$, $b$ is opposite $B$ and $c$ is opposite $C$.",
+      "source_url": "https://proofwiki.org/wiki/Law_of_Cosines",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Previous POTW",
+          "Proven Results",
+          "Expansion Required",
+          "Unfinished Proofs",
+          "Law of Cosines",
+          "Triangles",
+          "Cosine Function",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Law of Sines",
+          "Law of Tangents"
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "name": "Law of Sines",
+      "description": "Let $\\triangle ABC$ be a triangle whose sides $a, b, c$ are such that $a$ is opposite $A$, $b$ is opposite $B$ and $c$ is opposite $C$.",
+      "source_url": "https://proofwiki.org/wiki/Law_of_Sines",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Proven Results",
+          "Law of Sines",
+          "Triangles",
+          "Sine Function",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Law of Cosines",
+          "Law of Tangents"
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "name": "Compactness Theorem",
+      "description": "Let $\\LL$ be the language of predicate logic.",
+      "source_url": "https://proofwiki.org/wiki/Compactness_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Refactoring In Progress",
+          "Explanation Required",
+          "Proven Results",
+          "Compactness Theorem",
+          "Model Theory for Predicate Logic",
+          "Mathematical Logic",
+          "Named Theorems"
+        ],
+        "proof_methods": [],
+        "related_pages": [
+          "Overflow Theorem",
+          "The Class of Finite Models is not $\\Delta$-Elementary",
+          "Existence of Non-Standard Models of Arithmetic"
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "name": "Completeness Theorem",
+      "description": "This page lists articles associated with the same title. If an internal link led you here, you may wish to change the link to point directly to the intended article.",
+      "source_url": "https://proofwiki.org/wiki/Completeness_Theorem",
+      "metadata": {
+        "source": "ProofWiki",
+        "categories": [
+          "Categories",
+          "Advanced Refactoring",
+          "Theorem Disambiguation Pages",
+          "Completeness Theorem",
+          "Mathematical Logic"
+        ],
+        "proof_methods": [],
+        "related_pages": []
+      },
+      "relationships": []
+    }
+  ],
+  "wikipedia": [
+    {
+      "name": "fundamental theorem of arithmetic",
+      "description": "In mathematics, the fundamental theorem of arithmetic, also called the unique factorization theorem and prime factorization theorem, states that every integer greater than 1 is prime or can be represented uniquely as a product of prime numbers, up to the order of the factors.[a][3][4][5] For example,",
+      "source_url": "https://en.wikipedia.org/wiki/fundamental_theorem_of_arithmetic",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems about prime numbers",
+          "Uniqueness theorems",
+          "Factorization",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles needing additional references from January 2024",
+          "All articles needing additional references",
+          "CS1 German-language sources (de)",
+          "CS1 errors: ISBN date",
+          "CS1: long volume value",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "For the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "For other fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "List of theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Gauss proved the unique factorization theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "This theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Euclid's lemma",
+          "target_theorem": "fundamental theorem of arithmetic",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "Gauss's Disquisitiones Arithmeticae seems to be the first proof of the uniqueness part of the theorem",
+          "target_theorem": "fundamental theorem of arithmetic",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The proof uses Euclid's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Euclid's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Uniqueness without Euclid's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The fundamental theorem of arithmetic can also be proved without using Euclid's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "The first generalization of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "It can also be proven that none of these factors obeys Euclid's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Euclid's classical lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Integer factorization\nList of theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Farisi compiled a paper in which he set out deliberately to prove the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "This forced him to an understanding of the first arithmetical functions and to a full preparation which led him to state for the first time the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Proof of fundamental theorem",
+          "target_theorem": "fundamental theorem of arithmetic",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of arithmetic",
+          "target_theorem": "Overview\nInteger factorization\nDivisor\nUnitary divisor\nDivisor function\nPrime factor\nFundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "fundamental theorem of algebra",
+      "description": "The fundamental theorem of algebra, also called d'Alembert's theorem[1] or the d'Alembert\u2013Gauss theorem,[2] states that every non-constant single-variable polynomial with complex coefficients has at least one complex root. This includes polynomials with real coefficients, since every real number is a complex number with its imaginary part equal to zero.",
+      "source_url": "https://en.wikipedia.org/wiki/fundamental_theorem_of_algebra",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Field (mathematics)",
+          "Theorems about polynomials",
+          "Theorems in complex analysis",
+          "Webarchive template wayback links",
+          "Articles with short description",
+          "Short description matches Wikidata",
+          "CS1 errors: ISBN date",
+          "CS1: long volume value",
+          "Wikisource templates with missing id",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Every polynomial has a real or complex root\nNot to be confused with Fundamental theorem of arithmetic or Fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Alembert's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Gauss theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "A first attempt at proving the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Puiseux's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "The first textbook containing a proof of the theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Fred Richman proved a reformulated version of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "There are several equivalent formulations of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Some proofs of the theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "This lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Applying Liouville's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Cauchy theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Cauchy theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Liouville's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Another algebraic proof of the fundamental theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "By the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "There exists still another way to approach the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Bonnet theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Since the fundamental theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Here are a few more consequences of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Ruffini theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Properties of polynomial roots\nWhile the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Weierstrass factorization theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Niven theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Euler and the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "A forgotten paper on the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Strictly real fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Demonstratio nova theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "New proof of the theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Demonstratio nova theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "Demonstratio nova altera theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "New proof of the theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "On the history of the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "fundamental theorem of algebra",
+          "target_theorem": "A forgotten paper on the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Gauss's second proof of the fundamental theorem",
+          "target_theorem": "fundamental theorem of algebra",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "name": "euler totient function",
+      "description": "In number theory, Euler's totient function counts the positive integers up to a given integer n that are relatively prime to n. It is written using the Greek letter phi as \n\n\n\n\u03c6\n(\nn\n)\n\n\n{\\displaystyle \\varphi (n)}\n\n or \n\n\n\n\u03d5\n(\nn\n)\n\n\n{\\displaystyle \\phi (n)}\n\n, and may also be called Euler's phi function. In other words, it is the number of integers k in the range 1 \u2264 k \u2264 n for which the greatest common divisor gcd(n, k) is equal to 1.[2][3] The integers k of this form are sometimes referred to as totatives of n.",
+      "source_url": "https://en.wikipedia.org/wiki/euler_totient_function",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Modular arithmetic",
+          "Multiplicative functions",
+          "Algebra",
+          "Number theory",
+          "Leonhard Euler",
+          "CS1 German-language sources (de)",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "CS1 errors: ISBN date",
+          "Webarchive template wayback links",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "B and C by the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "The fundamental theorem",
+          "target_theorem": "euler totient function",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Euler's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Euler's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "The special case where n is prime is known as Fermat's little theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "This follows from Lagrange's theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "The RSA cryptosystem is based on this theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "Dirichlet's theorem",
+          "target_theorem": "euler totient function",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Proving this does not quite require the prime number theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Ford's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Carmichael's totient function conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Prime number theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Prime number theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Prime number theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Lehmer's conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Carmichael's conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Carmichael's totient function conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "See Ford's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Schaeffer conjecture\nGeneralizations of Fermat's little theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "See Euler's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "An arithmetic theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "In fact Chebyshev's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "euler totient function",
+          "target_theorem": "Mertens' third theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "chinese remainder theorem",
+      "description": "In mathematics, the Chinese remainder theorem states that if one knows the remainders of the Euclidean division of an integer n by several integers, then one can determine uniquely the remainder of the division of n by the product of these integers, under the condition that the divisors are pairwise coprime (no two divisors share a common factor other than 1).[1]",
+      "source_url": "https://en.wikipedia.org/wiki/chinese_remainder_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Chinese mathematical discoveries",
+          "Commutative algebra",
+          "Modular arithmetic",
+          "Theorems in number theory",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles containing Chinese-language text",
+          "CS1: long volume value",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The theorem is sometimes called Sunzi's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Both names of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Sunzi's work would not be considered a theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Special cases of the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Gauss illustrates the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The system of congruences solved by the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "These two versions of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Euclid's lemma",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "For getting the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "A special case of Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Both Lagrange interpolation and Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Hermite interpolation is an application of the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Most implementations of RSA use the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Secret sharing using the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Range ambiguity resolution\nThe range ambiguity resolution techniques used with medium pulse repetition frequency radar can be seen as a special case of the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Dedekind's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Dedekind's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The general Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "The Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "chinese remainder theorem",
+          "target_theorem": "Arithmetic\nModular arithmetic\nChinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "quadratic reciprocity",
+      "description": "In number theory, the law of quadratic reciprocity is a theorem about modular arithmetic that gives conditions for the solvability of quadratic equations modulo prime numbers. Due to its subtlety, it has many formulations, but the most standard statement is:",
+      "source_url": "https://en.wikipedia.org/wiki/quadratic_reciprocity",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Algebraic number theory",
+          "Modular arithmetic",
+          "Number theory",
+          "Quadratic residue",
+          "Theorems in number theory",
+          "CS1 maint: archived copy as title",
+          "Articles with short description",
+          "Short description is different from Wikidata"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "The quadratic reciprocity theorem was conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Using the Chinese remainder theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Statement of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Euler conjecture",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Proving these and other statements of Fermat was one of the things that led mathematicians to the reciprocity theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Legendre's attempt to prove reciprocity is based on a theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "A number of proofs of the theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "This can be proven using Gauss's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Gauss's fourth proof consists of proving this theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "This formally resembles the residue theorem",
+          "target_theorem": "quadratic reciprocity",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Dedekind zeta function\nRational reciprocity law\nZolotarev's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic reciprocity",
+          "target_theorem": "Gauss's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Quadratic Reciprocity Theorem from MathWorld\nA play comparing two proofs of the quadratic reciprocity law\nA proof of this theorem",
+          "target_theorem": "quadratic reciprocity",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "name": "binomial theorem",
+      "description": "In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, the power \u2060\n\n\n\n\n(\nx\n+\ny\n\n)\n\nn\n\n\n\n\n\n{\\displaystyle \\textstyle (x+y)^{n}}\n\n\u2060 expands into a polynomial with terms of the form \u2060\n\n\n\n\na\n\nx\n\nk\n\n\n\ny\n\nm\n\n\n\n\n\n{\\displaystyle \\textstyle ax^{k}y^{m}}\n\n\u2060, where the exponents \u2060\n\n\n\nk\n\n\n{\\displaystyle k}\n\n\u2060 and \u2060\n\n\n\nm\n\n\n{\\displaystyle m}\n\n\u2060 are nonnegative integers satisfying \u2060\n\n\n\nk\n+\nm\n=\nn\n\n\n{\\displaystyle k+m=n}\n\n\u2060 and the coefficient \u2060\n\n\n\na\n\n\n{\\displaystyle a}\n\n\u2060 of each term is a specific positive integer depending on \u2060\n\n\n\nn\n\n\n{\\displaystyle n}\n\n\u2060 and \u2060\n\n\n\nk\n\n\n{\\displaystyle k}\n\n\u2060.  For example, for \u2060\n\n\n\nn\n=\n4\n\n\n{\\displaystyle n=4}\n\n\u2060,\n\n\n\n\n(\nx\n+\ny\n\n)\n\n4\n\n\n=\n\nx\n\n4\n\n\n+\n4\n\nx\n\n3\n\n\ny\n+\n6\n\nx\n\n2\n\n\n\ny\n\n2\n\n\n+\n4\nx\n\ny\n\n3\n\n\n+\n\ny\n\n4\n\n\n.\n\n\n{\\displaystyle (x+y)^{4}=x^{4}+4x^{3}y+6x^{2}y^{2}+4xy^{3}+y^{4}.}",
+      "source_url": "https://en.wikipedia.org/wiki/binomial_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Factorial and binomial topics",
+          "Theorems about polynomials",
+          "Webarchive template wayback links",
+          "CS1 French-language sources (fr)",
+          "Articles with short description",
+          "Short description matches Wikidata",
+          "Wikipedia articles incorporating text from PlanetMath",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "According to the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "According to the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The first few cases of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "This proves the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Induction yields another proof of the binomial theorem",
+          "target_theorem": "binomial theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Newton's generalized binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Isaac Newton generalized the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The generalized binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The generalized binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "A version of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Multinomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Multinomial theorem\nThe binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "By the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "General Leibniz rule\nThe general Leibniz rule gives the nth derivative of a product of two functions in a form similar to that of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Special cases of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "BC when Greek mathematician Euclid mentioned the special case of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "An explicit statement of the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Isaac Newton is generally credited with discovering the generalized binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "A logarithmic version of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "For the complex numbers the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Using the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Applying the binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "The binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Mathematics portal\nBinomial approximation\nBinomial distribution\nBinomial inverse theorem\nBinomial coefficient\nStirling's approximation\nTannery's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Binomial theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "This article incorporates material from inductive proof of binomial theorem",
+          "target_theorem": "binomial theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "CalculusPrecalculus\nBinomial theorem\nConcave function\nContinuous function\nFactorial\nFinite difference\nFree variables and bound variables\nGraph of a function\nLinear function\nRadian\nRolle's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Differential calculus\nDerivative\nSecond derivative\nPartial derivative\nDifferential\nDifferential operator\nMean value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Product\nGeneral Leibniz's rule\nQuotient\nOther techniques\nImplicit differentiation\nInverse functions and differentiation\nLogarithmic derivative\nRelated rates\nStationary points\nFirst derivative test\nSecond derivative test\nExtreme value theorem\nMaximum and minimum\nFurther applications\nNewton's method\nTaylor's theorem\nDifferential equation\nOrdinary differential equation\nPartial differential equation\nStochastic differential equation\nIntegral calculus\nAntiderivative\nArc length\nRiemann integral\nBasic properties\nConstant of integration\nFundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "binomial theorem",
+          "target_theorem": "Vector calculus\nDerivatives\nCurl\nDirectional derivative\nDivergence\nGradient\nLaplacian\nBasic theorems\nLine integrals\nGreen's\nStokes'\nGauss'\nMultivariable calculus\nDivergence theorem\nGeometric\nHessian matrix\nJacobian matrix and determinant\nLagrange multiplier\nLine integral\nMatrix\nMultiple integral\nPartial derivative\nSurface integral\nVolume integral\nAdvanced topics\nDifferential forms\nExterior derivative\nGeneralized Stokes' theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "quadratic equation",
+      "description": "In mathematics, a quadratic equation (from Latin  quadratus\u00a0'square') is an equation that can be rearranged in standard form as[1]\n\n\n\n\na\n\nx\n\n2\n\n\n+\nb\nx\n+\nc\n=\n0\n\n,\n\n\n{\\displaystyle ax^{2}+bx+c=0\\,,}\n\n\nwhere the variable x represents an unknown number, and a, b, and c represent known numbers, where a \u2260 0. (If a = 0 and b \u2260 0 then the equation is linear, not quadratic.) The numbers a, b, and c are the coefficients of the equation and may be distinguished by respectively calling them, the quadratic coefficient, the linear coefficient and the constant coefficient or free term.[2]",
+      "source_url": "https://en.wikipedia.org/wiki/quadratic_equation",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Elementary algebra",
+          "Equations",
+          "CS1 errors: ISBN date",
+          "CS1: unfit URL",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Wikipedia articles needing clarification from September 2021",
+          "Commons category link from Wikidata",
+          "Webarchive template wayback links"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "quadratic equation",
+          "target_theorem": "Descartes' theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic equation",
+          "target_theorem": "The equation given by Fuss' theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "quadratic equation",
+          "target_theorem": "Solving quadratic equations with continued fractions\nLinear equation\nCubic function\nQuartic equation\nQuintic equation\nFundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "first isomorphism theorem",
+      "description": "In mathematics, specifically abstract algebra, the isomorphism theorems (also known as Noether's isomorphism theorems) are theorems that describe the relationship among quotients, homomorphisms, and subobjects.  Versions of the theorems exist for groups, rings, vector spaces, modules, Lie algebras, and other algebraic structures.  In universal algebra, the isomorphism theorems can be generalized to the context of algebras and congruences.",
+      "source_url": "https://en.wikipedia.org/wiki/first_isomorphism_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Category",
+          "Isomorphism theorems",
+          "Articles with short description",
+          "Short description is different from Wikidata"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Group of mathematical theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Noether's isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Versions of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Less general versions of these theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The three isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "We first present the isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Fundamental theorem on homomorphisms\nDiagram of the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "This theorem is usually called the first isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Diagram for theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "This theorem is sometimes called the second isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "An application of the second isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Then the second isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The last statement is sometimes referred to as the third isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Lattice theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "This theorem is sometimes called the correspondence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The Zassenhaus lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The first isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "In the second isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The third isomorphism theorem is generalized by the nine lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Below we present four theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "First isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Here we give some examples of the group isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Notice that these theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Comparison of the names of the group isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Second isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Fundamental theorem of homomorphisms\n\nFirst isomorphism theorem\n\nSecond isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Second isomorphism theorem\n\nFirst isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Homomorphism theorem\n\nSecond isomorphism theorem\n\nFirst isomorphism theorem\n\n\nThree numbered theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "First isomorphism theorem\n\nThird isomorphism theorem\n\nSecond isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "First isomorphism theorem\n\nSecond isomorphism theorem\n\nThird isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Fundamental homomorphism theorem or first isomorphism theorem\n\nSecond isomorphism theorem\n\nThird isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "First isomorphism theorem\n\nSecond or Diamond isomorphism theorem\n\nThird isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Homomorphism theorem\n\nIsomorphism theorem\n\nCorrespondence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Homomorphism theorem\n\nIsomorphism theorem\n\nFreshman theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The statements of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The statements of the isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "The isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "first isomorphism theorem",
+          "target_theorem": "Is there a general form of the correspondence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "cayley-hamilton theorem",
+      "description": "In linear algebra, the Cayley\u2013Hamilton theorem (named after the mathematicians Arthur Cayley and William Rowan Hamilton) states that every square matrix over a commutative ring (such as the real or complex numbers or the integers) satisfies its own characteristic equation.",
+      "source_url": "https://en.wikipedia.org/wiki/cayley-hamilton_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems in linear algebra",
+          "Matrix theory",
+          "William Rowan Hamilton",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "CS1 maint: DOI inactive as of January 2025",
+          "CS1 errors: ISBN date",
+          "CS1 maint: location missing publisher",
+          "Articles containing proofs",
+          "Pages that use a deprecated format of the math tags"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Cayley stated the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "A special case of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "I have not thought it necessary to undertake the labor of a formal proof of the theorem",
+          "target_theorem": "cayley-hamilton theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "H theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Hamilton theorem",
+          "target_theorem": "cayley-hamilton theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "We shall therefore now consider only arguments that prove the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "The simplest proofs use just those notions needed to formulate the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "In addition to proving the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Nakayama lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "This more general version of the theorem is the source of the celebrated Nakayama lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Therefore it is not surprising that the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Hamilton theorem",
+          "target_theorem": "cayley-hamilton theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "cayley-hamilton theorem",
+          "target_theorem": "Hamilton theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "intermediate value theorem",
+      "description": "In mathematical analysis, the intermediate value theorem states that if \n\n\n\nf\n\n\n{\\displaystyle f}\n\n is a continuous function whose domain contains the interval [a, b], then it takes on any given value between \n\n\n\nf\n(\na\n)\n\n\n{\\displaystyle f(a)}\n\n and \n\n\n\nf\n(\nb\n)\n\n\n{\\displaystyle f(b)}\n\n at some point within the interval.",
+      "source_url": "https://en.wikipedia.org/wiki/intermediate_value_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theory of continuous functions",
+          "Theorems in calculus",
+          "Theorems in real analysis",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Wikipedia articles needing clarification from January 2023",
+          "Pages displaying short descriptions of redirect targets via Module:Annotated link",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Continuous function on an interval takes on every value between its values at the ends\nIntermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Bolzano's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "A form of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Bolzano used the following formulation of the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Simon Stevin proved the intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Darboux's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Miranda theorem is a generalization of the Intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Mazurkiewicz lemma",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The preservation of connectedness under continuous maps can be thought of as a generalization of the intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Recall the first version of the intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The original theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Ulam theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Due to the intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Mean value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "A measurable set with positive measure that contains no subset of smaller positive measurePages displaying short descriptions of redirect targets\nHairy ball theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Theorem in differential topology\nSperner's lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "A translation of Bolzano's paper on the intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Generalization of the Bolzano theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "intermediate value theorem",
+          "target_theorem": "Intermediate value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "extreme value theorem",
+      "description": "In calculus, the extreme value theorem states that if a real-valued function \n\n\n\nf\n\n\n{\\displaystyle f}\n\n is continuous on the closed and bounded interval \n\n\n\n[\na\n,\nb\n]\n\n\n{\\displaystyle [a,b]}\n\n, then \n\n\n\nf\n\n\n{\\displaystyle f}\n\n must attain a maximum and a minimum, each at least once. \nThat is, there exist numbers \n\n\n\nc\n\n\n{\\displaystyle c}\n\n and \n\n\n\nd\n\n\n{\\displaystyle d}\n\n in \n\n\n\n[\na\n,\nb\n]\n\n\n{\\displaystyle [a,b]}\n\n such that:\n\n\n\n\nf\n(\nc\n)\n\u2264\nf\n(\nx\n)\n\u2264\nf\n(\nd\n)\n\n\u2200\nx\n\u2208\n[\na\n,\nb\n]\n.\n\n\n{\\displaystyle f(c)\\leq f(x)\\leq f(d)\\quad \\forall x\\in [a,b].}",
+      "source_url": "https://en.wikipedia.org/wiki/extreme_value_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems in calculus",
+          "Theorems in real analysis",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles lacking in-text citations from June 2012",
+          "All articles lacking in-text citations",
+          "Wikipedia articles needing clarification from August 2024",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Gnedenko theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "The extreme value theorem is more specific than the related  boundedness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "The extreme value theorem is used to prove Rolle's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "The extreme value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Weierstrass theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Functions to which the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "The following examples show why the function domain must be closed and bounded in order for the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Proving the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "We first prove the boundedness theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "The basic steps involved in the proof of the extreme value theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "Prove the boundedness theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "Proof of the boundedness theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Weierstrass theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Proofs of the extreme value theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "Proof of the Extreme Value Theorem\nBy the boundedness theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Weierstrass theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "In the proof of the boundedness theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "In the proof of the extreme value theorem",
+          "target_theorem": "extreme value theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Hence these two theorems imply the boundedness theorem and the extreme value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "A Proof for extreme value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "CalculusPrecalculus\nBinomial theorem\nConcave function\nContinuous function\nFactorial\nFinite difference\nFree variables and bound variables\nGraph of a function\nLinear function\nRadian\nRolle's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Differential calculus\nDerivative\nSecond derivative\nPartial derivative\nDifferential\nDifferential operator\nMean value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Product\nGeneral Leibniz's rule\nQuotient\nOther techniques\nImplicit differentiation\nInverse functions and differentiation\nLogarithmic derivative\nRelated rates\nStationary points\nFirst derivative test\nSecond derivative test\nExtreme value theorem\nMaximum and minimum\nFurther applications\nNewton's method\nTaylor's theorem\nDifferential equation\nOrdinary differential equation\nPartial differential equation\nStochastic differential equation\nIntegral calculus\nAntiderivative\nArc length\nRiemann integral\nBasic properties\nConstant of integration\nFundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "extreme value theorem",
+          "target_theorem": "Vector calculus\nDerivatives\nCurl\nDirectional derivative\nDivergence\nGradient\nLaplacian\nBasic theorems\nLine integrals\nGreen's\nStokes'\nGauss'\nMultivariable calculus\nDivergence theorem\nGeometric\nHessian matrix\nJacobian matrix and determinant\nLagrange multiplier\nLine integral\nMatrix\nMultiple integral\nPartial derivative\nSurface integral\nVolume integral\nAdvanced topics\nDifferential forms\nExterior derivative\nGeneralized Stokes' theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "rank-nullity theorem",
+      "description": "The rank\u2013nullity theorem is a theorem in linear algebra, which asserts:",
+      "source_url": "https://en.wikipedia.org/wiki/rank-nullity_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems in linear algebra",
+          "Isomorphism theorems",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "Rank theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "For the rank theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "Stating the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "This theorem can be refined via the splitting lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "While the theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "This means that there are linear maps not given by matrices for which the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "Steinitz exchange lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "This theorem is a statement of the first isomorphism theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "Singer index theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "rank-nullity theorem",
+          "target_theorem": "The fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "spectral theorem",
+      "description": "In linear algebra and functional analysis, a spectral theorem is a result about when a linear operator or matrix can be diagonalized (that is, represented as a diagonal matrix in some basis). This is extremely useful because computations involving a diagonalizable matrix can often be reduced to much simpler computations involving the corresponding diagonal matrix. The concept of diagonalization is relatively straightforward for operators on finite-dimensional vector spaces but requires some modification for operators on infinite-dimensional spaces. In general, the spectral theorem identifies a class of linear operators that can be modeled by multiplication operators, which are as simple as one can hope to find. In more abstract language, the spectral theorem is a statement about commutative C*-algebras. See also spectral theory for a historical perspective.",
+      "source_url": "https://en.wikipedia.org/wiki/spectral_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Spectral theory",
+          "Linear algebra",
+          "Matrix theory",
+          "Singular value decomposition",
+          "Theorems in functional analysis",
+          "Theorems in linear algebra",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Pages displaying short descriptions of redirect targets via Module:Annotated link",
+          "Pages that use a deprecated format of the math tags"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Examples of operators to which the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "The spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Louis Cauchy proved the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "The spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "This article mainly focuses on the simplest kind of spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "By the fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Normal matrix\nThe spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "One formulation of the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "An alternative formulation of the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "The spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "There is also an analogous spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "There is also a formulation of the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "One important application of the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Either of the versions of the spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "There is also a spectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Hellinger theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Khinchin theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Operator algebra\nGroup algebra of a locally compact group\nVon Neumann algebra\nOpen problems\nInvariant subspace problem\nMahler's conjecture\nApplications\nHardy space\nSpectral theory of ordinary differential equations\nHeat kernel\nIndex theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Mazur theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Naimark theorem\nGelfand representation\nPolar decomposition\nSingular value decomposition\nSpectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Rutman theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Riesz projector\nRigged Hilbert space\nSpectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Fike theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Horn theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Hewitt factorization theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Bernstein theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Takeda theorem\nUnbounded operator\nExamples\nWiener algebra\nApplications\nAlmost Mathieu operator\nCorona theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "spectral theorem",
+          "target_theorem": "Khinchin theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "singular value decomposition",
+      "description": "In linear algebra, the singular value decomposition (SVD) is a factorization of a real or complex matrix into a rotation, followed by a rescaling followed by another rotation. It generalizes the eigendecomposition of a square normal matrix with an orthonormal eigenbasis to any \u2060\n\n\n\nm\n\u00d7\nn\n\n\n{\\displaystyle m\\times n}\n\n\u2060 matrix. It is related to the polar decomposition.",
+      "source_url": "https://en.wikipedia.org/wiki/singular_value_decomposition",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Singular value decomposition",
+          "Linear algebra",
+          "Numerical linear algebra",
+          "Matrix theory",
+          "Matrix decompositions",
+          "Functional analysis",
+          "Articles with short description",
+          "Short description matches Wikidata",
+          "Use dmy dates from October 2020",
+          "All articles with unsourced statements",
+          "Articles with unsourced statements from September 2022",
+          "Articles with unsourced statements from November 2023",
+          "Wikipedia articles needing clarification from April 2021",
+          "Pages that use a deprecated format of the math tags"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "The geometric content of the SVD theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Young theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "By the extreme value theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "By the Lagrange multipliers theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Based on the spectral theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Operator algebra\nGroup algebra of a locally compact group\nVon Neumann algebra\nOpen problems\nInvariant subspace problem\nMahler's conjecture\nApplications\nHardy space\nSpectral theory of ordinary differential equations\nHeat kernel\nIndex theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Mazur theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Naimark theorem\nGelfand representation\nPolar decomposition\nSingular value decomposition\nSpectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Rutman theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Riesz projector\nRigged Hilbert space\nSpectral theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Fike theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Horn theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Hewitt factorization theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Bernstein theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Takeda theorem\nUnbounded operator\nExamples\nWiener algebra\nApplications\nAlmost Mathieu operator\nCorona theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "singular value decomposition",
+          "target_theorem": "Khinchin theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "law of cosines",
+      "description": "In trigonometry, the law of cosines (also known as the cosine formula or cosine rule) relates the lengths of the sides of a triangle to the cosine of one of its angles. For a triangle with sides \u2060\n\n\n\na\n\n\n{\\displaystyle a}\n\n\u2060, \u2060\n\n\n\nb\n\n\n{\\displaystyle b}\n\n\u2060, and \u2060\n\n\n\nc\n\n\n{\\displaystyle c}\n\n\u2060, opposite respective angles \u2060\n\n\n\n\u03b1\n\n\n{\\displaystyle \\alpha }\n\n\u2060, \u2060\n\n\n\n\u03b2\n\n\n{\\displaystyle \\beta }\n\n\u2060, and \u2060\n\n\n\n\u03b3\n\n\n{\\displaystyle \\gamma }\n\n\u2060 (see Fig. 1), the law of cosines states:",
+      "source_url": "https://en.wikipedia.org/wiki/law_of_cosines",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Trigonometry",
+          "Angle",
+          "Theorems about triangles",
+          "CS1 French-language sources (fr)",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles containing Arabic-language text",
+          "Commons category link from Wikidata",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Generalization of Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "The law of cosines generalizes the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Using the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Proof for the Law of cosines in acute and obtuse triangles using the  Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Euclid proved this theorem by applying the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Pythagorean theorem",
+          "target_theorem": "law of cosines",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "This proof is independent of the Pythagorean theorem",
+          "relationship_type": "depends_on",
+          "confidence": 0.7
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Other proofs typically invoke the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Using Ptolemy's theorem",
+          "target_theorem": "law of cosines",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "Proof of law of cosines using Ptolemy's theorem",
+          "target_theorem": "law of cosines",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Now the law of cosines is rendered by a straightforward application of Ptolemy's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "ABCD is a rectangle and application of Ptolemy's theorem yields the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Proof of the law of cosines using the power of a point theorem",
+          "target_theorem": "law of cosines",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Apply  the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Then use the tangent secant theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "The use of the Pythagorean theorem and the tangent secant theorem can be replaced by a single application of the power of a point theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Apply  the Pythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Now use the chord theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "This proof uses the power of a point theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Cosine theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "The Quadrature of the Parabola\nThe Sand Reckoner\nConceptsand definitions\nChord\nCircles of Apollonius\nApollonian circles\nApollonian gasket\nProblem of Apollonius\nCommensurability\nDiophantine equation\nEuclidean geometry\nGolden ratio\nLune of Hippocrates\nMethod of exhaustion\nParallel postulate\nPlatonic solid\nRegular polygon\nStraightedge and compass construction\nAngle trisection\nDoubling the cube\nSquaring the circle\nQuadratrix of Hippias\nNeusis construction\nResultsIn Elements\nAngle bisector theorem\nExterior angle theorem\nEuclidean algorithm\nEuclid's theorem\nGeometric mean theorem\nHinge theorem\nInscribed angle theorem\nIntercept theorem\nIntersecting chords theorem\nIntersecting secants theorem\nLaw of cosines\nPons asinorum\nPythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Thales's theorem\nTheorem of the gnomon\n\nApollonius's theorem\nAristarchus's inequality\nHeron's formula\nLaw of sines\nMenelaus's theorem\nPappus's area theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of cosines",
+          "target_theorem": "Arithmetica\nPtolemy's inequality\nPtolemy's table of chords\nPtolemy's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "law of sines",
+      "description": "In trigonometry, the law of sines (sometimes called the sine formula or sine rule) is a mathematical equation relating the lengths of the sides of any triangle to the sines of its angles. According to the law,\n\n\n\n\n\n\na\n\nsin\n\u2061\n\n\u03b1\n\n\n\n\n\n=\n\n\n\nb\n\nsin\n\u2061\n\n\u03b2\n\n\n\n\n\n=\n\n\n\nc\n\nsin\n\u2061\n\n\u03b3\n\n\n\n\n\n=\n\n2\nR\n,\n\n\n{\\displaystyle {\\frac {a}{\\sin {\\alpha }}}\\,=\\,{\\frac {b}{\\sin {\\beta }}}\\,=\\,{\\frac {c}{\\sin {\\gamma }}}\\,=\\,2R,}\n\n\nwhere a, b, and c are the lengths of the sides of a triangle, and \u03b1, \u03b2, and \u03b3 are the opposite angles (see figure 2), while R is the radius of the triangle's circumcircle. When the last part of the equation is not used, the law is sometimes stated using the reciprocals;\n\n\n\n\n\n\n\nsin\n\u2061\n\n\u03b1\n\n\na\n\n\n\n=\n\n\n\n\nsin\n\u2061\n\n\u03b2\n\n\nb\n\n\n\n=\n\n\n\n\nsin\n\u2061\n\n\u03b3\n\n\nc\n\n\n.\n\n\n{\\displaystyle {\\frac {\\sin {\\alpha }}{a}}\\,=\\,{\\frac {\\sin {\\beta }}{b}}\\,=\\,{\\frac {\\sin {\\gamma }}{c}}.}\n\n\nThe law of sines can be used to compute the remaining sides of a triangle when two angles and a side are known\u2014a technique known as triangulation. It can also be used when two sides and one of the non-enclosed angles are known. In some such cases, the triangle is not uniquely determined by this data (called the ambiguous case) and the technique gives two possible values for the enclosed angle.",
+      "source_url": "https://en.wikipedia.org/wiki/law_of_sines",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Trigonometry",
+          "Angle",
+          "Theorems about triangles",
+          "CS1: unfit URL",
+          "Articles with short description",
+          "Short description matches Wikidata",
+          "Pages using multiple image with auto scaled images",
+          "Commons category link from Wikidata",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "Generalized trigonometry\n\nReference\nIdentities\nExact constants\nTables\nUnit circle\n\nLaws and theorems\nSines\nCosines\nTangents\nCotangents\nPythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "Thales's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "Sine theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "The Quadrature of the Parabola\nThe Sand Reckoner\nConceptsand definitions\nChord\nCircles of Apollonius\nApollonian circles\nApollonian gasket\nProblem of Apollonius\nCommensurability\nDiophantine equation\nEuclidean geometry\nGolden ratio\nLune of Hippocrates\nMethod of exhaustion\nParallel postulate\nPlatonic solid\nRegular polygon\nStraightedge and compass construction\nAngle trisection\nDoubling the cube\nSquaring the circle\nQuadratrix of Hippias\nNeusis construction\nResultsIn Elements\nAngle bisector theorem\nExterior angle theorem\nEuclidean algorithm\nEuclid's theorem\nGeometric mean theorem\nHinge theorem\nInscribed angle theorem\nIntercept theorem\nIntersecting chords theorem\nIntersecting secants theorem\nLaw of cosines\nPons asinorum\nPythagorean theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "Thales's theorem\nTheorem of the gnomon\n\nApollonius's theorem\nAristarchus's inequality\nHeron's formula\nLaw of sines\nMenelaus's theorem\nPappus's area theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "law of sines",
+          "target_theorem": "Arithmetica\nPtolemy's inequality\nPtolemy's table of chords\nPtolemy's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "heine-borel theorem",
+      "description": "In real analysis, the Heine\u2013Borel theorem, named after Eduard Heine and \u00c9mile Borel, states:",
+      "source_url": "https://en.wikipedia.org/wiki/heine-borel_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems in real analysis",
+          "General topology",
+          "Properties of topological spaces",
+          "Compactness theorems",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Articles containing proofs"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Central to the theory was the concept of uniform continuity and the theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "By the lemma",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Borel theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Weierstrass theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "heine-borel theorem",
+          "target_theorem": "Lebesgue covering theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "compactness theorem",
+      "description": "In mathematical logic, the compactness theorem states that a set of first-order sentences has a model if and only if every finite subset of it has a model. This theorem is an important tool in model theory, as it provides a useful (but generally not effective) method for constructing models of any set of sentences that is finitely consistent.",
+      "source_url": "https://en.wikipedia.org/wiki/compactness_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Mathematical logic",
+          "Metatheorems",
+          "Model theory",
+          "Theorems in the foundations of mathematics",
+          "Articles with short description",
+          "Short description is different from Wikidata",
+          "Pages displaying wikidata descriptions as a fallback via Module:Annotated link"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "This theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "The compactness theorem for the propositional calculus is a consequence of Tychonoff's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "The compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Skolem theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Although there are some generalizations of the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "The compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "The compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Grothendieck theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Skolem theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "A second application of the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Skolem theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "A third application of the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "By the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "One can prove the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Boolean prime ideal theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Barwise compactness theorem\nHerbrand's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Skolem theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Grothendieck theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Tarski paradox\nCantor's\u00a0theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Bernstein theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "compactness theorem",
+          "target_theorem": "Turing thesis\nComputably enumerable\nComputable function\nComputable set\nDecision problem\ndecidable\nundecidable\nP\nNP\nP versus NP problem\nKolmogorov complexity\nLambda calculus\nPrimitive recursive function\nRecursion\nRecursive set\nTuring machine\nType theory\nRelated\nAbstract logic\nAlgebraic logic\nAutomated theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "name": "completeness theorem",
+      "description": "G\u00f6del's completeness theorem is a fundamental theorem in mathematical logic that establishes a correspondence between semantic truth and syntactic provability in first-order logic.",
+      "source_url": "https://en.wikipedia.org/wiki/completeness_theorem",
+      "metadata": {
+        "source": "Wikipedia",
+        "categories": [
+          "Categories",
+          "Theorems in the foundations of mathematics",
+          "Metatheorems",
+          "Model theory",
+          "Proof theory",
+          "Works by Kurt G\u00f6del",
+          "Articles with short description",
+          "Short description matches Wikidata",
+          "All articles with unsourced statements",
+          "Articles with unsourced statements from December 2024",
+          "CS1 German-language sources (de)",
+          "Webarchive template wayback links"
+        ],
+        "related_pages": []
+      },
+      "relationships": [
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Fundamental theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "This more general theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Model existence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Henkin's model existence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The model existence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Skolem theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Given Henkin's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "By the contrapositive of Henkin's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "As a theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The model existence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "An important consequence of the completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Relationship to the incompleteness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Using the compactness and completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The first incompleteness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The second incompleteness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Q obtained by the systematic construction of the arithmetical model existence theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Tennenbaum's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Relationship to the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem and the compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "While neither of these theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "This is an immediate consequence of the completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "This proof of the compactness theorem",
+          "target_theorem": "completeness theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The ineffectiveness of the completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "ZF can prove either the completeness or compactness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "The completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "A completeness theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Isabelle theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "Trakhtenbrot's theorem",
+          "target_theorem": "completeness theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "The first proof of the completeness theorem",
+          "target_theorem": "completeness theorem",
+          "relationship_type": "proves",
+          "confidence": 0.8
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Metalogic and metamathematics\nCantor's theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Skolem theorem\nMetatheorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Tarski paradox\nCantor's\u00a0theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Bernstein theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        },
+        {
+          "source_theorem": "completeness theorem",
+          "target_theorem": "Turing thesis\nComputably enumerable\nComputable function\nComputable set\nDecision problem\ndecidable\nundecidable\nP\nNP\nP versus NP problem\nKolmogorov complexity\nLambda calculus\nPrimitive recursive function\nRecursion\nRecursive set\nTuring machine\nType theory\nRelated\nAbstract logic\nAlgebraic logic\nAutomated theorem",
+          "relationship_type": "related_to",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "nlab": []
+}

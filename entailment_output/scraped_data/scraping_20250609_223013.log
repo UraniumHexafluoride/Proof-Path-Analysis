@@ -1,0 +1,3 @@
+2025-06-09 22:30:17,501 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-09 22:30:17,502 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-06-09 22:30:19,088 - __main__ - ERROR - Error loading config: Extra data: line 261 column 1 (char 8274)

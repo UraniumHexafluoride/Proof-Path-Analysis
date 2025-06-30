@@ -1,0 +1,16 @@
+,ACA0,PA,PA2,ZF,ZFC,ZFC+AD,ZFC+LC,ZFC+MM,ZFC+PD
+Continuum Hypothesis,0,0,0,0,1,0,1,0,0
+Axiom of Choice,0,0,0,1,1,0,0,0,0
+Gödel's Incompleteness,0,1,1,0,0,0,0,0,0
+Fermat's Last Theorem,0,1,0,0,0,0,0,0,0
+Four Color Theorem,0,0,0,0,1,0,0,0,0
+Riemann Hypothesis,1,0,0,0,0,0,0,0,0
+P vs NP,0,0,0,0,1,0,0,0,0
+Twin Prime Conjecture,1,1,0,0,0,0,0,0,0
+Goldbach's Conjecture,0,0,0,0,0,0,0,0,0
+Poincaré Conjecture,0,0,0,0,0,0,0,0,1
+ABC Conjecture,0,0,0,0,0,0,0,0,0
+Collatz Conjecture,0,0,0,0,1,0,0,0,0
+Birch and Swinnerton-Dyer Conjecture,0,0,0,0,0,1,0,0,0
+Hodge Conjecture,0,0,0,0,0,0,0,1,1
+Navier-Stokes Existence and Smoothness,0,0,0,0,0,0,0,0,0

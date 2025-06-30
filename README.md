@@ -120,5 +120,4 @@ See [research_plan.md](research_plan.md) for my detailed research plan and [RESE
 
 ## License
 
-[MIT License](LICENSE)
-
+[MIT License](LICENSE) 

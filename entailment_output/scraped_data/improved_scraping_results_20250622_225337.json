@@ -1,0 +1,1456 @@
+{
+  "metadata": {
+    "timestamp": "20250622_225337",
+    "scraping_date": "2025-06-22T22:53:37.857792",
+    "total_theorems": 14,
+    "total_relationships": 210,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis",
+          "Twin Prime Conjecture",
+          "Goldbach's Conjecture",
+          "Collatz Conjecture",
+          "Zorn's Lemma",
+          "Well-Ordering Theorem",
+          "Compactness Theorem",
+          "Löwenheim–Skolem Theorem",
+          "Completeness Theorem",
+          "Halting Problem",
+          "Church-Turing Thesis",
+          "Prime Number Theorem"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 14,
+      "relationship_count": 210,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Twin prime",
+        "Goldbach's conjecture",
+        "Collatz conjecture",
+        "Zorn's lemma",
+        "Halting problem",
+        "Church–Turing thesis",
+        "Prime number theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "Gödel's incompleteness theorems are two theorems of mathematical logic that are concerned with the limits of provability in formal axiomatic theories. These results, published by Kurt Gödel in 1931, are important both in mathematical logic and in the philosophy of mathematics. The theorems are widely, but not universally, interpreted as showing that Hilbert's program to find a complete and consistent set of axioms for all mathematics is impossible.[1][additional citation(s) needed]",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel's completeness theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "philosophy of mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Hilbert's program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "effective procedure",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "algorithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "proving",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "natural numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "diagonal argument",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Tarski's undefinability theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Church",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Entscheidungsproblem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Turing",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "halting problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "formal systems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "In number theory, Fermat's Last Theorem (sometimes called Fermat's conjecture, especially in older texts) states that no three positive integers a, b, and c satisfy the equation an + bn = cn for any integer value of n greater than 2. The cases n = 1 and n = 2 have been known since antiquity to have infinitely many solutions.[1]",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's Last Theorem (book)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Diophantus",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Arithmetica",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pierre de Fermat",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Effective abc conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Effective modified Szpiro conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Beal conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat–Catalan conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "positive",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "integers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "In mathematics, the axiom of choice, abbreviated AC or AoC, is an axiom of set theory. Informally put, the axiom of choice says that given any collection of non-empty sets, it is possible to construct a new set by choosing one element from each set, even if the collection is infinite. Formally, it states that for every indexed family \n\n\n\n(\n\nS\n\ni\n\n\n\n)\n\ni\n∈\nI\n\n\n\n\n{\\displaystyle (S_{i})_{i\\in I}}\n\n of nonempty sets (\n\n\n\n\nS\n\ni\n\n\n\n\n{\\textstyle S_{i}}\n\n as a nonempty set indexed with \n\n\n\ni\n\n\n{\\textsty...",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom of Choice (band)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "ZFC (disambiguation)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "nonempty",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Ernst Zermelo",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "well-ordering theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "partition",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "transversal",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "choice function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Bertrand Russell",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "axiomatic set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Zermelo–Fraenkel set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Tychonoff's theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "axiom of determinacy",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "constructive mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "In mathematics, the Pythagorean theorem or Pythagoras' theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares on the other two sides.",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Law of cosines",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Solid geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Non-Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Differential geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean triple",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Complex number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean distance",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean trigonometric identity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Projecting",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "sphere",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "plane",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Branches",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "In mathematics, the fundamental theorem of arithmetic, also called the unique factorization theorem and prime factorization theorem, states that every integer greater than 1 is prime or can be represented uniquely as a product of prime numbers, up to the order of the factors.[a][3][4][5] For example,",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fundamental theorem of algebra",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "List of theorems called fundamental",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Disquisitiones Arithmeticae",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Gauss",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "law of quadratic reciprocity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "reasons why 1 is not considered a prime number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "algebraic structures",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "unique factorization domains",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "principal ideal domains",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclidean domains",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "polynomial rings",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "field",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "algebraic integers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fermat's",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "In mathematics, specifically set theory, the continuum hypothesis (abbreviated CH) is a hypothesis about the possible sizes of infinite sets. It states:",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Continuum assumption",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "The Continuum Hypothesis (album)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "infinite sets",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "cardinality",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "integers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Zermelo–Fraenkel set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "axiom of choice",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "aleph numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "beth numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Georg Cantor",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Hilbert's 23 problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "independent",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Paul Cohen",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "In mathematics, the Riemann hypothesis is the conjecture that the Riemann zeta function has its zeros only at the negative even integers and complex numbers with real part ⁠1/2⁠. Many consider it to be the most important unsolved problem in pure mathematics.[1] It is of great interest in number theory because it implies results about the distribution of prime numbers. It was proposed by Bernhard Riemann (1859), after whom it is named.",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemannian theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "More unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Re(z)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "zeros",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "even integers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "complex numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "real part",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "unsolved problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "pure mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Bernhard Riemann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Goldbach's conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "twin prime conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Twin prime",
+        "title": "Twin prime",
+        "type": "theorem",
+        "description": "A twin prime is a prime number that is either 2 less or 2 more than another prime number—for example, either member of the twin prime pair  (17, 19)  or (41, 43). In other words, a twin prime is a prime that has a prime gap of two. Sometimes the term twin prime is used for a pair of twin primes; an alternative name for this is prime twin or prime pair.",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "prime number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "prime gap",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Yitang Zhang",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "James Maynard",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Terence Tao",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "proving",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "More unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "even",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "OEIS",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "natural number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Brun's theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Viggo Brun",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "reciprocals",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "convergent",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Brun's theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Goldbach's conjecture",
+        "title": "Goldbach's conjecture",
+        "type": "theorem",
+        "description": "Goldbach's conjecture is one of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even natural number greater than 2 is the sum of two prime numbers.",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Latin",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "German",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Christian Goldbach",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Goldbach's weak conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "unsolved problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "even",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "natural number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Prussian",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Christian Goldbach",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Leonhard Euler",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "considering 1",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "prime number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "René Descartes",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Collatz conjecture",
+        "title": "Collatz conjecture",
+        "type": "theorem",
+        "description": "The Collatz conjecture[a] is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1. It concerns sequences of integers in which each term is obtained from the previous term as follows: if a term is even, the next term is one half of it. If a term is odd, the next term is 3 times the previous term plus 1. The conjecture is that these sequences always reach 1, no matter ...",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "More unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Directed graph",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "orbits",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "positive integer",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "sequences of integers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "even",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Lothar Collatz",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "hailstones",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Paul Erdős",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Jeffrey Lagarias",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "positive integer",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "modular arithmetic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Zorn's lemma",
+        "title": "Zorn's lemma",
+        "type": "theorem",
+        "description": "Zorn's lemma, also known as the Kuratowski–Zorn lemma, is a proposition of set theory. It states that a partially ordered set containing upper bounds for every chain (that is, every totally ordered subset) necessarily contains at least one maximal element.",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Zorns Lemma",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "graph",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "spanning tree",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "partially ordered set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "upper bounds",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "chain",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "totally ordered",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "subset",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "necessarily",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "maximal element",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "lemma",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "axiom of choice",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Kazimierz Kuratowski",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Max Zorn",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Halting problem",
+        "title": "Halting problem",
+        "type": "theorem",
+        "description": "In computability theory, the halting problem is the problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running, or continue to run forever. The halting problem is undecidable, meaning that no general algorithm exists that solves the halting problem for all possible program–input pairs. The problem comes up often in discussions of computability since it demonstrates that some functions are mathematically definable but not comp...",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "computability theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "computer program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "undecidable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "algorithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "computability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "definable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "computable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Turing machine",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Turing-complete",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "programming language",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "pseudocode",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "infinite loop",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "print \"Hello, world!\"",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "infinite loops",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "event loops",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Church–Turing thesis",
+        "title": "Church–Turing thesis",
+        "type": "theorem",
+        "description": "In computability theory, the Church–Turing thesis (also known as computability thesis,[1] the  Turing–Church thesis,[2] the Church–Turing conjecture, Church's thesis, Church's conjecture, and Turing's thesis) is a thesis about the nature of computable functions. It states that a function on the natural numbers can be calculated by an effective method if and only if it is computable by a Turing machine. The thesis is named after American mathematician Alonzo Church and the British mathematician A...",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Church's thesis (constructive mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "computability theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "computable functions",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "natural numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "effective method",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Turing machine",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Alonzo Church",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Alan Turing",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "effectively calculable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "formalize",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "computability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Jacques Herbrand",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "general recursive functions",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Prime number theorem",
+        "title": "Prime number theorem",
+        "type": "theorem",
+        "description": "In mathematics, the prime number theorem (PNT) describes the asymptotic distribution of the prime numbers among the positive integers. It formalizes the intuitive idea that primes become less common as they become larger by precisely quantifying the rate at which this occurs.  The theorem was proved independently by Jacques Hadamard[1] and Charles Jean de la Vallée Poussin[2] in 1896 using ideas introduced by Bernhard Riemann (in particular, the Riemann zeta function).",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "natural logarithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "discuss this issue",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "asymptotic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Jacques Hadamard",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Charles Jean de la Vallée Poussin",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Bernhard Riemann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "natural logarithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "probability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "limit",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "asymptotic notation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "relative error",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      }
+    ]
+  }
+}

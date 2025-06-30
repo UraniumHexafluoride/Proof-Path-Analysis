@@ -1,0 +1,589 @@
+# Entailment Cone Analysis Project - Complete Documentation
+
+## Project Overview
+
+This project analyzes the structure of mathematical knowledge through an entailment graph, where nodes represent mathematical systems and theorems, and edges represent logical relationships between them. The goal is to identify structural patterns in mathematical knowledge, such as:
+
+1. Critical junctures (cut vertices) in the logical structure
+2. Natural divisions in mathematical reasoning (connected components)
+3. Economical axiom systems for proving theorems (minimal axioms)
+4. Alternative proof paths and circular dependencies (cycles)
+
+The project uses network analysis techniques to reveal insights about the foundations of mathematics and the relationships between different mathematical systems and theorems.
+
+## Key Files and Their Functions
+
+### Core Classes and Data Structures
+- `entailment_theory.py`: Defines the core classes for logical statements and entailment relations
+  - `LogicalStatement`: Represents a formal logical statement
+  - `EntailmentRelation`: Represents a logical entailment between statements
+  - `EntailmentCone`: Formal representation of an entailment cone with methods for analysis
+
+### Data Generation and Graph Creation
+- `independence_results.py`: Creates an entailment graph with well-known independence results
+- `comprehensive_analysis.py`: Expands the entailment graph with additional theorems and systems
+- `import csv.py`: Generates a foundational entailment graph from CSV data
+
+### Analysis Tools
+- `deep_analysis.py`: Performs detailed structural analysis of the entailment graph
+- `open_problems_analyzer.py`: Tools for analyzing open problems using entailment cones
+- `run_entailment_research.py`: Main script to run the entire research pipeline
+
+### Output Files
+- `entailment_output/entailment_analysis_report.md`: Comprehensive analysis report
+- Various CSV files in `entailment_output/` containing detailed analysis results
+- Visualizations in PNG format showing different aspects of the entailment graph
+
+## How to Run the Project
+
+To run the complete entailment cone analysis pipeline, follow these steps:
+
+1. Ensure all dependencies are installed:
+```
+pip install networkx matplotlib numpy
+```
+
+2. Generate the initial entailment graph:
+```
+python import_csv.py
+```
+
+3. Run the comprehensive analysis:
+```
+python comprehensive_analysis.py
+```
+
+4. Perform deep structural analysis:
+```
+python deep_analysis.py
+```
+
+5. Alternatively, run the entire pipeline with a single command:
+```
+python run_entailment_research.py
+```
+
+## Results and Findings
+
+Our analysis of the entailment graph revealed several interesting patterns:
+
+1. **Cut Vertices**: We identified 3 critical points in the logical structure (ACA0, Con(PA), and ZFC) that serve as bridges between different areas of mathematics.
+
+2. **Connected Components**: The graph contains 1 main connected component with 14 nodes (9 systems, 5 theorems), suggesting that the mathematical systems we analyzed form a cohesive network.
+
+3. **Minimal Axiom Systems**: We found 7 distinct patterns of minimal axiom requirements, showing how theorems cluster based on their logical dependencies.
+
+4. **Cycles**: We detected several fundamental cycles representing alternative proof paths or circular dependencies in the logical structure.
+
+These findings have implications for understanding the structure of mathematical knowledge:
+
+- **Structural Bottlenecks**: The cut vertices represent critical junctures that might be good targets for further research or axiomatization.
+- **Logical Geography**: The connected components suggest natural divisions in mathematical reasoning.
+- **Proof Economy**: The minimal axiom analysis reveals which formal systems are most economical for proving certain theorems.
+- **Redundancy and Robustness**: The fundamental cycles suggest redundancy in the axiom systems, providing multiple proof paths.
+
+## Complete Code for deep_analysis.py
+
+```python
+import networkx as nx
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+import csv
+from collections import defaultdict, Counter
+
+# Use absolute path for output directory
+OUTPUT_DIR = os.path.abspath("entailment_output")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def load_graph_from_csv(filename="independence_graph.csv"):
+    """Load the entailment graph from CSV file."""
+    filepath = os.path.join(OUTPUT_DIR, filename)
+    G = nx.DiGraph()
+    
+    with open(filepath, mode='r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        next(reader)  # Skip header
+        for row in reader:
+            source, target, relation = row
+            G.add_edge(source, target, relation=relation)
+    
+    # Add node types based on relations
+    for node in G.nodes():
+        # If node has "Contains" outgoing edges, it's likely a system
+        if any(G.edges[node, target].get('relation') == 'Contains' for target in G.successors(node)):
+            G.nodes[node]['type'] = 'system'
+        else:
+            G.nodes[node]['type'] = 'theorem'
+    
+    return G
+
+def analyze_cut_vertices(G):
+    """Find and analyze cut vertices in the graph."""
+    # Convert to undirected for cut vertex detection
+    undirected_G = G.to_undirected()
+    cut_vertices = list(nx.articulation_points(undirected_G))
+    
+    # Analyze what gets disconnected when each cut vertex is removed
+    cut_vertex_analysis = []
+    for vertex in cut_vertices:
+        # Remove vertex and check components
+        H = undirected_G.copy()
+        H.remove_node(vertex)
+        components = list(nx.connected_components(H))
+        
+        # Count systems and theorems in each component
+        component_details = []
+        for component in components:
+            systems = [node for node in component if G.nodes[node].get('type') == 'system']
+            theorems = [node for node in component if G.nodes[node].get('type') == 'theorem']
+            component_details.append({
+                'size': len(component),
+                'systems': len(systems),
+                'theorems': len(theorems),
+                'nodes': sorted(list(component))
+            })
+        
+        cut_vertex_analysis.append({
+            'vertex': vertex,
+            'type': G.nodes[vertex].get('type', 'unknown'),
+            'components_after_removal': len(components),
+            'component_details': component_details
+        })
+    
+    # Save analysis to CSV
+    filepath = os.path.join(OUTPUT_DIR, "cut_vertex_analysis.csv")
+    with open(filepath, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Vertex", "Type", "Components After Removal", "Component Details"])
+        for analysis in cut_vertex_analysis:
+            writer.writerow([
+                analysis['vertex'],
+                analysis['type'],
+                analysis['components_after_removal'],
+                '; '.join([f"Comp {i+1}: {comp['size']} nodes ({comp['systems']} sys, {comp['theorems']} thm)" 
+                          for i, comp in enumerate(analysis['component_details'])])
+            ])
+    
+    # Create visualization
+    plt.figure(figsize=(12, 10))
+    pos = nx.spring_layout(G, seed=42)
+    
+    # Draw nodes
+    nx.draw_networkx_nodes(G, pos, 
+                          nodelist=[n for n in G.nodes() if n not in cut_vertices],
+                          node_color='lightblue', 
+                          node_size=500)
+    
+    # Draw cut vertices in red
+    nx.draw_networkx_nodes(G, pos, 
+                          nodelist=cut_vertices,
+                          node_color='red', 
+                          node_size=700)
+    
+    # Draw edges
+    nx.draw_networkx_edges(G, pos, arrows=True)
+    
+    # Draw labels
+    nx.draw_networkx_labels(G, pos, font_size=10)
+    
+    plt.title("Entailment Graph with Cut Vertices Highlighted")
+    plt.axis('off')
+    plt.tight_layout()
+    
+    # Save figure
+    plt.savefig(os.path.join(OUTPUT_DIR, "cut_vertices_visualization.png"), dpi=300)
+    plt.close()
+    
+    print(f"Cut vertex analysis saved to {filepath}")
+    print(f"Cut vertices visualization saved to {os.path.join(OUTPUT_DIR, 'cut_vertices_visualization.png')}")
+    
+    return cut_vertices, cut_vertex_analysis
+
+def analyze_components(G):
+    """Analyze connected components in the graph."""
+    # Convert to undirected for component analysis
+    undirected_G = G.to_undirected()
+    components = list(nx.connected_components(undirected_G))
+    
+    # Analyze each component
+    component_analysis = []
+    for i, component in enumerate(components):
+        systems = [node for node in component if G.nodes[node].get('type') == 'system']
+        theorems = [node for node in component if G.nodes[node].get('type') == 'theorem']
+        
+        # Calculate density
+        subgraph = G.subgraph(component)
+        n = len(component)
+        m = subgraph.number_of_edges()
+        max_edges = n * (n - 1)  # Maximum possible edges in a directed graph
+        density = m / max_edges if max_edges > 0 else 0
+        
+        component_analysis.append({
+            'component_id': i+1,
+            'size': len(component),
+            'systems': len(systems),
+            'system_names': sorted(systems),
+            'theorems': len(theorems),
+            'theorem_names': sorted(theorems),
+            'density': density
+        })
+    
+    # Save analysis to CSV
+    filepath = os.path.join(OUTPUT_DIR, "component_analysis.csv")
+    with open(filepath, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Component ID", "Size", "Systems Count", "Theorems Count", "System Names", "Theorem Names", "Density"])
+        for analysis in component_analysis:
+            writer.writerow([
+                analysis['component_id'],
+                analysis['size'],
+                analysis['systems'],
+                analysis['theorems'],
+                ', '.join(analysis['system_names']),
+                ', '.join(analysis['theorem_names']),
+                analysis['density']
+            ])
+    
+    # Create visualization with each component in a different color
+    plt.figure(figsize=(12, 10))
+    pos = nx.spring_layout(G, seed=42)
+    
+    # Generate colors for components
+    colors = plt.cm.tab10(np.linspace(0, 1, len(components)))
+    
+    # Draw each component with a different color
+    for i, component in enumerate(components):
+        nx.draw_networkx_nodes(G, pos, 
+                              nodelist=list(component),
+                              node_color=[colors[i]],
+                              node_size=500,
+                              label=f"Component {i+1}")
+    
+    # Draw edges
+    nx.draw_networkx_edges(G, pos, arrows=True)
+    
+    # Draw labels
+    nx.draw_networkx_labels(G, pos, font_size=10)
+    
+    plt.title("Entailment Graph Components")
+    plt.axis('off')
+    plt.legend()
+    plt.tight_layout()
+    
+    # Save figure
+    plt.savefig(os.path.join(OUTPUT_DIR, "components_visualization.png"), dpi=300)
+    plt.close()
+    
+    print(f"Component analysis saved to {filepath}")
+    print(f"Components visualization saved to {os.path.join(OUTPUT_DIR, 'components_visualization.png')}")
+    
+    return components, component_analysis
+
+def analyze_minimal_axioms():
+    """Analyze patterns in minimal axiom systems."""
+    filepath = os.path.join(OUTPUT_DIR, "minimal_axioms.csv")
+    
+    # Check if file exists
+    if not os.path.exists(filepath):
+        print(f"Warning: {filepath} not found. Skipping minimal axiom analysis.")
+        return {}, Counter()
+    
+    # Load minimal axiom data
+    theorem_groups = defaultdict(list)
+    system_counts = Counter()
+    
+    with open(filepath, mode='r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        next(reader)  # Skip header
+        for row in reader:
+            if len(row) < 2:
+                continue
+                
+            theorem, minimal_systems_str = row
+            if not minimal_systems_str.strip():
+                minimal_systems = []
+            else:
+                minimal_systems = [s.strip() for s in minimal_systems_str.split(',')]
+            
+            # Group theorems by their minimal axiom systems
+            key = ', '.join(sorted(minimal_systems))
+            theorem_groups[key].append(theorem)
+            
+            # Count how many theorems each system is minimal for
+            for system in minimal_systems:
+                system_counts[system] += 1
+    
+    # Save theorem groupings to CSV
+    output_filepath = os.path.join(OUTPUT_DIR, "theorem_groups.csv")
+    with open(output_filepath, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Minimal Axiom Systems", "Theorems", "Count"])
+        for systems, theorems in theorem_groups.items():
+            writer.writerow([systems, ', '.join(theorems), len(theorems)])
+    
+    # Create heatmap visualization
+    if system_counts and theorem_groups:
+        try:
+            # Get top systems and theorems
+            top_systems = [system for system, _ in system_counts.most_common(10)]
+            all_theorems = set()
+            for theorems in theorem_groups.values():
+                all_theorems.update(theorems)
+            top_theorems = sorted(list(all_theorems))[:15]  # Limit to 15 theorems
+            
+            # Create matrix for heatmap
+            matrix = np.zeros((len(top_theorems), len(top_systems)))
+            
+            # Fill matrix
+            with open(filepath, mode='r', encoding='utf-8') as file:
+                reader = csv.reader(file)
+                next(reader)  # Skip header
+                for row in reader:
+                    if len(row) < 2:
+                        continue
+                        
+                    theorem, minimal_systems_str = row
+                    if theorem not in top_theorems:
+                        continue
+                        
+                    if not minimal_systems_str.strip():
+                        minimal_systems = []
+                    else:
+                        minimal_systems = [s.strip() for s in minimal_systems_str.split(',')]
+                    
+                    for system in minimal_systems:
+                        if system in top_systems:
+                            i = top_theorems.index(theorem)
+                            j = top_systems.index(system)
+                            matrix[i, j] = 1
+            
+            # Create heatmap
+            plt.figure(figsize=(12, 10))
+            plt.imshow(matrix, cmap='Blues', aspect='auto')
+            
+            # Add labels
+            plt.yticks(range(len(top_theorems)), top_theorems)
+            plt.xticks(range(len(top_systems)), top_systems, rotation=45, ha='right')
+            
+            plt.title("Theorem-Axiom System Relationships")
+            plt.colorbar(label="Is Minimal")
+            plt.tight_layout()
+            
+            # Save figure
+            plt.savefig(os.path.join(OUTPUT_DIR, "minimal_axioms_heatmap.png"), dpi=300)
+            plt.close()
+            
+            print(f"Minimal axiom analysis saved to {output_filepath}")
+            print(f"Minimal axioms heatmap saved to {os.path.join(OUTPUT_DIR, 'minimal_axioms_heatmap.png')}")
+        except Exception as e:
+            print(f"Error creating heatmap: {e}")
+    
+    return theorem_groups, system_counts
+
+def analyze_cycles(G):
+    """Analyze fundamental cycles in the graph."""
+    try:
+        # Convert to undirected for cycle basis
+        undirected_G = G.to_undirected()
+        
+        # Find cycle basis
+        cycle_basis = nx.cycle_basis(undirected_G)
+        
+        # Analyze each cycle
+        cycle_analysis = []
+        for i, cycle in enumerate(cycle_basis):
+            # Ensure cycle is a proper cycle (at least 3 nodes)
+            if len(cycle) < 3:
+                continue
+                
+            # Get edge types in the cycle
+            edge_types = []
+            for j in range(len(cycle)):
+                source = cycle[j]
+                target = cycle[(j+1) % len(cycle)]
+                
+                # Check if edge exists in original directed graph
+                if G.has_edge(source, target):
+                    edge_type = G.edges[source, target].get('relation', 'Unknown')
+                    edge_types.append((source, target, edge_type))
+                elif G.has_edge(target, source):
+                    edge_type = G.edges[target, source].get('relation', 'Unknown')
+                    edge_types.append((target, source, edge_type))
+            
+            # Count node types in the cycle
+            systems = [node for node in cycle if G.nodes[node].get('type') == 'system']
+            theorems = [node for node in cycle if G.nodes[node].get('type') == 'theorem']
+            
+            cycle_analysis.append({
+                'cycle_id': i+1,
+                'length': len(cycle),
+                'nodes': cycle,
+                'systems': len(systems),
+                'theorems': len(theorems),
+                'edge_types': edge_types
+            })
+        
+        # Save analysis to CSV
+        filepath = os.path.join(OUTPUT_DIR, "cycle_analysis.csv")
+        with open(filepath, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Cycle ID", "Length", "Nodes", "Systems", "Theorems", "Edge Types"])
+            for analysis in cycle_analysis:
+                writer.writerow([
+                    analysis['cycle_id'],
+                    analysis['length'],
+                    ' -> '.join(analysis['nodes']),
+                    analysis['systems'],
+                    analysis['theorems'],
+                    '; '.join([f"{s}->{t}: {r}" for s, t, r in analysis['edge_types']])
+                ])
+        
+        # Visualize a few interesting cycles
+        if cycle_analysis:
+            # Sort cycles by length (descending)
+            sorted_cycles = sorted(cycle_analysis, key=lambda x: x['length'], reverse=True)
+            
+            # Visualize top 3 cycles (or fewer if less available)
+            for i, cycle_data in enumerate(sorted_cycles[:3]):
+                cycle = cycle_data['nodes']
+                
+                plt.figure(figsize=(10, 8))
+                pos = nx.spring_layout(G, seed=42)
+                
+                # Draw all nodes in light gray
+                nx.draw_networkx_nodes(G, pos, 
+                                      node_color='lightgray', 
+                                      node_size=300)
+                
+                # Draw cycle nodes in blue
+                nx.draw_networkx_nodes(G, pos, 
+                                      nodelist=cycle,
+                                      node_color='lightblue', 
+                                      node_size=500)
+                
+                # Draw all edges in light gray
+                nx.draw_networkx_edges(G, pos, 
+                                      edge_color='lightgray',
+                                      arrows=True,
+                                      alpha=0.3)
+                
+                # Draw cycle edges in blue
+                cycle_edges = [(cycle[j], cycle[(j+1) % len(cycle)]) for j in range(len(cycle))]
+                nx.draw_networkx_edges(G, pos, 
+                                      edgelist=cycle_edges,
+                                      edge_color='blue',
+                                      arrows=True,
+                                      width=2)
+                
+                # Draw labels
+                nx.draw_networkx_labels(G, pos, font_size=10)
+                
+                plt.title(f"Cycle {cycle_data['cycle_id']}: {' -> '.join(cycle)}")
+                plt.axis('off')
+                plt.tight_layout()
+                
+                # Save figure
+                plt.savefig(os.path.join(OUTPUT_DIR, f"cycle_{cycle_data['cycle_id']}_visualization.png"), dpi=300)
+                plt.close()
+            
+            print(f"Cycle analysis saved to {filepath}")
+            print(f"Cycle visualizations saved to {os.path.join(OUTPUT_DIR, 'cycle_X_visualization.png')}")
+        
+        return cycle_basis, cycle_analysis
+    
+    except Exception as e:
+        print(f"Error analyzing cycles: {e}")
+        return [], []
+
+def generate_summary_report(cut_vertices, components, theorem_groups, system_counts, cycle_analysis):
+    """Generate a comprehensive summary report of all analyses."""
+    report = [
+        "# Entailment Cone Analysis Report",
+        "",
+        "## 1. Cut Vertices Analysis",
+        "",
+        f"Found {len(cut_vertices)} cut vertices in the entailment graph. These represent critical points",
+        "in the logical structure of mathematics, where removing them would disconnect parts of the graph.",
+        "",
+        "Top cut vertices:",
+    ]
+    
+    for vertex in cut_vertices[:5]:
+        report.append(f"- {vertex}")
+    
+    report.extend([
+        "",
+        "## 2. Connected Components Analysis",
+        "",
+        f"The entailment graph contains {len(components)} connected components, suggesting",
+        "distinct areas of mathematical reasoning that are not directly connected.",
+        "",
+        "Component details:",
+    ])
+    
+    for i, component in enumerate(components):
+        systems = [node for node in component if G.nodes[node].get('type') == 'system']
+        theorems = [node for node in component if G.nodes[node].get('type') == 'theorem']
+        report.append(f"Component {i+1}: {len(systems)} systems, {len(theorems)} theorems")
+        report.append(f"  Systems: {', '.join(systems)}")
+        report.append(f"  Theorems: {', '.join(theorems)}")
+        report.append("")
+    
+    report.extend([
+        "",
+        "## 3. Minimal Axiom Systems Analysis",
+        "",
+        f"Found {len(theorem_groups)} distinct patterns of minimal axiom requirements.",
+        "Theorems cluster based on their logical dependencies.",
+        "",
+        "Top 5 patterns:",
+    ])
+    
+    for i, (systems, theorems) in enumerate(theorem_groups.items()):
+        if i >= 5:
+            break
+        report.append(f"{i+1}. {systems}: {', '.join(theorems)}")
+    
+    report.extend([
+        "",
+        "## 4. Fundamental Cycles Analysis",
+        "",
+        f"Detected {len(cycle_analysis)} fundamental cycles in the graph.",
+        "These cycles represent alternative proof paths or circular dependencies.",
+        "",
+        "Top 3 cycles:",
+    ])
+    
+    for i, cycle in enumerate(cycle_analysis[:3]):
+        report.append(f"Cycle {i+1}: {' -> '.join(cycle['nodes'])}")
+        report.append(f"  Length: {cycle['length']}")
+        report.append(f"  Systems: {cycle['systems']}")
+        report.append(f"  Theorems: {cycle['theorems']}")
+        report.append("")
+    
+    report.extend([
+        "",
+        "## 5. Summary",
+        "",
+        "This analysis provides insights into the structure of mathematical knowledge.",
+        "It highlights critical junctures, natural divisions, economical axiom systems,",
+        "and alternative proof paths in the logical structure of mathematics.",
+        "",
+        "For more detailed information, please refer to the individual analysis files.",
+        "",
+        "## 6. Analysis Files",
+        "",
+        "- Cut Vertices Analysis: cut_vertex_analysis.csv",
+        "- Components Analysis: component_analysis.csv",
+        "- Minimal Axiom Systems: theorem_groups.csv",
+        "- Cycles Analysis: cycle_analysis.csv",
+        "- Visualizations: cut_vertices_visualization.png, components_visualization.png, minimal_axioms_heatmap.png",
+    ])
+    
+    report_path = os.path.join(OUTPUT_DIR, "entailment_analysis_report.md")
+    with open(report_path, mode='w', encoding='utf-8') as file:
+        file.write("\n".join(report))
+    
+    print(f"Summary report generated at {report_path}")
+```

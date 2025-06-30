@@ -1,0 +1,8 @@
+Minimal Axiom Systems,Theorems,Count
+"ACA0, PA+Con(PA), PA2","PH, GT, Ramsey, 4CT",4
+"ZFC+AD, ZFC+LC, ZFC+MM, ZFC+PD","CH, Con(ZFC), GCH, BT, PD",5
+"Z, ZF+DC, ZFC+AD, ZFC+LC, ZFC+MM, ZFC+PD","AC, Con(ZF)",2
+"PA+Con(PA), PA2, ZFC+AD, ZFC+LC, ZFC+MM, ZFC+PD",Con(PA),1
+PA2,"KP, FLT",2
+ZFC+LC,MC,1
+,Ind_Comp,1

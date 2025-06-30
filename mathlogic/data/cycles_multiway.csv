@@ -1,0 +1,2 @@
+Length,Cycle
+2,AA -> AB (AA -> AB) | AB -> AA (AB -> AA)

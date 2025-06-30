@@ -1,0 +1,48 @@
+Source,Target,Entailment Relation
+ZFC,Fermat's Last Theorem,Proves
+ZFC,Poincaré Conjecture,Proves
+ZFC,Hodge Conjecture,Proves
+ZFC,Zorn's Lemma,Proves
+ZFC,Well-Ordering Theorem,Proves
+ZFC,Compactness Theorem,Proves
+ZFC,Prime Number Theorem,Proves
+ZFC,Continuum Hypothesis,Independence
+ZFC,Twin Prime Conjecture,Independence
+ZFC,Riemann Hypothesis,Independence
+ZFC,Axiom of Choice,Independence
+ZFC,ZF,Contains
+ZFC,PA,Contains
+ZF,Well-Ordering Theorem,Independence
+ZF,PA,Contains
+PA,Fundamental Theorem of Arithmetic,Proves
+PA,Completeness Theorem,Proves
+PA,Gödel's Incompleteness,Independence
+PA,Halting Problem,Independence
+PA,Church-Turing Thesis,Independence
+PA2,Four Color Theorem,Proves
+PA2,Incompleteness Theorem,Proves
+PA2,PA,Contains
+ACA0,PA,Contains
+PVS+NP,P vs NP,Independence
+ZFC+LC,ZFC,Contains
+ZFC+MM,Swinerton-Dyer Conjecture,Proves
+ZFC+MM,ZFC,Contains
+ZFC+MM,PFA,Implies
+ZFC+AD,ZFC,Contains
+ZFC+PD,ZFC,Contains
+Martin Axiom,Suslin Hypothesis,Independence
+Martin Axiom,CH,Independence
+Twin Prime Conjecture,Goldbach Conjecture,Independence
+Green-Tao Theorem,Erdős-Moser Theorem,Independence
+Freyd-Mitchell Embedding Theorem,Yoneda Lemma,Independence
+Axiom of Choice,Zorn's Lemma,Implies
+Zorn's Lemma,Well-Ordering Theorem,Implies
+Compactness Theorem,Löwenheim–Skolem Theorem,Implies
+Completeness Theorem,Compactness Theorem,Implies
+Incompleteness Theorem,Gödel's Incompleteness,Implies
+Halting Problem,P vs NP,Implies
+Fundamental Theorem of Arithmetic,Prime Number Theorem,Implies
+Prime Number Theorem,Riemann Hypothesis,Implies
+Prime Number Theorem,Twin Prime Conjecture,Implies
+Well-Ordering Theorem,Axiom of Choice,Implies
+AC,Banach-Tarski Paradox,Implies

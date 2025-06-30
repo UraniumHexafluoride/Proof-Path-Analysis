@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-05-27 19:14:12.770068",
+  "base_expansion": {
+    "timestamp": "2025-05-27 19:14:12.769068",
+    "added_statements": [
+      "Added system: ZFC",
+      "Added system: ZF",
+      "Added system: PA",
+      "Added system: PA2",
+      "Added system: ZFC+LC",
+      "Added system: ZFC+MM",
+      "Added theorem: Fermat's Last Theorem",
+      "Added theorem: Four Color Theorem",
+      "Added theorem: Continuum Hypothesis",
+      "Added theorem: AC"
+    ],
+    "added_relations": [
+      "Added containment: ZFC contains ZF",
+      "Added containment: PA2 contains PA",
+      "Added containment: ZFC+LC contains ZFC",
+      "Added containment: ZFC+MM contains ZFC",
+      "Added proof: PA2 proves Fermat's Last Theorem",
+      "Added proof: PA proves Four Color Theorem",
+      "Added proof: ZFC proves AC",
+      "Added independence: Continuum Hypothesis independent of ZFC",
+      "Added independence: AC independent of ZF"
+    ],
+    "validation_messages": [
+      "Error adding containment ZF -> Z: Target statement 'Z' does not exist",
+      "Error adding containment PA -> HA: Target statement 'HA' does not exist"
+    ]
+  },
+  "additional_systems": {
+    "added_systems": [
+      "ZFC+AD",
+      "ZFC+PD",
+      "HOL",
+      "IZF"
+    ],
+    "errors": [],
+    "warnings": []
+  },
+  "additional_theorems": {
+    "added_theorems": [
+      "G\u00f6del Completeness",
+      "L\u00f6wenheim-Skolem",
+      "Banach-Tarski Paradox"
+    ],
+    "errors": [],
+    "warnings": []
+  },
+  "additional_relationships": {
+    "added_relationships": [
+      "G\u00f6del Completeness -implies-> L\u00f6wenheim-Skolem",
+      "AC -enables-> Banach-Tarski Paradox"
+    ],
+    "errors": []
+  }
+}

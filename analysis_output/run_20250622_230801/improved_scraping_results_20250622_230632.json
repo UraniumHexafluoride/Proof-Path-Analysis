@@ -1,0 +1,1876 @@
+{
+  "metadata": {
+    "timestamp": "20250622_230632",
+    "scraping_date": "2025-06-22T23:06:32.873813",
+    "total_theorems": 14,
+    "total_relationships": 280,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis",
+          "Twin Prime Conjecture",
+          "Goldbach's Conjecture",
+          "Collatz Conjecture",
+          "Zorn's Lemma",
+          "Well-Ordering Theorem",
+          "Compactness Theorem",
+          "Löwenheim–Skolem Theorem",
+          "Completeness Theorem",
+          "Halting Problem",
+          "Church-Turing Thesis",
+          "Prime Number Theorem"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 14,
+      "relationship_count": 280,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Twin prime",
+        "Goldbach's conjecture",
+        "Collatz conjecture",
+        "Zorn's lemma",
+        "Halting problem",
+        "Church–Turing thesis",
+        "Prime number theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Hilbert's program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Effective procedure",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Algorithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Mathematical proof",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Cantor's diagonal argument",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Alonzo Church",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Entscheidungsproblem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Halting problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Peano arithmetic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Recursively enumerable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "True arithmetic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Complete theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Parallel postulate",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Dense linear order",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Continuum hypothesis",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Zermelo–Fraenkel set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Peano arithmetic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Diophantus",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Arithmetica",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pierre de Fermat",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Positive number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pierre de Fermat",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Arithmetica",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abel Prize",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Lift (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Guinness Book of World Records",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pythagorean theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pythagorean triple",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Exponent",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Sophie Germain",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ernst Kummer",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Regular prime",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Goro Shimura",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Yutaka Taniyama",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Elliptic curve",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Indexed family",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Infinite set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Indexed family",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Nonempty",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Ernst Zermelo",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Partition of a set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Transversal (combinatorics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Choice function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Bertrand Russell",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Choice function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Negation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Cartesian product",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Indexed family",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Cartesian product",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Pairwise disjoint",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Zermelo",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Interval (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Well-order",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "If and only if",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Definable set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Law of cosines",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Solid geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Non-Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Differential geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean triple",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean distance",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean trigonometric identity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Projective geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Sphere",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Plane (geometry)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "List of geometry topics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Non-Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Elliptic geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Spherical geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Hyperbolic geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Non-Archimedean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Projective geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Disquisitiones Arithmeticae",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Carl Friedrich Gauss",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Law of quadratic reciprocity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Up to",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Unique factorization domain",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Principal ideal domain",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclidean domain",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Pierre de Fermat",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclid",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclid's Elements",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Proof by infinite descent",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Least common multiple",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "André Weil",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclid",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Kamāl al-Dīn al-Fārisī",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Carl Friedrich Gauss",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Disquisitiones Arithmeticae",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Empty product",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Infinite product",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Greatest common divisor",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Continuum assumption",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "The Continuum Hypothesis (album)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Cardinality",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Georg Cantor",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Hilbert's problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Independence (mathematical logic)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Paul Cohen",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Continuum (set theory)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "International Congress of Mathematicians",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Paul Cohen (mathematician)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Cardinality",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Bijection",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Infinite set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Cantor's diagonal argument",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Equinumerous",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Paul Cohen (mathematician)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Constructible universe",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemannian theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Complex numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Root of a function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Real part",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "List of unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Bernhard Riemann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Hilbert's eighth problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "David Hilbert",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Hilbert's problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Millennium Prize Problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "US$",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Function (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Argument of a function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Millennium Prize Problems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Navier–Stokes existence and smoothness",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "P versus NP problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Yang–Mills existence and mass gap",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Imaginary unit",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Twin prime",
+        "title": "Twin prime",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Prime gap",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Yitang Zhang",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "James Maynard (mathematician)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Terence Tao",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Mathematical proof",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Parity (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Viggo Brun",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Multiplicative inverse",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Convergent series",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Brun sieve",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Sieve theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Open problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Alphonse de Polignac",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Yitang Zhang",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Terence Tao",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Polymath Project",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "James Maynard (mathematician)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Terence Tao",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Siegel zero",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Goldbach's conjecture",
+        "title": "Goldbach's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Latin",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "German language",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Christian Goldbach",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "List of unsolved problems in mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Even and odd numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Prussia",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Christian Goldbach",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Leonhard Euler",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "René Descartes",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Paul Erdős",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Ivan Vinogradov",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Nikolai Chudakov",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Johannes van der Corput",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Theodor Estermann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Almost all",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Lev Schnirelmann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Schnirelmann density",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Olivier Ramaré",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Harald Helfgott",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Generalized Riemann hypothesis",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Collatz conjecture",
+        "title": "Collatz conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Directed graph",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Orbit (dynamics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Parity (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Lothar Collatz",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Hailstones",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Paul Erdős",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Jeffrey Lagarias",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Modular arithmetic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Function (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Maximum",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "On-Line Encyclopedia of Integer Sequences",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Power of two",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Counterexamples",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Lower bound",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "P-adic numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Almost all",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Zorn's lemma",
+        "title": "Zorn's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Graph (discrete mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Spanning tree",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Upper bound",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Chain (order theory)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Total order",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Necessity and sufficiency",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Maximal element",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Kazimierz Kuratowski",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Max August Zorn",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Functional analysis",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Basis (linear algebra)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Topology",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Abstract algebra",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Maximal ideal",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Algebraic closure",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Transfinite induction",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Timothy Gowers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Binary relation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Reflexive relation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Antisymmetric relation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Halting problem",
+        "title": "Halting problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Computability theory (computer science)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Computer program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Undecidable problem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Algorithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Computability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Definable set",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Computable function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Programming language",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Pseudocode",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Infinite loop",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "\"Hello, World!\" program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Infinite loop",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Event loop",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Real-time computing",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "MISRA C",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "SPARK (programming language)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Rule of least power",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Rocq (software)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Interpreter (computing)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Linear bounded automaton",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Church–Turing thesis",
+        "title": "Church–Turing thesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Computability theory (computation)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Computable function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Function (mathematics)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Effective method",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Alonzo Church",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Effectively calculable",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Formal system",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Computability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Jacques Herbrand",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "General recursive function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Function composition",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Recursion",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Μ operator",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Zero function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Successor function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Projection function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Lambda calculus",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Church numerals",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Lambda-recursive function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Prime number theorem",
+        "title": "Prime number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Natural logarithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Talk:Prime number theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Asymptotic analysis",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Jacques Hadamard",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Charles Jean de la Vallée Poussin",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Bernhard Riemann",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Natural logarithm",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Probability",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime-counting function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Limit of a function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Asymptotic notation",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Relative error",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Chebyshev function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Mertens function",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Anton Felkel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Jurij Vega",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Adrien-Marie Legendre",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      }
+    ]
+  }
+}

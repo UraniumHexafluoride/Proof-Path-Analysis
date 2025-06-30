@@ -1,0 +1,81 @@
+System,Theorem,Path Length,Path
+ZFC,CH,2,ZFC -> CH
+ZFC,AC,3,ZFC -> ZF -> AC
+ZFC,AC,2,ZFC -> AC
+ZFC,Con(PA),2,ZFC -> Con(PA)
+ZFC,Con(ZFC),2,ZFC -> Con(ZFC)
+ZFC,GCH,2,ZFC -> GCH
+ZFC,BT,2,ZFC -> BT
+ZFC,PD,2,ZFC -> PD
+ZFC,Con(ZF),3,ZFC -> ZF -> Con(ZF)
+PA,PH,2,PA -> PH
+PA,GT,2,PA -> GT
+PA,Con(PA),2,PA -> Con(PA)
+PA,Ramsey,2,PA -> Ramsey
+PA,4CT,2,PA -> 4CT
+ZF,AC,2,ZF -> AC
+ZF,Con(ZF),2,ZF -> Con(ZF)
+ZFC+LC,CH,3,ZFC+LC -> ZFC -> CH
+ZFC+LC,CH,2,ZFC+LC -> CH
+ZFC+LC,AC,4,ZFC+LC -> ZFC -> ZF -> AC
+ZFC+LC,AC,3,ZFC+LC -> ZFC -> AC
+ZFC+LC,Con(PA),3,ZFC+LC -> ZFC -> Con(PA)
+ZFC+LC,Con(ZFC),3,ZFC+LC -> ZFC -> Con(ZFC)
+ZFC+LC,GCH,3,ZFC+LC -> ZFC -> GCH
+ZFC+LC,BT,3,ZFC+LC -> ZFC -> BT
+ZFC+LC,PD,3,ZFC+LC -> ZFC -> PD
+ZFC+LC,PD,2,ZFC+LC -> PD
+ZFC+LC,MC,2,ZFC+LC -> MC
+ZFC+LC,Con(ZF),4,ZFC+LC -> ZFC -> ZF -> Con(ZF)
+PA+Con(PA),PH,3,PA+Con(PA) -> PA -> PH
+PA+Con(PA),PH,2,PA+Con(PA) -> PH
+PA+Con(PA),GT,3,PA+Con(PA) -> PA -> GT
+PA+Con(PA),GT,2,PA+Con(PA) -> GT
+PA+Con(PA),Con(PA),3,PA+Con(PA) -> PA -> Con(PA)
+PA+Con(PA),Con(PA),2,PA+Con(PA) -> Con(PA)
+PA+Con(PA),Ramsey,3,PA+Con(PA) -> PA -> Ramsey
+PA+Con(PA),4CT,3,PA+Con(PA) -> PA -> 4CT
+ACA0,PH,2,ACA0 -> PH
+ACA0,GT,2,ACA0 -> GT
+ACA0,Ramsey,2,ACA0 -> Ramsey
+ACA0,4CT,2,ACA0 -> 4CT
+ZFC+PD,CH,3,ZFC+PD -> ZFC -> CH
+ZFC+PD,AC,4,ZFC+PD -> ZFC -> ZF -> AC
+ZFC+PD,AC,3,ZFC+PD -> ZFC -> AC
+ZFC+PD,Con(PA),3,ZFC+PD -> ZFC -> Con(PA)
+ZFC+PD,Con(ZFC),3,ZFC+PD -> ZFC -> Con(ZFC)
+ZFC+PD,GCH,3,ZFC+PD -> ZFC -> GCH
+ZFC+PD,BT,3,ZFC+PD -> ZFC -> BT
+ZFC+PD,PD,3,ZFC+PD -> ZFC -> PD
+ZFC+PD,PD,2,ZFC+PD -> PD
+ZFC+PD,Con(ZF),4,ZFC+PD -> ZFC -> ZF -> Con(ZF)
+ZFC+MM,CH,3,ZFC+MM -> ZFC -> CH
+ZFC+MM,AC,4,ZFC+MM -> ZFC -> ZF -> AC
+ZFC+MM,AC,3,ZFC+MM -> ZFC -> AC
+ZFC+MM,Con(PA),3,ZFC+MM -> ZFC -> Con(PA)
+ZFC+MM,Con(ZFC),3,ZFC+MM -> ZFC -> Con(ZFC)
+ZFC+MM,GCH,3,ZFC+MM -> ZFC -> GCH
+ZFC+MM,BT,3,ZFC+MM -> ZFC -> BT
+ZFC+MM,PD,3,ZFC+MM -> ZFC -> PD
+ZFC+MM,PD,2,ZFC+MM -> PD
+ZFC+MM,Con(ZF),4,ZFC+MM -> ZFC -> ZF -> Con(ZF)
+ZFC+AD,CH,3,ZFC+AD -> ZFC -> CH
+ZFC+AD,AC,4,ZFC+AD -> ZFC -> ZF -> AC
+ZFC+AD,AC,3,ZFC+AD -> ZFC -> AC
+ZFC+AD,Con(PA),3,ZFC+AD -> ZFC -> Con(PA)
+ZFC+AD,Con(ZFC),3,ZFC+AD -> ZFC -> Con(ZFC)
+ZFC+AD,GCH,3,ZFC+AD -> ZFC -> GCH
+ZFC+AD,BT,3,ZFC+AD -> ZFC -> BT
+ZFC+AD,PD,3,ZFC+AD -> ZFC -> PD
+ZFC+AD,Con(ZF),4,ZFC+AD -> ZFC -> ZF -> Con(ZF)
+ZF+DC,AC,3,ZF+DC -> ZF -> AC
+ZF+DC,Con(ZF),3,ZF+DC -> ZF -> Con(ZF)
+Z,AC,3,Z -> ZF -> AC
+Z,Con(ZF),3,Z -> ZF -> Con(ZF)
+PA2,PH,3,PA2 -> PA -> PH
+PA2,GT,3,PA2 -> PA -> GT
+PA2,Con(PA),3,PA2 -> PA -> Con(PA)
+PA2,Ramsey,3,PA2 -> PA -> Ramsey
+PA2,KP,2,PA2 -> KP
+PA2,FLT,2,PA2 -> FLT
+PA2,4CT,3,PA2 -> PA -> 4CT

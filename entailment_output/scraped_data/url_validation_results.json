@@ -1,0 +1,1488 @@
+{
+  "wikipedia": {
+    "Fermat's_Last_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+      "status_codes": [
+        [
+          "Fermat's_Last_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Four_Color_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Four_Color_Theorem",
+      "status_codes": [
+        [
+          "Four_Color_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Riemann_Hypothesis": {
+      "valid_url": "https://en.wikipedia.org/wiki/Riemann_Hypothesis",
+      "status_codes": [
+        [
+          "Riemann_Hypothesis",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Poincare_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Poincare_Conjecture",
+      "status_codes": [
+        [
+          "Poincare_Conjecture",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Twin_Prime_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Twin_Prime_Conjecture",
+      "status_codes": [
+        [
+          "Twin_Prime_Conjecture",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Goldbach's_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Goldbach%27s_Conjecture",
+      "status_codes": [
+        [
+          "Goldbach's_Conjecture",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "ABC_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Abc_conjecture",
+      "status_codes": [
+        [
+          "ABC_Conjecture",
+          404
+        ],
+        [
+          "ABC_Conjecture",
+          404
+        ],
+        [
+          "abc_conjecture",
+          301
+        ]
+      ],
+      "found": true
+    },
+    "P_versus_NP_problem": {
+      "valid_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+      "status_codes": [
+        [
+          "P_versus_NP_problem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Collatz_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Collatz_Conjecture",
+      "status_codes": [
+        [
+          "Collatz_Conjecture",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Birch_and_Swinnerton-Dyer_Conjecture": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "Birch_and_Swinnerton-Dyer_Conjecture",
+          404
+        ],
+        [
+          "Birch_and_Swinnerton-Dyer_Conjecture",
+          404
+        ],
+        [
+          "birch_and_swinnerton-dyer_conjecture",
+          301
+        ],
+        [
+          "Birch and Swinnerton-Dyer Conjecture",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "Hodge_Conjecture": {
+      "valid_url": "https://en.wikipedia.org/wiki/Hodge_Conjecture",
+      "status_codes": [
+        [
+          "Hodge_Conjecture",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Riemann_Zeta_Function": {
+      "valid_url": "https://en.wikipedia.org/wiki/Riemann_Zeta_Function",
+      "status_codes": [
+        [
+          "Riemann_Zeta_Function",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Continuum_Hypothesis": {
+      "valid_url": "https://en.wikipedia.org/wiki/Continuum_Hypothesis",
+      "status_codes": [
+        [
+          "Continuum_Hypothesis",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Euler's_Identity": {
+      "valid_url": "https://en.wikipedia.org/wiki/Euler%27s_Identity",
+      "status_codes": [
+        [
+          "Euler's_Identity",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Euler's_Formula": {
+      "valid_url": "https://en.wikipedia.org/wiki/Euler%27s_Formula",
+      "status_codes": [
+        [
+          "Euler's_Formula",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Euler's_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Euler%27s_Theorem",
+      "status_codes": [
+        [
+          "Euler's_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Euler's_Totient_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Euler%27s_Totient_Theorem",
+      "status_codes": [
+        [
+          "Euler's_Totient_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Gauss's_Law": {
+      "valid_url": "https://en.wikipedia.org/wiki/Gauss%27s_Law",
+      "status_codes": [
+        [
+          "Gauss's_Law",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Gauss-Bonnet_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Gauss-Bonnet_Theorem",
+      "status_codes": [
+        [
+          "Gauss-Bonnet_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Green's_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Green%27s_Theorem",
+      "status_codes": [
+        [
+          "Green's_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Stokes'_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Stokes%27_Theorem",
+      "status_codes": [
+        [
+          "Stokes'_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Divergence_Theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Divergence_Theorem",
+      "status_codes": [
+        [
+          "Divergence_Theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Fundamental_Theorem_of_Arithmetic": {
+      "valid_url": "https://en.wikipedia.org/wiki/Fundamental_Theorem_of_Arithmetic",
+      "status_codes": [
+        [
+          "Fundamental_Theorem_of_Arithmetic",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Fundamental_Theorem_of_Algebra": {
+      "valid_url": "https://en.wikipedia.org/wiki/Fundamental_Theorem_of_Algebra",
+      "status_codes": [
+        [
+          "Fundamental_Theorem_of_Algebra",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Fundamental_Theorem_of_Calculus": {
+      "valid_url": "https://en.wikipedia.org/wiki/Fundamental_Theorem_of_Calculus",
+      "status_codes": [
+        [
+          "Fundamental_Theorem_of_Calculus",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Rank\u00e2\u20ac\u201cnullity_theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "Rank\u00e2\u20ac\u201cnullity_theorem",
+          404
+        ],
+        [
+          "Rank\u00e2\u20ac\u201cnullity_theorem",
+          404
+        ],
+        [
+          "rank\u00e2\u20ac\u201cnullity_theorem",
+          301
+        ],
+        [
+          "Rank\u00e2\u20ac\u201cnullity theorem",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "Fundamental_theorem_of_Galois_theory": {
+      "valid_url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory",
+      "status_codes": [
+        [
+          "Fundamental_theorem_of_Galois_theory",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Classification_of_finite_simple_groups": {
+      "valid_url": "https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups",
+      "status_codes": [
+        [
+          "Classification_of_finite_simple_groups",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "G\u00c3\u00b6del's_incompleteness_theorems": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "G\u00c3\u00b6del's_incompleteness_theorems",
+          404
+        ],
+        [
+          "G\u00c3\u00b6del's_incompleteness_theorems",
+          404
+        ],
+        [
+          "g\u00e3\u00b6del's_incompleteness_theorems",
+          301
+        ],
+        [
+          "G\u00c3\u00b6del's incompleteness theorems",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "L\u00c3\u00b6wenheim\u00e2\u20ac\u201cSkolem_theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "L\u00c3\u00b6wenheim\u00e2\u20ac\u201cSkolem_theorem",
+          404
+        ],
+        [
+          "L\u00c3\u00b6wenheim\u00e2\u20ac\u201cSkolem_theorem",
+          404
+        ],
+        [
+          "l\u00e3\u00b6wenheim\u00e2\u20ac\u201cskolem_theorem",
+          301
+        ],
+        [
+          "L\u00c3\u00b6wenheim\u00e2\u20ac\u201cSkolem theorem",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "Compactness_theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Compactness_theorem",
+      "status_codes": [
+        [
+          "Compactness_theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Craig_interpolation": {
+      "valid_url": "https://en.wikipedia.org/wiki/Craig_interpolation",
+      "status_codes": [
+        [
+          "Craig_interpolation",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "Lindstr\u00c3\u00b6m's_theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "Lindstr\u00c3\u00b6m's_theorem",
+          404
+        ],
+        [
+          "Lindstr\u00c3\u00b6m's_theorem",
+          404
+        ],
+        [
+          "lindstr\u00e3\u00b6m's_theorem",
+          301
+        ],
+        [
+          "Lindstr\u00c3\u00b6m's theorem",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "Morley's_categoricity_theorem": {
+      "valid_url": "https://en.wikipedia.org/wiki/Morley%27s_categoricity_theorem",
+      "status_codes": [
+        [
+          "Morley's_categoricity_theorem",
+          200
+        ]
+      ],
+      "found": true
+    }
+  },
+  "nlab": {
+    "fundamental theorem of arithmetic": {
+      "valid_url": "https://ncatlab.org/nlab/show/fundamental+theorem+of+arithmetic",
+      "status_codes": [
+        [
+          "fundamental+theorem+of+arithmetic",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "fundamental theorem of algebra": {
+      "valid_url": "https://ncatlab.org/nlab/show/fundamental+theorem+of+algebra",
+      "status_codes": [
+        [
+          "fundamental+theorem+of+algebra",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "fundamental theorem of calculus": {
+      "valid_url": "https://ncatlab.org/nlab/show/fundamental+theorem+of+calculus",
+      "status_codes": [
+        [
+          "fundamental+theorem+of+calculus",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "fundamental theorem of galois theory": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "fundamental+theorem+of+galois+theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+galois+theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_galois_theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_galois_theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+galois+theory",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "rank-nullity theorem": {
+      "valid_url": "https://ncatlab.org/nlab/show/rank-nullity+theorem",
+      "status_codes": [
+        [
+          "rank-nullity+theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "fundamental theorem of homological algebra": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "fundamental+theorem+of+homological+algebra",
+          404
+        ],
+        [
+          "fundamental+theorem+of+homological+algebra",
+          404
+        ],
+        [
+          "fundamental_theorem_of_homological_algebra",
+          404
+        ],
+        [
+          "fundamental_theorem_of_homological_algebra",
+          404
+        ],
+        [
+          "fundamental+theorem+of+homological+algebra",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "fundamental theorem of morse theory": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "fundamental+theorem+of+morse+theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+morse+theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_morse_theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_morse_theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+morse+theory",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "fundamental theorem of k-theory": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "fundamental+theorem+of+k-theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+k-theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_k-theory",
+          404
+        ],
+        [
+          "fundamental_theorem_of_k-theory",
+          404
+        ],
+        [
+          "fundamental+theorem+of+k-theory",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "fundamental theorem of projective geometry": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "fundamental+theorem+of+projective+geometry",
+          404
+        ],
+        [
+          "fundamental+theorem+of+projective+geometry",
+          404
+        ],
+        [
+          "fundamental_theorem_of_projective_geometry",
+          404
+        ],
+        [
+          "fundamental_theorem_of_projective_geometry",
+          404
+        ],
+        [
+          "fundamental+theorem+of+projective+geometry",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "godel completeness theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "godel+completeness+theorem",
+          404
+        ],
+        [
+          "godel+completeness+theorem",
+          404
+        ],
+        [
+          "godel_completeness_theorem",
+          404
+        ],
+        [
+          "godel_completeness_theorem",
+          404
+        ],
+        [
+          "godel+completeness+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "godel incompleteness theorems": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "godel+incompleteness+theorems",
+          404
+        ],
+        [
+          "godel+incompleteness+theorems",
+          404
+        ],
+        [
+          "godel_incompleteness_theorems",
+          404
+        ],
+        [
+          "godel_incompleteness_theorems",
+          404
+        ],
+        [
+          "godel+incompleteness+theorems",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "lowenheim-skolem theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "lowenheim-skolem+theorem",
+          404
+        ],
+        [
+          "lowenheim-skolem+theorem",
+          404
+        ],
+        [
+          "lowenheim-skolem_theorem",
+          404
+        ],
+        [
+          "lowenheim-skolem_theorem",
+          404
+        ],
+        [
+          "lowenheim-skolem+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "compactness theorem": {
+      "valid_url": "https://ncatlab.org/nlab/show/compactness+theorem",
+      "status_codes": [
+        [
+          "compactness+theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "craig interpolation theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "craig+interpolation+theorem",
+          404
+        ],
+        [
+          "craig+interpolation+theorem",
+          404
+        ],
+        [
+          "craig_interpolation_theorem",
+          404
+        ],
+        [
+          "craig_interpolation_theorem",
+          404
+        ],
+        [
+          "craig+interpolation+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "lindstrom theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "lindstrom+theorem",
+          404
+        ],
+        [
+          "lindstrom+theorem",
+          404
+        ],
+        [
+          "lindstrom_theorem",
+          404
+        ],
+        [
+          "lindstrom_theorem",
+          404
+        ],
+        [
+          "lindstrom+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "morley theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "morley+theorem",
+          404
+        ],
+        [
+          "morley+theorem",
+          404
+        ],
+        [
+          "morley_theorem",
+          404
+        ],
+        [
+          "morley_theorem",
+          404
+        ],
+        [
+          "morley+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "ehrenpreis-malgrange theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "ehrenpreis-malgrange+theorem",
+          404
+        ],
+        [
+          "ehrenpreis-malgrange+theorem",
+          404
+        ],
+        [
+          "ehrenpreis-malgrange_theorem",
+          404
+        ],
+        [
+          "ehrenpreis-malgrange_theorem",
+          404
+        ],
+        [
+          "ehrenpreis-malgrange+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "schwartz kernel theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "schwartz+kernel+theorem",
+          404
+        ],
+        [
+          "schwartz+kernel+theorem",
+          404
+        ],
+        [
+          "schwartz_kernel_theorem",
+          404
+        ],
+        [
+          "schwartz_kernel_theorem",
+          404
+        ],
+        [
+          "schwartz+kernel+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "schwartz nuclear theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "schwartz+nuclear+theorem",
+          404
+        ],
+        [
+          "schwartz+nuclear+theorem",
+          404
+        ],
+        [
+          "schwartz_nuclear_theorem",
+          404
+        ],
+        [
+          "schwartz_nuclear_theorem",
+          404
+        ],
+        [
+          "schwartz+nuclear+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "gelfand-naimark theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "gelfand-naimark+theorem",
+          404
+        ],
+        [
+          "gelfand-naimark+theorem",
+          404
+        ],
+        [
+          "gelfand-naimark_theorem",
+          404
+        ],
+        [
+          "gelfand-naimark_theorem",
+          404
+        ],
+        [
+          "gelfand-naimark+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "gelfand-naimark-segal construction": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "gelfand-naimark-segal+construction",
+          404
+        ],
+        [
+          "gelfand-naimark-segal+construction",
+          404
+        ],
+        [
+          "gelfand-naimark-segal_construction",
+          404
+        ],
+        [
+          "gelfand-naimark-segal_construction",
+          404
+        ],
+        [
+          "gelfand-naimark-segal+construction",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "stone duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "stone+duality",
+          404
+        ],
+        [
+          "stone+duality",
+          404
+        ],
+        [
+          "stone_duality",
+          404
+        ],
+        [
+          "stone_duality",
+          404
+        ],
+        [
+          "stone+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "pontryagin duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "pontryagin+duality",
+          404
+        ],
+        [
+          "pontryagin+duality",
+          404
+        ],
+        [
+          "pontryagin_duality",
+          404
+        ],
+        [
+          "pontryagin_duality",
+          404
+        ],
+        [
+          "pontryagin+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "tannaka duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "tannaka+duality",
+          404
+        ],
+        [
+          "tannaka+duality",
+          404
+        ],
+        [
+          "tannaka_duality",
+          404
+        ],
+        [
+          "tannaka_duality",
+          404
+        ],
+        [
+          "tannaka+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "verdier duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "verdier+duality",
+          404
+        ],
+        [
+          "verdier+duality",
+          404
+        ],
+        [
+          "verdier_duality",
+          404
+        ],
+        [
+          "verdier_duality",
+          404
+        ],
+        [
+          "verdier+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "poincare duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "poincare+duality",
+          404
+        ],
+        [
+          "poincare+duality",
+          404
+        ],
+        [
+          "poincare_duality",
+          404
+        ],
+        [
+          "poincare_duality",
+          404
+        ],
+        [
+          "poincare+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "alexander duality": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "alexander+duality",
+          404
+        ],
+        [
+          "alexander+duality",
+          404
+        ],
+        [
+          "alexander_duality",
+          404
+        ],
+        [
+          "alexander_duality",
+          404
+        ],
+        [
+          "alexander+duality",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "brown representability theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "brown+representability+theorem",
+          404
+        ],
+        [
+          "brown+representability+theorem",
+          404
+        ],
+        [
+          "brown_representability_theorem",
+          404
+        ],
+        [
+          "brown_representability_theorem",
+          404
+        ],
+        [
+          "brown+representability+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "freyd-mitchell embedding theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "freyd-mitchell+embedding+theorem",
+          404
+        ],
+        [
+          "freyd-mitchell+embedding+theorem",
+          404
+        ],
+        [
+          "freyd-mitchell_embedding_theorem",
+          404
+        ],
+        [
+          "freyd-mitchell_embedding_theorem",
+          404
+        ],
+        [
+          "freyd-mitchell+embedding+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "gabriel-popescu theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "gabriel-popescu+theorem",
+          404
+        ],
+        [
+          "gabriel-popescu+theorem",
+          404
+        ],
+        [
+          "gabriel-popescu_theorem",
+          404
+        ],
+        [
+          "gabriel-popescu_theorem",
+          404
+        ],
+        [
+          "gabriel-popescu+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "mitchell embedding theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "mitchell+embedding+theorem",
+          404
+        ],
+        [
+          "mitchell+embedding+theorem",
+          404
+        ],
+        [
+          "mitchell_embedding_theorem",
+          404
+        ],
+        [
+          "mitchell_embedding_theorem",
+          404
+        ],
+        [
+          "mitchell+embedding+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "barr-beck theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "barr-beck+theorem",
+          404
+        ],
+        [
+          "barr-beck+theorem",
+          404
+        ],
+        [
+          "barr-beck_theorem",
+          404
+        ],
+        [
+          "barr-beck_theorem",
+          404
+        ],
+        [
+          "barr-beck+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "beck monadicity theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "beck+monadicity+theorem",
+          404
+        ],
+        [
+          "beck+monadicity+theorem",
+          404
+        ],
+        [
+          "beck_monadicity_theorem",
+          404
+        ],
+        [
+          "beck_monadicity_theorem",
+          404
+        ],
+        [
+          "beck+monadicity+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "coherence theorem": {
+      "valid_url": "https://ncatlab.org/nlab/show/coherence+theorem",
+      "status_codes": [
+        [
+          "coherence+theorem",
+          200
+        ]
+      ],
+      "found": true
+    },
+    "adjoint functor theorems": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "adjoint+functor+theorems",
+          301
+        ],
+        [
+          "adjoint+functor+theorems",
+          301
+        ],
+        [
+          "adjoint_functor_theorems",
+          404
+        ],
+        [
+          "adjoint_functor_theorems",
+          404
+        ],
+        [
+          "adjoint+functor+theorems",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "kan extension": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "kan+extension",
+          301
+        ],
+        [
+          "kan+extension",
+          301
+        ],
+        [
+          "kan_extension",
+          404
+        ],
+        [
+          "kan_extension",
+          404
+        ],
+        [
+          "kan+extension",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "yoneda lemma": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "yoneda+lemma",
+          301
+        ],
+        [
+          "yoneda+lemma",
+          301
+        ],
+        [
+          "yoneda_lemma",
+          404
+        ],
+        [
+          "yoneda_lemma",
+          404
+        ],
+        [
+          "yoneda+lemma",
+          301
+        ]
+      ],
+      "found": false
+    },
+    "yoneda embedding": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "yoneda+embedding",
+          404
+        ],
+        [
+          "yoneda+embedding",
+          404
+        ],
+        [
+          "yoneda_embedding",
+          404
+        ],
+        [
+          "yoneda_embedding",
+          404
+        ],
+        [
+          "yoneda+embedding",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "dold-kan correspondence": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "dold-kan+correspondence",
+          404
+        ],
+        [
+          "dold-kan+correspondence",
+          404
+        ],
+        [
+          "dold-kan_correspondence",
+          404
+        ],
+        [
+          "dold-kan_correspondence",
+          404
+        ],
+        [
+          "dold-kan+correspondence",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "eilenberg-zilber theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "eilenberg-zilber+theorem",
+          404
+        ],
+        [
+          "eilenberg-zilber+theorem",
+          404
+        ],
+        [
+          "eilenberg-zilber_theorem",
+          404
+        ],
+        [
+          "eilenberg-zilber_theorem",
+          404
+        ],
+        [
+          "eilenberg-zilber+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "eilenberg-steenrod axioms": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "eilenberg-steenrod+axioms",
+          404
+        ],
+        [
+          "eilenberg-steenrod+axioms",
+          404
+        ],
+        [
+          "eilenberg-steenrod_axioms",
+          404
+        ],
+        [
+          "eilenberg-steenrod_axioms",
+          404
+        ],
+        [
+          "eilenberg-steenrod+axioms",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "hurewicz theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "hurewicz+theorem",
+          404
+        ],
+        [
+          "hurewicz+theorem",
+          404
+        ],
+        [
+          "hurewicz_theorem",
+          404
+        ],
+        [
+          "hurewicz_theorem",
+          404
+        ],
+        [
+          "hurewicz+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "whitehead theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "whitehead+theorem",
+          404
+        ],
+        [
+          "whitehead+theorem",
+          404
+        ],
+        [
+          "whitehead_theorem",
+          404
+        ],
+        [
+          "whitehead_theorem",
+          404
+        ],
+        [
+          "whitehead+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "seifert-van kampen theorem": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "seifert-van+kampen+theorem",
+          404
+        ],
+        [
+          "seifert-van+kampen+theorem",
+          404
+        ],
+        [
+          "seifert-van_kampen_theorem",
+          404
+        ],
+        [
+          "seifert-van_kampen_theorem",
+          404
+        ],
+        [
+          "seifert-van+kampen+theorem",
+          404
+        ]
+      ],
+      "found": false
+    },
+    "serre spectral sequence": {
+      "valid_url": null,
+      "status_codes": [
+        [
+          "serre+spectral+sequence",
+          404
+        ],
+        [
+          "serre+spectral+sequence",
+          404
+        ],
+        [
+          "serre_spectral_sequence",
+          404
+        ],
+        [
+          "serre_spectral_sequence",
+          404
+        ],
+        [
+          "serre+spectral+sequence",
+          404
+        ]
+      ],
+      "found": false
+    }
+  }
+}

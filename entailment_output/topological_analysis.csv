@@ -1,0 +1,10 @@
+Metric,Value
+nodes,31
+edges,41
+connected_components,2
+average_clustering,0.28009356235162686
+transitivity,0.17197452229299362
+cycle_count,12
+average_cycle_length,3.25
+density,0.04408602150537634
+diameter,Graph is not connected

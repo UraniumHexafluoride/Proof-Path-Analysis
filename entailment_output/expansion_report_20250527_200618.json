@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-05-27T20:06:18.495864",
+  "total_statements": 27,
+  "total_relationships": 10,
+  "field_distribution": {
+    "set_theory": 5,
+    "number_theory": 4,
+    "analysis": 3,
+    "category_theory": 2
+  },
+  "independent_theorems": 1,
+  "formal_systems": 9
+}

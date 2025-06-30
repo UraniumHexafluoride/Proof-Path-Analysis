@@ -1,0 +1,684 @@
+2025-06-09 17:16:01,867 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-09 17:16:01,867 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-06-09 17:16:03,455 - __main__ - INFO - Loaded configuration from: scraping_config_fixed.json
+2025-06-09 17:16:03,455 - __main__ - INFO - Processing source: proofwiki
+2025-06-09 17:16:03,456 - __main__ - INFO - Items to process: 49
+2025-06-09 17:16:03,456 - __main__ - INFO - Categories to process: 15
+2025-06-09 17:55:14,862 - __main__ - INFO - ✓ Found 0 theorems from categories
+2025-06-09 17:55:14,863 - __main__ - INFO - Processing source: wikipedia
+2025-06-09 17:55:14,864 - __main__ - INFO - Items to process: 34
+2025-06-09 17:55:14,864 - __main__ - INFO - Categories to process: 12
+2025-06-09 17:55:16,372 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:17,414 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:19,570 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 17:55:20,636 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 17:55:22,821 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 17:55:23,888 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 17:55:26,300 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 17:55:27,336 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 17:55:29,414 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:30,458 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:32,544 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:33,590 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 17:55:36,656 - __main__ - INFO - ✓ Successfully scraped: Mathematical theorems
+2025-06-09 17:55:39,053 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 17:55:40,088 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 17:55:42,279 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 17:55:43,344 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 17:55:45,516 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 17:55:46,588 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 17:55:48,955 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 17:55:49,997 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 17:55:52,118 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 17:55:53,185 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 17:55:55,286 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 17:55:56,319 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 17:55:59,602 - __main__ - INFO - ✓ Successfully scraped: Theorems in algebra
+2025-06-09 17:56:01,903 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 17:56:02,934 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 17:56:05,094 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 17:56:06,157 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 17:56:08,338 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 17:56:09,400 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 17:56:11,764 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 17:56:12,798 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 17:56:14,913 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 17:56:15,978 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 17:56:18,086 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 17:56:19,126 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 17:56:21,914 - __main__ - INFO - ✓ Successfully scraped: Theorems in analysis
+2025-06-09 17:56:24,283 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 17:56:25,318 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 17:56:27,469 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 17:56:28,533 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 17:56:30,711 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 17:56:31,775 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 17:56:34,178 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 17:56:35,218 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 17:56:37,333 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 17:56:38,398 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 17:56:40,514 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 17:56:41,546 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 17:56:45,080 - __main__ - INFO - ✓ Successfully scraped: Theorems in topology
+2025-06-09 17:56:47,436 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 17:56:48,469 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 17:56:50,626 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 17:56:51,691 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 17:56:53,865 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 17:56:54,925 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 17:56:57,327 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 17:56:58,360 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 17:57:00,474 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 17:57:01,546 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 17:57:03,658 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 17:57:04,690 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 17:57:07,847 - __main__ - INFO - ✓ Successfully scraped: Theorems in number theory
+2025-06-09 17:57:10,496 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 17:57:11,530 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 17:57:13,689 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 17:57:14,757 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 17:57:16,932 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 17:57:17,997 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 17:57:20,415 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 17:57:21,445 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 17:57:24,665 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 17:57:25,729 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 17:57:27,834 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 17:57:28,866 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 17:57:31,462 - __main__ - INFO - ✓ Successfully scraped: Theorems in graph theory
+2025-06-09 17:57:33,812 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 17:57:34,854 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 17:57:37,008 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 17:57:38,082 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 17:57:40,265 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 17:57:41,338 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 17:57:43,730 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 17:57:44,760 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 17:57:46,878 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 17:57:47,942 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 17:57:50,061 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 17:57:51,092 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 17:57:53,565 - __main__ - INFO - ✓ Successfully scraped: Theorems in group theory
+2025-06-09 17:57:55,891 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 17:57:56,925 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 17:57:59,093 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 17:58:00,152 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 17:58:02,332 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 17:58:03,399 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 17:58:05,785 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 17:58:06,817 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 17:58:08,928 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 17:58:10,000 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 17:58:12,112 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 17:58:13,144 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 17:58:15,734 - __main__ - INFO - ✓ Successfully scraped: Theorems in ring theory
+2025-06-09 17:58:18,146 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 17:58:19,181 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 17:58:21,384 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 17:58:22,457 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 17:58:24,637 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 17:58:25,706 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 17:58:28,396 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 17:58:29,432 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 17:58:31,551 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 17:58:32,616 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 17:58:34,719 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 17:58:35,752 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 17:58:38,407 - __main__ - INFO - ✓ Successfully scraped: Theorems in set theory
+2025-06-09 17:58:40,700 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 17:58:41,731 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 17:58:43,868 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 17:58:44,932 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 17:58:47,125 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 17:58:48,192 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 17:58:50,605 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 17:58:51,636 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 17:58:53,758 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 17:58:54,820 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 17:58:56,931 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 17:58:57,966 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 17:59:01,137 - __main__ - INFO - ✓ Successfully scraped: Theorems in category theory
+2025-06-09 17:59:03,453 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 17:59:04,495 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 17:59:06,647 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 17:59:07,711 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 17:59:09,895 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 17:59:10,976 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 17:59:13,356 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 17:59:14,389 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 17:59:16,505 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 17:59:17,568 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 17:59:19,681 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 17:59:20,711 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 17:59:23,616 - __main__ - INFO - ✓ Successfully scraped: Theorems in functional analysis
+2025-06-09 17:59:25,937 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 17:59:26,972 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 17:59:29,123 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 17:59:30,187 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 17:59:32,372 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 17:59:33,438 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 17:59:35,797 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 17:59:36,832 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 17:59:38,950 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 17:59:40,014 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 17:59:42,406 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 17:59:43,451 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 17:59:45,991 - __main__ - INFO - ✓ Successfully scraped: Theorems of geometry
+2025-06-09 17:59:49,792 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-09 17:59:53,759 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-09 17:59:56,126 - __main__ - INFO - ✓ Successfully scraped: Four Color Theorem
+2025-06-09 18:00:00,343 - __main__ - INFO - ✓ Successfully scraped: Riemann Hypothesis
+2025-06-09 18:00:02,869 - __main__ - INFO - ✓ Successfully scraped: Twin Prime Conjecture
+2025-06-09 18:00:05,259 - __main__ - INFO - ✓ Successfully scraped: Goldbach's Conjecture
+2025-06-09 18:00:07,542 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:00:08,577 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:00:10,855 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:00:11,916 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:00:14,753 - __main__ - INFO - ✓ Successfully scraped: ABC Conjecture
+2025-06-09 18:00:17,325 - __main__ - INFO - ✓ Successfully scraped: P versus NP problem
+2025-06-09 18:00:19,895 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:20,932 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:23,072 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:00:24,137 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:00:26,624 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:00:27,693 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:00:30,173 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:00:31,209 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:00:33,286 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:34,320 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:36,399 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:37,436 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:00:40,156 - __main__ - INFO - ✓ Successfully scraped: Birch and Swinnerton-Dyer Conjecture
+2025-06-09 18:00:42,576 - __main__ - INFO - ✓ Successfully scraped: Hodge Conjecture
+2025-06-09 18:00:46,213 - __main__ - INFO - ✓ Successfully scraped: Riemann Zeta Function
+2025-06-09 18:00:48,629 - __main__ - INFO - ✓ Successfully scraped: Continuum Hypothesis
+2025-06-09 18:00:51,022 - __main__ - INFO - ✓ Successfully scraped: Euler's Identity
+2025-06-09 18:00:53,387 - __main__ - INFO - ✓ Successfully scraped: Euler's Formula
+2025-06-09 18:00:55,578 - __main__ - INFO - ✓ Successfully scraped: Euler's Theorem
+2025-06-09 18:00:57,766 - __main__ - INFO - ✓ Successfully scraped: Euler's Totient Theorem
+2025-06-09 18:01:00,411 - __main__ - INFO - ✓ Successfully scraped: Gauss-Bonnet Theorem
+2025-06-09 18:01:04,089 - __main__ - INFO - ✓ Successfully scraped: Fundamental Theorem of Arithmetic
+2025-06-09 18:01:07,011 - __main__ - INFO - ✓ Successfully scraped: Fundamental Theorem of Algebra
+2025-06-09 18:01:09,613 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:10,649 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:12,793 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity%20theorem
+2025-06-09 18:01:13,864 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity%20theorem
+2025-06-09 18:01:16,045 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:17,108 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:19,440 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity-theorem
+2025-06-09 18:01:20,476 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity-theorem
+2025-06-09 18:01:22,564 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:23,601 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:25,684 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:26,728 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:01:29,335 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of Galois theory
+2025-06-09 18:01:31,904 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:32,940 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:35,097 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s%20incompleteness%20theorems
+2025-06-09 18:01:36,164 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s%20incompleteness%20theorems
+2025-06-09 18:01:38,628 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/g%C3%A3%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:39,703 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/g%C3%A3%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:42,055 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s-incompleteness-theorems
+2025-06-09 18:01:43,092 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s-incompleteness-theorems
+2025-06-09 18:01:45,172 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:46,208 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:48,288 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:49,324 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:01:52,614 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:01:53,653 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:01:55,807 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem%20theorem
+2025-06-09 18:01:56,884 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem%20theorem
+2025-06-09 18:01:59,364 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/l%C3%A3%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9Cskolem_theorem
+2025-06-09 18:02:00,433 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/l%C3%A3%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9Cskolem_theorem
+2025-06-09 18:02:02,827 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem-theorem
+2025-06-09 18:02:03,863 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem-theorem
+2025-06-09 18:02:05,943 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:02:07,023 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:02:09,199 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:02:10,238 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:02:13,013 - __main__ - INFO - ✓ Successfully scraped: Compactness theorem
+2025-06-09 18:02:15,153 - __main__ - INFO - ✓ Successfully scraped: Craig interpolation
+2025-06-09 18:02:17,510 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:18,552 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:20,710 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s%20theorem
+2025-06-09 18:02:21,778 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s%20theorem
+2025-06-09 18:02:24,228 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/lindstr%C3%A3%C2%B6m%27s_theorem
+2025-06-09 18:02:25,291 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/lindstr%C3%A3%C2%B6m%27s_theorem
+2025-06-09 18:02:27,702 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s-theorem
+2025-06-09 18:02:28,748 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s-theorem
+2025-06-09 18:02:30,830 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:31,862 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:33,938 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:34,975 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:02:37,474 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:38,511 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:40,622 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 18:02:41,694 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 18:02:43,837 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 18:02:44,917 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 18:02:47,046 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 18:02:48,083 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 18:02:50,166 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:51,201 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:53,287 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:54,322 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:02:57,134 - __main__ - INFO - ✓ Successfully scraped: Mathematical theorems
+2025-06-09 18:02:59,176 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:03:00,210 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:03:02,318 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 18:03:03,383 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 18:03:05,521 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:03:06,589 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:03:08,703 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 18:03:09,737 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 18:03:11,846 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:03:12,918 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:03:15,029 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:03:16,066 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:03:19,125 - __main__ - INFO - ✓ Successfully scraped: Theorems in algebra
+2025-06-09 18:03:21,169 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:03:22,210 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:03:24,321 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 18:03:25,389 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 18:03:27,527 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:03:28,594 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:03:30,701 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 18:03:31,737 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 18:03:33,849 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:03:34,917 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:03:37,031 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:03:38,059 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:03:40,682 - __main__ - INFO - ✓ Successfully scraped: Theorems in analysis
+2025-06-09 18:03:42,733 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:03:43,768 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:03:45,874 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 18:03:46,941 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 18:03:49,085 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:03:50,149 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:03:52,262 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 18:03:53,298 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 18:03:55,415 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:03:56,478 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:03:58,591 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:03:59,625 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:04:02,849 - __main__ - INFO - ✓ Successfully scraped: Theorems in topology
+2025-06-09 18:04:04,899 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:04:05,933 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:04:08,045 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 18:04:09,110 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 18:04:11,248 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:04:12,314 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:04:14,424 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 18:04:15,461 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 18:04:17,574 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:04:18,640 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:04:20,756 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:04:21,792 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:04:24,699 - __main__ - INFO - ✓ Successfully scraped: Theorems in number theory
+2025-06-09 18:04:26,740 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:04:27,777 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:04:30,074 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 18:04:31,145 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 18:04:33,285 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:04:34,359 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:04:36,472 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 18:04:37,505 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 18:04:39,608 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:04:40,677 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:04:42,788 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:04:43,821 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:04:46,396 - __main__ - INFO - ✓ Successfully scraped: Theorems in graph theory
+2025-06-09 18:04:48,437 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:04:49,474 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:04:51,584 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 18:04:52,657 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 18:04:54,796 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:04:55,859 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:04:57,972 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 18:04:59,006 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 18:05:01,116 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:05:02,183 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:05:04,297 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:05:05,332 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:05:07,864 - __main__ - INFO - ✓ Successfully scraped: Theorems in group theory
+2025-06-09 18:05:09,909 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:05:10,948 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:05:13,060 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 18:05:14,128 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 18:05:16,272 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:05:17,344 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:05:19,456 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 18:05:20,492 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 18:05:22,608 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:05:23,676 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:05:25,781 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:05:26,816 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:05:29,525 - __main__ - INFO - ✓ Successfully scraped: Theorems in ring theory
+2025-06-09 18:05:31,566 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:05:32,601 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:05:34,719 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 18:05:35,796 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 18:05:37,939 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:05:39,008 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:05:41,115 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 18:05:42,155 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 18:05:44,268 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:05:45,336 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:05:47,452 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:05:48,488 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:05:51,121 - __main__ - INFO - ✓ Successfully scraped: Theorems in set theory
+2025-06-09 18:05:53,160 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:05:54,195 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:05:56,308 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 18:05:57,389 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 18:05:59,547 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:06:00,611 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:06:02,719 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 18:06:03,751 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 18:06:05,867 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:06:06,935 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:06:09,047 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:06:10,079 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:06:12,946 - __main__ - INFO - ✓ Successfully scraped: Theorems in category theory
+2025-06-09 18:06:14,987 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:06:16,022 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:06:18,135 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 18:06:19,197 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 18:06:21,344 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:06:22,412 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:06:24,531 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 18:06:25,568 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 18:06:27,679 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:06:28,748 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:06:30,863 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:06:31,901 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:06:34,624 - __main__ - INFO - ✓ Successfully scraped: Theorems in functional analysis
+2025-06-09 18:06:36,667 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 18:06:37,703 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 18:06:39,819 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 18:06:40,887 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 18:06:43,019 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:06:44,087 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:06:46,197 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 18:06:47,236 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 18:06:49,511 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:06:50,675 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:06:52,899 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 18:06:53,934 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 18:06:56,401 - __main__ - INFO - ✓ Successfully scraped: Theorems of geometry
+2025-06-09 18:06:58,724 - __main__ - INFO - ✓ Successfully scraped: Four Color Theorem
+2025-06-09 18:07:02,641 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-09 18:07:04,966 - __main__ - INFO - ✓ Successfully scraped: Four Color Theorem
+2025-06-09 18:07:09,175 - __main__ - INFO - ✓ Successfully scraped: Riemann Hypothesis
+2025-06-09 18:07:11,698 - __main__ - INFO - ✓ Successfully scraped: Twin Prime Conjecture
+2025-06-09 18:07:14,087 - __main__ - INFO - ✓ Successfully scraped: Goldbach's Conjecture
+2025-06-09 18:07:16,129 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:07:17,162 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:07:19,337 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:07:20,407 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:07:23,368 - __main__ - INFO - ✓ Successfully scraped: ABC Conjecture
+2025-06-09 18:07:25,763 - __main__ - INFO - ✓ Successfully scraped: P versus NP problem
+2025-06-09 18:07:28,074 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:29,111 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:31,215 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:07:32,282 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:07:34,433 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:07:35,498 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:07:37,610 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:07:38,643 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:07:40,722 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:41,762 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:43,842 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:44,878 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:07:47,688 - __main__ - INFO - ✓ Successfully scraped: Birch and Swinnerton-Dyer Conjecture
+2025-06-09 18:07:50,116 - __main__ - INFO - ✓ Successfully scraped: Hodge Conjecture
+2025-06-09 18:07:53,717 - __main__ - INFO - ✓ Successfully scraped: Riemann Zeta Function
+2025-06-09 18:07:56,134 - __main__ - INFO - ✓ Successfully scraped: Continuum Hypothesis
+2025-06-09 18:07:58,364 - __main__ - INFO - ✓ Successfully scraped: Euler's Identity
+2025-06-09 18:08:00,738 - __main__ - INFO - ✓ Successfully scraped: Euler's Formula
+2025-06-09 18:08:02,939 - __main__ - INFO - ✓ Successfully scraped: Euler's Theorem
+2025-06-09 18:08:05,132 - __main__ - INFO - ✓ Successfully scraped: Euler's Totient Theorem
+2025-06-09 18:08:07,839 - __main__ - INFO - ✓ Successfully scraped: Gauss-Bonnet Theorem
+2025-06-09 18:08:11,700 - __main__ - INFO - ✓ Successfully scraped: Fundamental Theorem of Arithmetic
+2025-06-09 18:08:14,545 - __main__ - INFO - ✓ Successfully scraped: Fundamental Theorem of Algebra
+2025-06-09 18:08:16,921 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:17,958 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:20,067 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity%20theorem
+2025-06-09 18:08:21,129 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity%20theorem
+2025-06-09 18:08:23,269 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:24,339 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:26,454 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity-theorem
+2025-06-09 18:08:27,490 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity-theorem
+2025-06-09 18:08:29,570 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:30,606 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:32,691 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:33,731 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Rank%C3%A2%E2%82%AC%E2%80%9Cnullity_theorem
+2025-06-09 18:08:36,523 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of Galois theory
+2025-06-09 18:08:38,718 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:39,759 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:41,883 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s%20incompleteness%20theorems
+2025-06-09 18:08:42,980 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s%20incompleteness%20theorems
+2025-06-09 18:08:45,126 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/g%C3%A3%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:46,198 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/g%C3%A3%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:48,316 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s-incompleteness-theorems
+2025-06-09 18:08:49,350 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s-incompleteness-theorems
+2025-06-09 18:08:51,438 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:52,478 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:54,565 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:55,602 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/G%C3%83%C2%B6del%27s_incompleteness_theorems
+2025-06-09 18:08:58,829 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:08:59,865 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:09:01,983 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem%20theorem
+2025-06-09 18:09:03,049 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem%20theorem
+2025-06-09 18:09:05,189 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/l%C3%A3%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9Cskolem_theorem
+2025-06-09 18:09:06,268 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/l%C3%A3%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9Cskolem_theorem
+2025-06-09 18:09:08,381 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem-theorem
+2025-06-09 18:09:09,416 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem-theorem
+2025-06-09 18:09:11,496 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:09:12,532 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:09:14,613 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:09:15,649 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/L%C3%83%C2%B6wenheim%C3%A2%E2%82%AC%E2%80%9CSkolem_theorem
+2025-06-09 18:09:18,220 - __main__ - INFO - ✓ Successfully scraped: Compactness theorem
+2025-06-09 18:09:20,370 - __main__ - INFO - ✓ Successfully scraped: Craig interpolation
+2025-06-09 18:09:22,414 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:23,448 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:25,561 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s%20theorem
+2025-06-09 18:09:26,629 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s%20theorem
+2025-06-09 18:09:28,772 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/lindstr%C3%A3%C2%B6m%27s_theorem
+2025-06-09 18:09:29,842 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/lindstr%C3%A3%C2%B6m%27s_theorem
+2025-06-09 18:09:31,964 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s-theorem
+2025-06-09 18:09:33,001 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s-theorem
+2025-06-09 18:09:35,083 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:36,120 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:38,196 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:39,233 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Lindstr%C3%83%C2%B6m%27s_theorem
+2025-06-09 18:09:41,725 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:09:42,765 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:09:44,884 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 18:09:45,953 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical%20theorems
+2025-06-09 18:09:48,097 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 18:09:49,168 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/mathematical_theorems
+2025-06-09 18:09:51,276 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 18:09:52,315 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical-theorems
+2025-06-09 18:09:54,401 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:09:55,436 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:09:57,525 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:09:58,561 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Mathematical_theorems
+2025-06-09 18:10:01,446 - __main__ - INFO - ✓ Successfully scraped: Mathematical theorems
+2025-06-09 18:10:03,488 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:10:04,523 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:10:06,629 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 18:10:07,696 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20algebra
+2025-06-09 18:10:09,843 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:10:10,912 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:10:13,057 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 18:10:14,094 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-algebra
+2025-06-09 18:10:16,202 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:10:17,269 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_algebra
+2025-06-09 18:10:19,376 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:10:20,408 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_algebra
+2025-06-09 18:10:23,852 - __main__ - INFO - ✓ Successfully scraped: Theorems in algebra
+2025-06-09 18:10:25,893 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:10:26,933 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:10:29,044 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 18:10:30,108 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20analysis
+2025-06-09 18:10:32,253 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:10:33,327 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:10:35,447 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 18:10:36,482 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-analysis
+2025-06-09 18:10:38,600 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:10:39,667 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_analysis
+2025-06-09 18:10:41,780 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:10:42,815 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_analysis
+2025-06-09 18:10:45,949 - __main__ - INFO - ✓ Successfully scraped: Theorems in analysis
+2025-06-09 18:10:47,991 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:10:49,026 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:10:51,144 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 18:10:52,212 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20topology
+2025-06-09 18:10:54,359 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:10:55,429 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:10:57,542 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 18:10:58,578 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-topology
+2025-06-09 18:11:00,701 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:11:01,771 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_topology
+2025-06-09 18:11:03,893 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:11:04,928 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_topology
+2025-06-09 18:11:08,173 - __main__ - INFO - ✓ Successfully scraped: Theorems in topology
+2025-06-09 18:11:10,220 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:11:11,259 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:11:13,369 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 18:11:14,435 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20number%20theory
+2025-06-09 18:11:16,586 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:11:17,659 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:11:19,772 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 18:11:20,809 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-number-theory
+2025-06-09 18:11:22,924 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:11:23,999 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_number_theory
+2025-06-09 18:11:26,124 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:11:27,159 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_number_theory
+2025-06-09 18:11:30,087 - __main__ - INFO - ✓ Successfully scraped: Theorems in number theory
+2025-06-09 18:11:32,126 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:11:33,164 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:11:35,277 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 18:11:36,344 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20graph%20theory
+2025-06-09 18:11:38,492 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:11:39,559 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:11:41,684 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 18:11:42,719 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-graph-theory
+2025-06-09 18:11:44,832 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:11:45,899 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_graph_theory
+2025-06-09 18:11:48,020 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:11:49,056 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_graph_theory
+2025-06-09 18:11:51,838 - __main__ - INFO - ✓ Successfully scraped: Theorems in graph theory
+2025-06-09 18:11:53,884 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:11:54,921 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:11:57,035 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 18:11:58,105 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20group%20theory
+2025-06-09 18:12:00,258 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:12:01,325 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:12:03,439 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 18:12:04,475 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-group-theory
+2025-06-09 18:12:06,592 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:12:07,663 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_group_theory
+2025-06-09 18:12:09,783 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:12:10,822 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_group_theory
+2025-06-09 18:12:13,249 - __main__ - INFO - ✓ Successfully scraped: Theorems in group theory
+2025-06-09 18:12:15,289 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:12:16,327 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:12:18,440 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 18:12:19,507 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20ring%20theory
+2025-06-09 18:12:21,655 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:12:22,727 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:12:24,843 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 18:12:25,879 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-ring-theory
+2025-06-09 18:12:27,996 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:12:29,067 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_ring_theory
+2025-06-09 18:12:31,184 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:12:32,219 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_ring_theory
+2025-06-09 18:12:34,841 - __main__ - INFO - ✓ Successfully scraped: Theorems in ring theory
+2025-06-09 18:12:36,882 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:12:37,919 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:12:40,038 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 18:12:41,106 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20set%20theory
+2025-06-09 18:12:43,246 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:12:44,314 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:12:46,426 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 18:12:47,463 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-set-theory
+2025-06-09 18:12:49,579 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:12:50,647 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_set_theory
+2025-06-09 18:12:52,763 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:12:53,798 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_set_theory
+2025-06-09 18:12:56,555 - __main__ - INFO - ✓ Successfully scraped: Theorems in set theory
+2025-06-09 18:12:58,599 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:12:59,637 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:13:01,749 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 18:13:02,812 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20category%20theory
+2025-06-09 18:13:04,967 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:13:06,037 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:13:08,150 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 18:13:09,187 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-category-theory
+2025-06-09 18:13:11,303 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:13:12,382 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_category_theory
+2025-06-09 18:13:14,505 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:13:15,542 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_category_theory
+2025-06-09 18:13:18,527 - __main__ - INFO - ✓ Successfully scraped: Theorems in category theory
+2025-06-09 18:13:20,568 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:13:21,603 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:13:23,719 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 18:13:24,786 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20in%20functional%20analysis
+2025-06-09 18:13:26,936 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:13:28,007 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:13:30,118 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 18:13:31,154 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-in-functional-analysis
+2025-06-09 18:13:33,270 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:13:34,338 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_in_functional_analysis
+2025-06-09 18:13:36,454 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:13:37,492 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_in_functional_analysis
+2025-06-09 18:13:40,355 - __main__ - INFO - ✓ Successfully scraped: Theorems in functional analysis
+2025-06-09 18:13:42,397 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 18:13:43,437 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_of_geometry
+2025-06-09 18:13:45,551 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 18:13:46,619 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems%20of%20geometry
+2025-06-09 18:13:48,766 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:13:49,859 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:13:51,974 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 18:13:53,009 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems-of-geometry
+2025-06-09 18:13:55,121 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:13:56,193 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/theorems_of_geometry
+2025-06-09 18:13:58,312 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 18:13:59,361 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Theorems_geometry
+2025-06-09 18:14:02,014 - __main__ - INFO - ✓ Successfully scraped: Theorems of geometry
+2025-06-09 18:14:06,172 - __main__ - INFO - ✓ Successfully scraped: Riemann Hypothesis
+2025-06-09 18:14:10,815 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-09 18:14:13,219 - __main__ - INFO - ✓ Successfully scraped: Four Color Theorem
+2025-06-09 18:14:18,005 - __main__ - INFO - ✓ Successfully scraped: Riemann Hypothesis
+2025-06-09 18:14:20,637 - __main__ - INFO - ✓ Successfully scraped: Twin Prime Conjecture
+2025-06-09 18:14:23,049 - __main__ - INFO - ✓ Successfully scraped: Goldbach's Conjecture
+2025-06-09 18:14:25,088 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:14:26,125 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC_Conjecture
+2025-06-09 18:14:28,242 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:14:29,311 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/ABC%20Conjecture
+2025-06-09 18:14:32,139 - __main__ - INFO - ✓ Successfully scraped: ABC Conjecture
+2025-06-09 18:14:34,770 - __main__ - INFO - ✓ Successfully scraped: P versus NP problem
+2025-06-09 18:14:37,126 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:38,163 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:40,271 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:14:41,338 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch%20and%20Swinnerton-Dyer%20Conjecture
+2025-06-09 18:14:43,478 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:14:44,551 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/birch_and_swinnerton-dyer_conjecture
+2025-06-09 18:14:46,687 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:14:47,723 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch-and-Swinnerton-Dyer-Conjecture
+2025-06-09 18:14:49,806 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:50,843 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:52,927 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 1/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:53,968 - mathlogic.data.sources.wikipedia_source - WARNING - Request failed (attempt 2/3): 404 Not Found for url: https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_Conjecture
+2025-06-09 18:14:56,676 - __main__ - INFO - ✓ Successfully scraped: Birch and Swinnerton-Dyer Conjecture
+2025-06-09 18:14:59,128 - __main__ - INFO - ✓ Successfully scraped: Hodge Conjecture
+2025-06-09 18:15:02,868 - __main__ - INFO - ✓ Successfully scraped: Riemann Zeta Function
+2025-06-09 18:15:05,323 - __main__ - INFO - ✓ Successfully scraped: Continuum Hypothesis
+2025-06-09 18:15:07,743 - __main__ - INFO - ✓ Successfully scraped: Euler's Identity
+2025-06-09 18:15:10,146 - __main__ - INFO - ✓ Successfully scraped: Euler's Formula
+2025-06-09 18:15:12,352 - __main__ - INFO - ✓ Successfully scraped: Euler's Theorem
+2025-06-09 18:15:14,559 - __main__ - INFO - ✓ Successfully scraped: Euler's Totient Theorem
+2025-06-09 18:15:17,281 - __main__ - INFO - ✓ Successfully scraped: Gauss-Bonnet Theorem
+2025-06-09 18:15:21,086 - __main__ - INFO - ✓ Successfully scraped: Fundamental Theorem of Arithmetic

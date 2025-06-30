@@ -1,0 +1,535 @@
+{
+  "a general version of carathéodorys existence and uniqueness": {
+    "canonical_name": "a general version of carathéodorys existence and uniqueness",
+    "alternate_names": [
+      "A General Version of Carathéodory's Existence and Uniqueness Theorem"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.24516v1"
+    ],
+    "description": "In this paper, we establish a general version of Carath\\'{e}odory's existence\nand uniqueness theorem for a semilinear system of integro-differential\nequations arising from differential equations with distinct orders of Caputo\nfractional derivative. The main result of our work demonstrates that the\nintegrability order of the Carath\\'{e}odory function $f$ must be at least\ngreater than the maximum of the reciprocals of all differentiation orders in\nthe system; otherwise, even the existence of a solution cannot be guaranteed.",
+    "metadata": {
+      "authors": [
+        "Paulo M. de Carvalho-Neto",
+        "Cícero L. Frota",
+        "Pedro G. P. Torelli"
+      ],
+      "categories": [
+        "math.CA",
+        "math.FA",
+        "26A33, 34A08, 34A12"
+      ],
+      "published": "2025-05-30 12:29:17+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.24516v1"
+    }
+  },
+  "efficient neural and numerical methods for high-quality online speech spectrogram inversion via gradient": {
+    "canonical_name": "efficient neural and numerical methods for high-quality online speech spectrogram inversion via gradient",
+    "alternate_names": [
+      "Efficient Neural and Numerical Methods for High-Quality Online Speech Spectrogram Inversion via Gradient Theorem"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.24498v1"
+    ],
+    "description": "Recent work in online speech spectrogram inversion effectively combines Deep\nLearning with the Gradient Theorem to predict phase derivatives directly from\nmagnitudes. Then, phases are estimated from their derivatives via least\nsquares, resulting in a high quality reconstruction. In this work, we introduce\nthree innovations that drastically reduce computational cost, while maintaining\nhigh quality: Firstly, we introduce a novel neural network architecture with\njust 8k parameters, 30 times smaller than previous state of the art. Secondly,\nincreasing latency by 1 hop size allows us to further halve the cost of the\nneural inference step. Thirdly, we we observe that the least squares problem\nfeatures a tridiagonal matrix and propose a linear-complexity solver for the\nleast squares step that leverages tridiagonality and positive-semidefiniteness,\nachieving a speedup of several orders of magnitude. We release samples online.",
+    "metadata": {
+      "authors": [
+        "Andres Fernandez",
+        "Juan Azcarreta",
+        "Cagdas Bilen",
+        "Jesus Monge Alvarez"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2025-05-30 11:51:05+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.24498v1"
+    }
+  },
+  "faithful and robust llm-driven theorem proving for nli explanations": {
+    "canonical_name": "faithful and robust llm-driven theorem proving for nli explanations",
+    "alternate_names": [
+      "Faithful and Robust LLM-Driven Theorem Proving for NLI Explanations"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.24264v1"
+    ],
+    "description": "Natural language explanations play a fundamental role in Natural Language\nInference (NLI) by revealing how premises logically entail hypotheses. Recent\nwork has shown that the interaction of large language models (LLMs) with\ntheorem provers (TPs) can help verify and improve the validity of NLI\nexplanations. However, TPs require translating natural language into\nmachine-verifiable formal representations, a process that introduces the risk\nof semantic information loss and unfaithful interpretation, an issue compounded\nby LLMs' challenges in capturing critical logical structures with sufficient\nprecision. Moreover, LLMs are still limited in their capacity for rigorous and\nrobust proof construction within formal verification frameworks. To mitigate\nissues related to faithfulness and robustness, this paper investigates\nstrategies to (1) alleviate semantic loss during autoformalisation, (2)\nefficiently identify and correct syntactic errors in logical representations,\n(3) explicitly use logical expressions to guide LLMs in generating structured\nproof sketches, and (4) increase LLMs' capacity of interpreting TP's feedback\nfor iterative refinement. Our empirical results on e-SNLI, QASC and WorldTree\nusing different LLMs demonstrate that the proposed strategies yield significant\nimprovements in autoformalisation (+18.46%, +34.2%, +39.77%) and explanation\nrefinement (+29.5%, +51.5%, +41.25%) over the state-of-the-art model. Moreover,\nwe show that specific interventions on the hybrid LLM-TP architecture can\nsubstantially improve efficiency, drastically reducing the number of iterations\nrequired for successful verification.",
+    "metadata": {
+      "authors": [
+        "Xin Quan",
+        "Marco Valentino",
+        "Louise A. Dennis",
+        "André Freitas"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2025-05-30 06:38:39+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.24264v1"
+    }
+  },
+  "bernstein-type theorem for constant mean curvature surfaces in the isotropic 3-space": {
+    "canonical_name": "bernstein-type theorem for constant mean curvature surfaces in the isotropic 3-space",
+    "alternate_names": [
+      "Bernstein-type theorem for constant mean curvature surfaces in the isotropic 3-space"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.24109v1"
+    ],
+    "description": "There are many non-trivial entire spacelike graphs with constant mean\ncurvature $H$ (CMC $H$, for short) in the isotropic 3-space $\\mathbb{I}^3$. In\nthis paper, we show a value distribution theorem of Gaussian curvature of\ncomplete spacelike constant mean curvature surfaces in $\\mathbb{I}^3$, which\nimplies a Bernstein-type theorem for CMC $H$ graphs in $\\mathbb{I}^3$.",
+    "metadata": {
+      "authors": [
+        "Shintaro Akamine",
+        "Wonjoo Lee",
+        "Seong-Deog Yang"
+      ],
+      "categories": [
+        "math.DG",
+        "Primary 53A10, Secondary 53B30, 35B08"
+      ],
+      "published": "2025-05-30 01:18:28+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.24109v1"
+    }
+  },
+  "on the number of exceptional intervals to the prime number theorem in short intervals": {
+    "canonical_name": "on the number of exceptional intervals to the prime number theorem in short intervals",
+    "alternate_names": [
+      "On the number of exceptional intervals to the prime number theorem in short intervals"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.24017v1"
+    ],
+    "description": "For a fixed exponent $0 < \\theta \\leq 1$, it is expected that we have the\nprime number theorem in short intervals $\\sum_{x \\leq n < x+x^\\theta}\n\\Lambda(n) \\sim x^\\theta$ as $x \\to \\infty$. From the recent zero density\nestimates of Guth and Maynard, this result is known for all $x$ for $\\theta >\n\\frac{17}{30}$ and for almost all $x$ for $\\theta > \\frac{2}{15}$. Prior to\nthis work, Bazzanella and Perelli obtained some upper bounds on the size of the\nexceptional set where the prime number theorem in short intervals fails. We\ngive an explicit relation between zero density estimates and exceptional set\nbounds, allowing for the most recent zero density estimates to be directly\napplied to give upper bounds on the exceptional set via a small amount of\ncomputer assistance.",
+    "metadata": {
+      "authors": [
+        "Ayla Gafni",
+        "Terence Tao"
+      ],
+      "categories": [
+        "math.NT",
+        "11N05, 11M26"
+      ],
+      "published": "2025-05-29 21:36:29+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.24017v1"
+    }
+  },
+  "deep advancing llm reasoning for theorem proving through natural language and reinforcement learning": {
+    "canonical_name": "deep advancing llm reasoning for theorem proving through natural language and reinforcement learning",
+    "alternate_names": [
+      "Deep Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23754v1"
+    ],
+    "description": "Theorem proving serves as a major testbed for evaluating complex reasoning\nabilities in large language models (LLMs). However, traditional automated\ntheorem proving (ATP) approaches rely heavily on formal proof systems that\npoorly align with LLMs' strength derived from informal, natural language\nknowledge acquired during pre-training. In this work, we propose DeepTheorem, a\ncomprehensive informal theorem-proving framework exploiting natural language to\nenhance LLM mathematical reasoning. DeepTheorem includes a large-scale\nbenchmark dataset consisting of 121K high-quality IMO-level informal theorems\nand proofs spanning diverse mathematical domains, rigorously annotated for\ncorrectness, difficulty, and topic categories, accompanied by systematically\nconstructed verifiable theorem variants. We devise a novel reinforcement\nlearning strategy (RL-Zero) explicitly tailored to informal theorem proving,\nleveraging the verified theorem variants to incentivize robust mathematical\ninference. Additionally, we propose comprehensive outcome and process\nevaluation metrics examining proof correctness and the quality of reasoning\nsteps. Extensive experimental analyses demonstrate DeepTheorem significantly\nimproves LLM theorem-proving performance compared to existing datasets and\nsupervised fine-tuning protocols, achieving state-of-the-art accuracy and\nreasoning quality. Our findings highlight DeepTheorem's potential to\nfundamentally advance automated informal theorem proving and mathematical\nexploration.",
+    "metadata": {
+      "authors": [
+        "Ziyin Zhang",
+        "Jiahao Xu",
+        "Zhiwei He",
+        "Tian Liang",
+        "Qiuzhi Liu",
+        "Yansi Li",
+        "Linfeng Song",
+        "Zhengwen Liang",
+        "Zhuosheng Zhang",
+        "Rui Wang",
+        "Zhaopeng Tu",
+        "Haitao Mi",
+        "Dong Yu"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2025-05-29 17:59:39+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23754v1"
+    }
+  },
+  "higher-dimensional generalization of youngs theorem and circular colorings": {
+    "canonical_name": "higher-dimensional generalization of youngs theorem and circular colorings",
+    "alternate_names": [
+      "Higher-dimensional generalization of Youngs' theorem and circular colorings"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23562v1"
+    ],
+    "description": "In 1996, Youngs proved that any quadrangulation of the real projective plane\nis not 3-chromatic. This result has been extended in various directions over\nthe years, including to other non-orientable closed surfaces,\nhigher-dimensional analogues of quadrangulations and circular colorings. In\nthis paper, we provide a generalization which yields some of these extensions\nof Youngs' theorem.",
+    "metadata": {
+      "authors": [
+        "Kengo Enami",
+        "Takahiro Matsushita"
+      ],
+      "categories": [
+        "math.CO",
+        "math.AT",
+        "05C15 (Primary) 05C10 (Secondary)"
+      ],
+      "published": "2025-05-29 15:37:30+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23562v1"
+    }
+  },
+  "realization interpolation toeplitz corona and extension theorem for tetrablock": {
+    "canonical_name": "realization interpolation toeplitz corona and extension theorem for tetrablock",
+    "alternate_names": [
+      "Realization, Interpolation, Toeplitz corona and Extension Theorem for Tetrablock"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23492v1"
+    ],
+    "description": "We introduce a notion of Schur Agler class associated with the tetrablock and\nestablish a realization theorem for this class. Furthermore, we provide a\ntetrablock analog of the interpolation theorem, the Toeplitz corona theorem,\nand an extension theorem.",
+    "metadata": {
+      "authors": [
+        "Shubham Jain",
+        "Surjit Kumar",
+        "Milan Kumar Mal",
+        "Paramita Pramanick"
+      ],
+      "categories": [
+        "math.FA",
+        "math.CV",
+        "Primary 32A70, 47A13, 47A56, 47A57, Secondary 46E22, 47B32"
+      ],
+      "published": "2025-05-29 14:42:50+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23492v1"
+    }
+  },
+  "layer potentials for elliptic operators with dmo-type coefficients big pieces tb theorem quantitative rectifiability and free boundary problems": {
+    "canonical_name": "layer potentials for elliptic operators with dmo-type coefficients big pieces tb theorem quantitative rectifiability and free boundary problems",
+    "alternate_names": [
+      "Layer potentials for elliptic operators with DMO-type coefficients: big pieces $Tb$ theorem, quantitative rectifiability, and free boundary problems"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23478v1"
+    ],
+    "description": "For $n \\geq 2$, we consider the operator $L_A = -\\mathrm{div\n}(A(\\cdot)\\nabla)$, where $A$ is a uniformly elliptic $(n+1)\\times(n+1)$ matrix\nwith variable coefficients, a Radon measure $\\mu$ on $\\mathbb{R}^{n+1}$, and\nthe associated gradient of the single layer potential operator $T_\\mu$. Under a\nDini-type assumption on the mean oscillation of the matrix $A$, we establish\nthe following results:\n  1) A rectifiability criterion for $\\mu$ in terms of $T_\\mu$. Under\nquantitative geometric and analytic assumptions within a ball $B$ -- including\nan upper $n$-growth condition on $\\mu$ in $B$, a thin boundary condition, a\nscale-invariant decay condition expressed via a weighted sum of densities over\ndyadic dilations of $B$, and $L^2$ boundedness of the gradient of $T_\\mu$ -- we\nshow the following: if the support of $\\mu$ lies very close to an $n$-plane in\n$B$, and $T_\\mu 1$ is nearly constant on $B$ in the $L^2$ sense, then there\nexists a uniformly $n$-rectifiable set $\\Gamma$ such that $\\mu(B \\cap \\Gamma)\n\\gtrsim \\mu(B)$.\n  2) A $Tb$ theorem for suppressed $T_\\mu$, which extends a well-known theorem\nof Nazarov, Treil, and Volberg, and holds also for a broader class of singular\nintegral operators.\n  These results make it possible to prove both qualitative and quantitative\none- and two-phase free boundary problems for elliptic measure, formulated in\nterms of (uniform) rectifiability, in bounded Wiener-regular domains.",
+    "metadata": {
+      "authors": [
+        "Andrea Merlo",
+        "Mihalis Mourgoglou",
+        "Carmelo Puliatti"
+      ],
+      "categories": [
+        "math.AP",
+        "math.CA",
+        "42B37, 42B20, 35J15, 28A75, 28A75, 33C55"
+      ],
+      "published": "2025-05-29 14:28:01+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23478v1"
+    }
+  },
+  "embedding theorems for bergman-zygmund spaces induced by doubling weights": {
+    "canonical_name": "embedding theorems for bergman-zygmund spaces induced by doubling weights",
+    "alternate_names": [
+      "Embedding theorems for Bergman-Zygmund spaces induced by doubling weights"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23211v1"
+    ],
+    "description": "Let $0<p<\\infty$ and $\\Psi: [0,1) \\to (0,\\infty)$, and let $\\mu$ be a finite\npositive Borel measure on the unit disc $\\mathbb{D}$ of the complex plane. We\ndefine the Lebesgue-Zygmund space $L^p_{\\mu,\\Psi}$ as the space of all\nmeasurable functions on $\\mathbb{D}$ such that\n$\\int_{\\mathbb{D}}|f(z)|^p\\Psi(|f(z)|)\\,d\\mu(z)<\\infty$. The weighted\nBergman-Zygmund space $A^p_{\\omega,\\Psi}$ induced by a weight function $\\omega$\nconsists of analytic functions in $L^p_{\\mu,\\Psi}$ with $d\\mu=\\omega\\,dA$. Let\n$0<q<p<\\infty$ and let $\\omega$ be radial weight on $\\mathbb{D}$ which has\ncertain two-sided doubling properties. In this study, we will characterize the\nmeasures $\\mu$ such that the identity mapping $I: A^p_{\\omega,\\Psi} \\to\nL^q_{\\mu,\\Phi}$ is bounded and compact, when we assume $\\Psi,\\Phi$ to be\nessentially monotonic and to satisfy certain doubling properties. In addition,\nwe apply our result to characterize the measures for which the differentiation\noperator $D^{(n)}: A^p_{\\omega,\\Psi} \\to L^q_{\\mu,\\Phi}$ is bounded and\ncompact.",
+    "metadata": {
+      "authors": [
+        "Atte Pennanen"
+      ],
+      "categories": [
+        "math.CV",
+        "30H20"
+      ],
+      "published": "2025-05-29 07:52:55+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23211v1"
+    }
+  },
+  "landau damping schrödinger equation and fluctuation": {
+    "canonical_name": "landau damping schrödinger equation and fluctuation",
+    "alternate_names": [
+      "Landau Damping, Schrödinger equation, and Fluctuation Theorem"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.23110v1"
+    ],
+    "description": "A linearized Vlasov-Poisson system of equations is transformed into a\nSchr\\\"odinger equation, which is used to demonstrate that the fluctuation\ntheorem holds for the relative stochastic entropy, defined in terms of the\nprobability density functional of the particle velocity distribution function\nin the Landau damping process. The difference between the energy perturbation,\nnormalized by the equilibrium temperature, and the entropy perturbation\nconstitutes a time-independent invariant of the system. This invariant takes\nthe quadratic form of the perturbed velocity distribution function and\ncorresponds to the squared amplitude of the state vector that satisfies the\nSchr\\\"odinger equation. Exact solutions, constructed from a discrete set of\nHamiltonian eigenvectors, are employed to formulate and numerically validate\nthe fluctuation theorem for the Landau damping process. The results offer new\ninsights into the formulations of collisionless plasma processes within the\nframework of nonequilibirium statistical mechanics.",
+    "metadata": {
+      "authors": [
+        "Hideo Sugama"
+      ],
+      "categories": [
+        "physics.plasm-ph"
+      ],
+      "published": "2025-05-29 05:24:39+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.23110v1"
+    }
+  },
+  "a paley-wiener-schwartz theorem for smooth valuations on convex functions": {
+    "canonical_name": "a paley-wiener-schwartz theorem for smooth valuations on convex functions",
+    "alternate_names": [
+      "A Paley-Wiener-Schwartz Theorem for smooth valuations on convex functions"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.22464v1"
+    ],
+    "description": "Continuous dually epi-translation invariant valuations on convex functions\nare characterized in terms of the Fourier-Laplace transform of the associated\nGoodey-Weil distributions. This description is used to obtain integral\nrepresentations of the smooth vectors of the natural representation of the\ngroup of translations on the space of these valuations. As an application, a\ncomplete classification of all closed and affine invariant subspaces is\nestablished, yielding density results for valuations defined in terms of mixed\nMonge-Amp\\`ere operators.",
+    "metadata": {
+      "authors": [
+        "Jonas Knoerr"
+      ],
+      "categories": [
+        "math.FA",
+        "math.MG",
+        "52B45, 26B25, 53C65, 52A39, 13P10"
+      ],
+      "published": "2025-05-28 15:18:04+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.22464v1"
+    }
+  },
+  "on the local converse theorem for depth frac1n supercuspidal representations of textgl2n f": {
+    "canonical_name": "on the local converse theorem for depth frac1n supercuspidal representations of textgl2n f",
+    "alternate_names": [
+      "On the Local Converse Theorem for Depth $\\frac{1}{N}$ Supercuspidal Representations of $\\text{GL}(2N, F)$"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.22357v1"
+    ],
+    "description": "In this paper, we use type theory to construct a family of depth\n$\\frac{1}{N}$ minimax supercuspidal representations of $\\text{GL}(2N, F)$ which\nwe call middle supercuspidal representations. These supercuspidals may be\nviewed as a natural generalization of simple supercuspidal representations,\ni.e. those supercuspidals of minimal positive depth. Via explicit computations\nof twisted gamma factors, we show that middle supercuspidal representations may\nbe uniquely determined through twisting by quasi-characters of $F^{\\times}$ and\nsimple supercuspidal representations of $\\text{GL}(N, F)$.",
+    "metadata": {
+      "authors": [
+        "David C. Luo",
+        "Shaun Stevens"
+      ],
+      "categories": [
+        "math.RT",
+        "math.NT",
+        "22E50, 11F70"
+      ],
+      "published": "2025-05-28 13:37:56+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.22357v1"
+    }
+  },
+  "spiderwebs on the sphere and an isoperimetric": {
+    "canonical_name": "spiderwebs on the sphere and an isoperimetric",
+    "alternate_names": [
+      "Spiderwebs on the Sphere and an Isoperimetric Theorem"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.22336v1"
+    ],
+    "description": "Here we present a rigidity result in a global (semi-global, homotopy) setting\nfor a restrictive class of polytopes, those that can be inscribed in a unit\nsphere, with some additional conditions. The proof of the rigidity result for\ncabled frameworks on the surface of the sphere uses classical isoperimetric\nideas.",
+    "metadata": {
+      "authors": [
+        "Robert Connelly",
+        "Zhen Zhang"
+      ],
+      "categories": [
+        "math.MG",
+        "52C25, 52C07, 51FXX"
+      ],
+      "published": "2025-05-28 13:23:32+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.22336v1"
+    }
+  },
+  "quantitative tsirelsons theorems via approximate schurs lemma and probabilistic stampflis theorems": {
+    "canonical_name": "quantitative tsirelsons theorems via approximate schurs lemma and probabilistic stampflis theorems",
+    "alternate_names": [
+      "Quantitative Tsirelson's Theorems via Approximate Schur's Lemma and Probabilistic Stampfli's Theorems"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.22309v1"
+    ],
+    "description": "Tsirelson showed that, in finite dimensions, quantum correlations generated\nby commuting observables--measurements associated with distinct parties whose\noperators mutually commute--are equivalent to those obtainable from\nmeasurements on separate tensor product factors. We generalize this\nfoundational result to the setting of $\\epsilon$-almost commuting observables,\nestablishing two distinct quantitative approximate Tsirelson's theorems. Both\ntheorems show that if a $d$-dimensional bipartite quantum strategy's\nobservables $\\epsilon$-almost commute, then they are within $O(\\mathrm{poly}(d)\n\\epsilon)$ (in operator norm) of observables from a genuine tensor product\nstrategy. This provides a quantitative counterpart to the asymptotic result of\n[N. Ozawa, J. Math. Phys. 54, 032202 (2013)] and justifies the tensor product\nmodel as an effective model even when subsystem independence is only\napproximately satisfied.\n  Our theorems arise from two different but complementary formulations of\nalmost commutation: (i) The first approach utilizes deterministic operator norm\nbounds relative to specific matrix generators (such as clock and shift\nmatrices), leading to an approximate Schur's Lemma from which the first theorem\ndirectly follows. (ii) The second approach employs probabilistic bounds,\nrequiring small commutators only on average against Haar-random single-qubit\nunitaries. This method yields two novel probabilistic Stampfli's theorems,\nquantifying distance to scalars based on probabilistic commutation, a result\nwhich may be of independent interest. These theorems set the basis for the\nsecond approximate Tsirelson's theorem.",
+    "metadata": {
+      "authors": [
+        "Xiangling Xu",
+        "Marc-Olivier Renou",
+        "Igor Klep"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "published": "2025-05-28 12:51:27+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.22309v1"
+    }
+  },
+  "a general-purpose theorem for high-probability bounds of stochastic approximation with polyak averaging": {
+    "canonical_name": "a general-purpose theorem for high-probability bounds of stochastic approximation with polyak averaging",
+    "alternate_names": [
+      "A General-Purpose Theorem for High-Probability Bounds of Stochastic Approximation with Polyak Averaging"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21796v1"
+    ],
+    "description": "Polyak-Ruppert averaging is a widely used technique to achieve the optimal\nasymptotic variance of stochastic approximation (SA) algorithms, yet its\nhigh-probability performance guarantees remain underexplored in general\nsettings. In this paper, we present a general framework for establishing\nnon-asymptotic concentration bounds for the error of averaged SA iterates. Our\napproach assumes access to individual concentration bounds for the unaveraged\niterates and yields a sharp bound on the averaged iterates. We also construct\nan example, showing the tightness of our result up to constant multiplicative\nfactors. As direct applications, we derive tight concentration bounds for\ncontractive SA algorithms and for algorithms such as temporal difference\nlearning and Q-learning with averaging, obtaining new bounds in settings where\ntraditional analysis is challenging.",
+    "metadata": {
+      "authors": [
+        "Sajad Khodadadian",
+        "Martin Zubeldia"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.PR"
+      ],
+      "published": "2025-05-27 21:58:35+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21796v1"
+    }
+  },
+  "bochner-type theorems for distributional category": {
+    "canonical_name": "bochner-type theorems for distributional category",
+    "alternate_names": [
+      "Bochner-type theorems for distributional category"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21763v1"
+    ],
+    "description": "We show that in the presence of a geometric condition such as non-negative\nRicci curvature, the distributional category of a manifold may be used to bound\ninvariants, such as the first Betti number and macroscopic dimension, from\nabove. Moreover, \\`a la Bochner, when the bound is an equality, special\nconstraints are imposed on the manifold. We show that the distributional\ncategory of a space also bounds the rank of the Gottlieb group, with equality\nimposing constraints on the fundamental group. These bounds are refined in the\nsetting of cohomologically symplectic manifolds, enabling us to get specific\ncomputations for the distributional category and LS-category.",
+    "metadata": {
+      "authors": [
+        "Ekansh Jauhari",
+        "John Oprea"
+      ],
+      "categories": [
+        "math.AT",
+        "math.GR",
+        "math.GT",
+        "57N65 (Primary) 55M30, 20J06, 53C23 (Secondary)"
+      ],
+      "published": "2025-05-27 20:58:03+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21763v1"
+    }
+  },
+  "a fixed-point theorem for face maps or deleting entries in random finite sets": {
+    "canonical_name": "a fixed-point theorem for face maps or deleting entries in random finite sets",
+    "alternate_names": [
+      "A fixed-point theorem for face maps, or deleting entries in random finite sets"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21484v1"
+    ],
+    "description": "We establish a fixed-point theorem for the face maps that consist in deleting\nthe $i$th entry of an ordered set. Furthermore, we show that there exists\nrandom finite sets of integers that are almost invariant under such deletions.",
+    "metadata": {
+      "authors": [
+        "Tom Hutchcroft",
+        "Nicolas Monod",
+        "Omer Tamuz"
+      ],
+      "categories": [
+        "math.GR",
+        "math.CO",
+        "math.DS"
+      ],
+      "published": "2025-05-27 17:53:11+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21484v1"
+    }
+  },
+  "a generalized global hartman-grobman theorem for asymptotically stable semiflows": {
+    "canonical_name": "a generalized global hartman-grobman theorem for asymptotically stable semiflows",
+    "alternate_names": [
+      "A generalized global Hartman-Grobman theorem for asymptotically stable semiflows"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21401v3"
+    ],
+    "description": "Recently, Kvalheim and Sontag provided a generalized global Hartman-Grobman\ntheorem for equilibria under asymptotically stable continuous vector fields. By\nleveraging topological properties of Lyapunov functions, their theorem works\nwithout assuming hyperbolicity. We extend their theorem to a class of possibly\ndiscontinuous vector fields, in particular, to vector fields generating\nasymptotically stable semiflows.",
+    "metadata": {
+      "authors": [
+        "Wouter Jongeneel"
+      ],
+      "categories": [
+        "math.DS",
+        "cs.SY",
+        "eess.SY",
+        "math.OC"
+      ],
+      "published": "2025-05-27 16:24:31+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21401v3"
+    }
+  },
+  "quantum harmonic oscillator index theorem and anomaly": {
+    "canonical_name": "quantum harmonic oscillator index theorem and anomaly",
+    "alternate_names": [
+      "Quantum harmonic oscillator, index theorem and anomaly"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21348v1"
+    ],
+    "description": "Quantum anomalies are deeply connected to the renowned Atiyah-Singer (AS)\nindex theorem. While often associated with fermionic systems, anomalies can\nalso emerge in purely bosonic settings. In this paper, we explore a\nparticularly simple example of such a case: the quantum harmonic oscillator. We\ninvestigate how its internal energy relates to the Atiyah-Singer index theorem,\nshowing that the partition function can be interpreted as the Chern character\nof \"physiacl sheaf\" over Eucildean spacetime. This correspondence reveals the\ninternal energy of oscillator as a concrete manifestation of the index theorem.\nMoreover, we show that this connection naturally leads to the emergence of a\nquantum anomaly.",
+    "metadata": {
+      "authors": [
+        "Shunrui Li",
+        "Yang Liu"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-05-27 15:43:35+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21348v1"
+    }
+  },
+  "a burns-krantz type theorem for blaschke products": {
+    "canonical_name": "a burns-krantz type theorem for blaschke products",
+    "alternate_names": [
+      "A Burns-Krantz type theorem for Blaschke products"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21346v1"
+    ],
+    "description": "Let $f$ be a holomorphic function mapping the open unit disk into itself. We\nestablish a boundary version of Schwarz' lemma in the spirit of a result by\nBurns and Krantz and provide sufficient conditions on the local behaviour of\n$f$ near some boundary point that forces $f$ to be a Blaschke product with\npredescribed critical points. For the proof, a local Julia type inequality\nbased on Nehari's sharpening of Schwarz' lemma is established.",
+    "metadata": {
+      "authors": [
+        "Annika Moucha"
+      ],
+      "categories": [
+        "math.CV",
+        "30C80, 30J10"
+      ],
+      "published": "2025-05-27 15:41:31+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21346v1"
+    }
+  },
+  "construction and limit theorems for supcar fields": {
+    "canonical_name": "construction and limit theorems for supcar fields",
+    "alternate_names": [
+      "Construction and limit theorems for supCAR fields"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21195v1"
+    ],
+    "description": "The paper introduces a new class of random fields, supCAR fields, which are\nconstructed as superpositions of continuous autoregressive random fields. These\nsupCAR fields possess infinitely divisible marginal distributions. Their\nsecond-order properties are characterised by a novel family of covariance\nfunctions which can exhibit short- and long-range spatial dependencies. First,\nthe existence of such fields is examined. Then, functional limit theorems for\nsupCAR fields are derived under general assumptions. Four limiting scenarios\nthat depend on the marginals of the underlying autoregressive fields and the\nspecifications of the superposition are identified. Examples of specific supCAR\nfields, for which the assumptions and results are provided in simple, explicit\nforms, are presented. The obtained limit theorems can be employed for the\nstatistical inference of supCAR fields.",
+    "metadata": {
+      "authors": [
+        "Illia Donhauzer",
+        "Nikolai Leonenko",
+        "Andriy Olenko"
+      ],
+      "categories": [
+        "math.PR"
+      ],
+      "published": "2025-05-27 13:43:06+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21195v1"
+    }
+  },
+  "extension of a theorem of wschebor to free and matrix brownian motions": {
+    "canonical_name": "extension of a theorem of wschebor to free and matrix brownian motions",
+    "alternate_names": [
+      "Extension of a theorem of Wschebor to free and matrix Brownian motions"
+    ],
+    "source_urls": [
+      "http://arxiv.org/abs/2505.21014v1"
+    ],
+    "description": "In 1992, M. Wschebor proved a theorem on the convergence of small increments\nof the Brownian motion. Since then, it has been extended to various processes.\nWe prove a version of this theorem for the Hermitian Brownian motion and the\nfree Brownian motion. Since these theorems deal with a convergence to a\ndeterministic limit, we prove also the convergence in distribution of the\ncorresponding fluctuations.",
+    "metadata": {
+      "authors": [
+        "Alain Rouault",
+        "Catherine Donati-Martin"
+      ],
+      "categories": [
+        "math.PR"
+      ],
+      "published": "2025-05-27 10:48:23+00:00",
+      "paper_id": "http://arxiv.org/abs/2505.21014v1"
+    }
+  }
+}

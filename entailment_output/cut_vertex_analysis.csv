@@ -1,0 +1,4 @@
+Cut Vertex,Type,Components Created,Systems Disconnected,Theorems Disconnected
+ACA0,system,2,8,5
+Con(PA),system,2,8,5
+ZFC,system,5,8,5

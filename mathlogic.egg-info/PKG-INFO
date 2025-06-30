@@ -1,0 +1,181 @@
+Metadata-Version: 2.1
+Name: mathlogic
+Version: 1.0.0
+Summary: Mathematical Logic Analysis Framework
+Author: HAL 9000
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: networkx>=2.5
+Requires-Dist: numpy>=1.20
+Requires-Dist: pandas>=1.2
+Requires-Dist: matplotlib>=3.3
+Requires-Dist: seaborn>=0.11
+Requires-Dist: numba>=0.53
+
+# Mathematical Logic and Theorem Prover
+
+This project implements a formal system for mathematical logic and automated theorem proving. It supports both propositional logic and first-order logic, with capabilities for formal proofs and automated theorem proving.
+
+## Project Overview
+ 
+This project implements a framework for analyzing mathematical logic relationships, specifically focusing on entailment relationships between logical statements and formal systems. It aims to identify structural indicators of independence, analyze minimal axiom systems, and predict the independence likelihood of open problems.
+ 
+## Project Structure
+ 
+```
+mathlogic/
+â”œâ”€â”€ core/                  # Core functionality for logical statements, entailment, and inference rules
+â”‚   â”œâ”€â”€ entailment.py      # Classes for LogicalStatement, EntailmentRelation, EntailmentCone
+â”‚   â”œâ”€â”€ statements.py      # Centralized database of theorems, systems, and relationships
+â”‚   â””â”€â”€ inference_rules.py # Functions for applying logical inference rules (e.g., Modus Ponens)
+â”œâ”€â”€ data/                  # Data collection and processing
+â”‚   â”œâ”€â”€ sources/           # Source-specific scrapers
+â”‚   â”‚   â”œâ”€â”€ base_source.py      # Base class for all scrapers
+â”‚   â”‚   â”œâ”€â”€ proofwiki_source.py # ProofWiki scraper
+â”‚   â”‚   â”œâ”€â”€ wikipedia_source.py # Wikipedia mathematics scraper
+â”‚   â”‚   â””â”€â”€ nlab_source.py      # nLab mathematics wiki scraper
+â”‚   â”œâ”€â”€ multi_source_scraper.py # Coordinates scraping from multiple sources
+â”‚   â”œâ”€â”€ theorem_matcher.py      # Handles theorem deduplication
+â”‚   â”œâ”€â”€ relationship_detector.py # Basic relationship detection
+â”‚   â””â”€â”€ enhanced_relationship_detector.py # Advanced NLP-based relationship detection
+â”œâ”€â”€ analysis/              # Tools for structural analysis and problem analysis
+â”‚   â”œâ”€â”€ structural.py      # Graph creation, centrality, neighborhood, and logical strength analysis
+â”‚   â”œâ”€â”€ dependencies.py    # Analysis of cut nodes and axiom dependencies
+â”‚   â”œâ”€â”€ open_problems.py   # Analysis and visualization of famous open problems
+â”‚   â””â”€â”€ open_problems_analyzer.py # Core logic for open problem analysis
+â”œâ”€â”€ prediction/            # (Future) Predictive modeling for independence likelihood
+â”‚   â”œâ”€â”€ features.py
+â”‚   â”œâ”€â”€ models.py
+â”‚   â””â”€â”€ validation.py
+â”œâ”€â”€ visualization/         # (Future) Advanced visualization tools
+â”‚   â”œâ”€â”€ network.py
+â”‚   â”œâ”€â”€ metrics.py
+â”‚   â””â”€â”€ interactive.py
+â””â”€â”€ utils/                 # Utility functions (e.g., metrics, I/O)
+    â””â”€â”€ metrics.py         # Logical metrics and helper functions
+ 
+run_analysis.py            # Main script to orchestrate the entire analysis workflow
+README.md                  # Project documentation
+research_plan.md           # Detailed research hypotheses and methodologies
+```
+ 
+## Features
+ 
+1. **Enhanced Data Collection**:
+   - Multi-source theorem scraping from:
+     - ProofWiki (primary source)
+     - Wikipedia mathematics articles
+     - nLab mathematics wiki
+   - Robust rate limiting and error handling
+   - Source-specific metadata extraction
+   - Theorem deduplication to avoid redundancy
+
+2. **Advanced Relationship Detection**:
+   - NLP-based semantic analysis using spaCy
+   - Mathematical concept extraction
+   - TF-IDF based similarity computation
+   - Axiom system overlap analysis
+   - Confidence scoring with multiple evidence types
+
+3. **Entailment Graph Construction**: 
+   - Builds a comprehensive graph of formal systems, theorems, and their logical relationships
+   - Supports multiple relationship types: proves, independence, contains, implies
+   - Enhanced with semantic similarity edges
+
+4. **Structural Analysis**:
+   - Computes various graph centrality measures
+   - Analyzes neighborhood structures
+   - Identifies patterns associated with independence
+   - Semantic clustering of related theorems
+
+5. **Logical Strength Analysis**:
+   - Quantifies theorem strength based on multiple factors
+   - Analyzes axiom dependencies
+   - Identifies critical theorems and relationships
+
+6. **Comprehensive Reporting**:
+   - Detailed Markdown reports
+   - Source-specific statistics
+   - Relationship confidence analysis
+   - Visualization of theorem networks
+ 
+## Installation
+ 
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd project
+   ```
+ 
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+ 
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   python -m spacy download en_core_web_sm
+   ```
+ 
+## Usage
+ 
+### Running the Full Analysis
+ 
+```bash
+python run_analysis.py
+```
+ 
+This will:
+1. Scrape theorems from configured sources (ProofWiki, Wikipedia, nLab)
+2. Perform deduplication
+3. Detect relationships using enhanced NLP
+4. Generate comprehensive reports
+
+### Using Individual Components
+ 
+```python
+from mathlogic.data.multi_source_scraper import MultiSourceScraper
+from mathlogic.data.enhanced_relationship_detector import EnhancedRelationshipDetector
+
+# Scrape theorems
+scraper = MultiSourceScraper()
+scraper.scrape_all_sources()
+
+# Detect relationships
+detector = EnhancedRelationshipDetector()
+relationships = detector.detect_enhanced_relationships(theorems_data)
+```
+ 
+## Extending the System
+ 
+### Adding New Sources
+ 
+1. Create a new source class in `mathlogic/data/sources/`
+2. Inherit from `MathSource` base class
+3. Implement the `fetch_theorems` method
+4. Add the source to `MultiSourceScraper`
+
+### Enhancing Relationship Detection
+
+1. Add new patterns to `concept_patterns` in `EnhancedRelationshipDetector`
+2. Implement additional similarity metrics
+3. Adjust confidence scoring weights
+4. Add new relationship types
+
+## Contributing
+
+Contributions are welcome! Here are some ways you can contribute:
+
+1. Add new theorem sources
+2. Improve NLP analysis
+3. Enhance relationship detection
+4. Add visualization features
+5. Fix bugs
+6. Improve documentation
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

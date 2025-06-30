@@ -1,0 +1,40 @@
+2025-06-28 13:49:15,982 - __main__ - INFO - Processing source: wikipedia
+2025-06-28 13:49:15,982 - __main__ - INFO - Items to process: 18
+2025-06-28 13:49:15,982 - __main__ - INFO - Categories to process: 0
+2025-06-28 13:49:47,391 - __main__ - INFO - ✓ Successfully scraped: Gödel's incompleteness theorems with 1 relationships.
+2025-06-28 13:49:52,883 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's Theorem' (proves) in paragraph.
+2025-06-28 13:49:53,499 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's theorem' (proves) in paragraph.
+2025-06-28 13:49:55,835 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Fermat's right triangle theorem' (uses) in paragraph.
+2025-06-28 13:50:04,912 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-28 13:50:05,440 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-28 13:50:06,540 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Ribet's theorem' (proves) in paragraph.
+2025-06-28 13:50:06,942 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Epsilon conjecture' (proves) in paragraph.
+2025-06-28 13:50:06,942 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Modularity theorem' (proves) in paragraph.
+2025-06-28 13:50:10,488 - __main__ - INFO - Found valid relationship: 'Fermat's Last Theorem' -> 'Catalan conjecture' (generalizes) in paragraph.
+2025-06-28 13:50:16,135 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem with 10 relationships.
+2025-06-28 13:50:41,623 - __main__ - INFO - ✓ Successfully scraped: Axiom of choice with 0 relationships.
+2025-06-28 13:51:05,613 - __main__ - INFO - ✓ Successfully scraped: Pythagorean theorem with 0 relationships.
+2025-06-28 13:51:10,166 - __main__ - INFO - Found valid relationship: 'Fundamental theorem of arithmetic' -> 'Fermat's Last Theorem' (proves) in paragraph.
+2025-06-28 13:51:14,013 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of arithmetic with 1 relationships.
+2025-06-28 13:51:26,508 - __main__ - INFO - ✓ Successfully scraped: Continuum hypothesis with 0 relationships.
+2025-06-28 13:52:15,014 - __main__ - INFO - ✓ Successfully scraped: Riemann hypothesis with 0 relationships.
+2025-06-28 13:52:20,854 - __main__ - INFO - ✓ Successfully scraped: Twin prime with 0 relationships.
+2025-06-28 13:52:27,100 - __main__ - INFO - ✓ Successfully scraped: Goldbach's conjecture with 0 relationships.
+2025-06-28 13:52:37,752 - __main__ - INFO - ✓ Successfully scraped: Collatz conjecture with 0 relationships.
+2025-06-28 13:52:41,772 - __main__ - INFO - ✓ Successfully scraped: Zorn's lemma with 0 relationships.
+2025-06-28 13:52:42,281 - __main__ - WARNING - Direct URL for 'Well-Ordering Theorem' failed with status 404. Falling back to search.
+2025-06-28 13:52:42,378 - __main__ - INFO - Found 'Well-Ordering Theorem' via search at: https://en.wikipedia.org/wiki/Well-ordering_theorem
+2025-06-28 13:52:45,794 - __main__ - INFO - ✓ Successfully scraped: Well-ordering theorem with 0 relationships.
+2025-06-28 13:52:46,364 - __main__ - WARNING - Direct URL for 'Compactness Theorem' failed with status 404. Falling back to search.
+2025-06-28 13:52:46,465 - __main__ - INFO - Found 'Compactness Theorem' via search at: https://en.wikipedia.org/wiki/Compactness_theorem
+2025-06-28 13:52:48,434 - __main__ - INFO - ✓ Successfully scraped: Compactness theorem with 0 relationships.
+2025-06-28 13:52:49,039 - __main__ - WARNING - Direct URL for 'Löwenheim–Skolem Theorem' failed with status 404. Falling back to search.
+2025-06-28 13:52:49,167 - __main__ - INFO - Found 'Löwenheim–Skolem Theorem' via search at: https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem
+2025-06-28 13:52:52,793 - __main__ - INFO - ✓ Successfully scraped: Löwenheim–Skolem theorem with 0 relationships.
+2025-06-28 13:52:53,405 - __main__ - WARNING - Direct URL for 'Completeness Theorem' failed with status 404. Falling back to search.
+2025-06-28 13:52:53,493 - __main__ - INFO - Found 'Completeness Theorem' via search at: https://en.wikipedia.org/wiki/Completeness_theorem
+2025-06-28 13:52:58,027 - __main__ - INFO - ✓ Successfully scraped: Gödel's completeness theorem with 0 relationships.
+2025-06-28 13:53:08,142 - __main__ - INFO - ✓ Successfully scraped: Halting problem with 0 relationships.
+2025-06-28 13:53:10,947 - __main__ - INFO - ✓ Successfully scraped: Church–Turing thesis with 0 relationships.
+2025-06-28 13:53:23,018 - __main__ - INFO - ✓ Successfully scraped: Prime number theorem with 0 relationships.
+2025-06-28 13:53:23,122 - __main__ - INFO - Results saved to: entailment_output/scraped_data\improved_scraping_results_20250628_135323.json

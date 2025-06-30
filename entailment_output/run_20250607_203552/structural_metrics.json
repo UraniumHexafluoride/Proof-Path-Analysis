@@ -1,0 +1,4469 @@
+{
+  "structural_metrics": {
+    "lemmata": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "at the edge of donsker's  asymptotics of multiscale scan statistics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "reflections on noether's second theorem and the energy-momentum tensor": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "toward khintchine's theorem with a moving target: extra divergence or finitely centered target": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "violation of luttinger's theorem in one-dimensional interacting fermions": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "a marcinkiewicz-zygmund inequality and the kadec pe\u0142czyn\u015bki theorem in orlicz spaces": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "an aubin-yau theorem for transversally k\u00e4hler foliations": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "frobenius theorem and fine structure of tangency sets to non-involutive distributions": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "a rank zero $p$-converse to a theorem of gross--zagier, kolyvagin and rubin": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "central limit theorem of multilevel monte carlo euler estimators for stochastic volterra equations with fractional kernels": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "half-space liouville-type theorems for minimal graphs with capillary boundary": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "an isometry theorem for persistent homology of circle-valued functions": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "real and finite field versions of chebotarev's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "on an extension of shlyk's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "a central limit theorem for the stochastic cable equation": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "a subset generalization of the erd\u0151s-kac theorem over number fields with applications": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "generalizations of erd\u0151s-kac theorem with applications": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "finite state dimension and the davenport erd\u0151s theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "linearly distributive fox theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "the shannon-mcmillan-breiman theorem of random dynamical systems for amenable group actions": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "an extended vinogradov's mean value theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "jacob's ladders, e. c. titchmarsh's hypothesis (1934) and new $\u03b6$-equivalents of the fermat-wiles theorem or connections between fermat's rationals and the gram's sequence": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "exact degrees of freedom via a projector-rank partition theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "menelaus' and ceva's theorems for translation triangles in thurston geometries": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": 2.7755575615628914e-17,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "a generalized sphere theorem and its applications": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "finite version of the $q$-analogue of de finetti's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "on a scaled abstract linking theorem with an application to the schr\u00f6dinger--poisson--slater equation": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "invariant submodules of modular operators and lomonosov type theorem for hilbert c*-modules": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "lemmas": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "inequalities (mathematics)": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "mathematical identities": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": 3.469446951953614e-18,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in algebra": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in mathematical analysis": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "conjectures that have been proved": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in discrete mathematics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in dynamical systems": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in the foundations of mathematics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in geometry": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in mathematical physics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in number theory": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in probability theory": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in statistics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "theorems in topology": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "mathematical theorems in theoretical computer science": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "uniqueness theorems": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "additive combinatorics": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "alexander\u2013hirschowitz theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "approximate max-flow min-cut theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "bauer maximum principle": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "blackwell's informativeness theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "buchdahl's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "budan's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "chasles' theorem (kinematics)": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "classification theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "comparison theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "existence theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "fueter\u2013p\u00f3lya theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "full-employment theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "fundamental theorem of topos theory": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "gauss congruence": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "girsanov theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "greibach's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "grey box model": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "gurzadyan theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.011363636363636364,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.011363636363636364,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": 1.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 1,
+      "degree_ratio": Infinity
+    },
+    "herglotz's variational principle": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "jouanolou's trick": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "kawasaki's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": 3.469446951953614e-18,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "kostant's convexity theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "lawvere's fixed-point theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "mathematics of apportionment": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "maximum theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "minimax theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "motzkin\u2013taussky theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "multiplication theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "namioka's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "no free lunch theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "omega-categorical theory": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "petersen\u2013morley theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "rank-index method": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "representation theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "shell theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.011363636363636364,
+      "in_degree_centrality": 0.011363636363636364,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.011363636363636364,
+      "pagerank": 0.020589880157452504,
+      "authority_score": -0.0,
+      "hub_score": 1.0,
+      "in_degree": 1,
+      "out_degree": 0,
+      "degree_ratio": 0.0
+    },
+    "solovay\u2013kitaev theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "stochastic portfolio theory": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "toy theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": 1.3877787807814457e-17,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "transport theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "trombi\u2013varadarajan theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "tutte homotopy theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "vincent's theorem": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    },
+    "zermelo's theorem (game theory)": {
+      "type": "theorem",
+      "degree_centrality": 0.0,
+      "in_degree_centrality": 0.0,
+      "out_degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.011129660452756242,
+      "authority_score": -0.0,
+      "hub_score": -0.0,
+      "in_degree": 0,
+      "out_degree": 0,
+      "degree_ratio": Infinity
+    }
+  },
+  "classifications": {
+    "lemmata": "unknown",
+    "at the edge of donsker's  asymptotics of multiscale scan statistics": "unknown",
+    "reflections on noether's second theorem and the energy-momentum tensor": "unknown",
+    "toward khintchine's theorem with a moving target: extra divergence or finitely centered target": "unknown",
+    "violation of luttinger's theorem in one-dimensional interacting fermions": "unknown",
+    "a marcinkiewicz-zygmund inequality and the kadec pe\u0142czyn\u015bki theorem in orlicz spaces": "unknown",
+    "an aubin-yau theorem for transversally k\u00e4hler foliations": "unknown",
+    "frobenius theorem and fine structure of tangency sets to non-involutive distributions": "unknown",
+    "a rank zero $p$-converse to a theorem of gross--zagier, kolyvagin and rubin": "unknown",
+    "central limit theorem of multilevel monte carlo euler estimators for stochastic volterra equations with fractional kernels": "unknown",
+    "half-space liouville-type theorems for minimal graphs with capillary boundary": "unknown",
+    "an isometry theorem for persistent homology of circle-valued functions": "unknown",
+    "real and finite field versions of chebotarev's theorem": "unknown",
+    "on an extension of shlyk's theorem": "unknown",
+    "a central limit theorem for the stochastic cable equation": "unknown",
+    "a subset generalization of the erd\u0151s-kac theorem over number fields with applications": "unknown",
+    "generalizations of erd\u0151s-kac theorem with applications": "unknown",
+    "finite state dimension and the davenport erd\u0151s theorem": "unknown",
+    "linearly distributive fox theorem": "unknown",
+    "the shannon-mcmillan-breiman theorem of random dynamical systems for amenable group actions": "unknown",
+    "an extended vinogradov's mean value theorem": "unknown",
+    "jacob's ladders, e. c. titchmarsh's hypothesis (1934) and new $\u03b6$-equivalents of the fermat-wiles theorem or connections between fermat's rationals and the gram's sequence": "unknown",
+    "exact degrees of freedom via a projector-rank partition theorem": "unknown",
+    "menelaus' and ceva's theorems for translation triangles in thurston geometries": "unknown",
+    "a generalized sphere theorem and its applications": "unknown",
+    "finite version of the $q$-analogue of de finetti's theorem": "unknown",
+    "on a scaled abstract linking theorem with an application to the schr\u00f6dinger--poisson--slater equation": "unknown",
+    "invariant submodules of modular operators and lomonosov type theorem for hilbert c*-modules": "unknown",
+    "lemmas": "unknown",
+    "inequalities (mathematics)": "unknown",
+    "mathematical identities": "unknown",
+    "theorems in algebra": "unknown",
+    "theorems in mathematical analysis": "unknown",
+    "conjectures that have been proved": "unknown",
+    "theorems in discrete mathematics": "unknown",
+    "theorems in dynamical systems": "unknown",
+    "theorems in the foundations of mathematics": "unknown",
+    "theorems in geometry": "unknown",
+    "theorems in mathematical physics": "unknown",
+    "theorems in number theory": "unknown",
+    "theorems in probability theory": "unknown",
+    "theorems in statistics": "unknown",
+    "theorems in topology": "unknown",
+    "mathematical theorems in theoretical computer science": "unknown",
+    "uniqueness theorems": "unknown",
+    "additive combinatorics": "unknown",
+    "alexander\u2013hirschowitz theorem": "unknown",
+    "approximate max-flow min-cut theorem": "unknown",
+    "bauer maximum principle": "unknown",
+    "blackwell's informativeness theorem": "unknown",
+    "buchdahl's theorem": "unknown",
+    "budan's theorem": "unknown",
+    "chasles' theorem (kinematics)": "unknown",
+    "classification theorem": "unknown",
+    "comparison theorem": "unknown",
+    "existence theorem": "unknown",
+    "fueter\u2013p\u00f3lya theorem": "unknown",
+    "full-employment theorem": "unknown",
+    "fundamental theorem of topos theory": "unknown",
+    "gauss congruence": "unknown",
+    "girsanov theorem": "unknown",
+    "greibach's theorem": "unknown",
+    "grey box model": "unknown",
+    "gurzadyan theorem": "unknown",
+    "herglotz's variational principle": "unknown",
+    "jouanolou's trick": "unknown",
+    "kawasaki's theorem": "unknown",
+    "kostant's convexity theorem": "unknown",
+    "lawvere's fixed-point theorem": "unknown",
+    "mathematics of apportionment": "unknown",
+    "maximum theorem": "unknown",
+    "minimax theorem": "unknown",
+    "motzkin\u2013taussky theorem": "unknown",
+    "multiplication theorem": "unknown",
+    "namioka's theorem": "unknown",
+    "no free lunch theorem": "unknown",
+    "omega-categorical theory": "unknown",
+    "petersen\u2013morley theorem": "unknown",
+    "rank-index method": "unknown",
+    "representation theorem": "unknown",
+    "shell theorem": "unknown",
+    "solovay\u2013kitaev theorem": "unknown",
+    "stochastic portfolio theory": "unknown",
+    "toy theorem": "unknown",
+    "transport theorem": "unknown",
+    "trombi\u2013varadarajan theorem": "unknown",
+    "tutte homotopy theorem": "unknown",
+    "vincent's theorem": "unknown",
+    "zermelo's theorem (game theory)": "unknown"
+  },
+  "neighborhood_metrics": {
+    "lemmata": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "at the edge of donsker's  asymptotics of multiscale scan statistics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "reflections on noether's second theorem and the energy-momentum tensor": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "toward khintchine's theorem with a moving target: extra divergence or finitely centered target": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "violation of luttinger's theorem in one-dimensional interacting fermions": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "a marcinkiewicz-zygmund inequality and the kadec pe\u0142czyn\u015bki theorem in orlicz spaces": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "an aubin-yau theorem for transversally k\u00e4hler foliations": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "frobenius theorem and fine structure of tangency sets to non-involutive distributions": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "a rank zero $p$-converse to a theorem of gross--zagier, kolyvagin and rubin": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "central limit theorem of multilevel monte carlo euler estimators for stochastic volterra equations with fractional kernels": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "half-space liouville-type theorems for minimal graphs with capillary boundary": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "an isometry theorem for persistent homology of circle-valued functions": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "real and finite field versions of chebotarev's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "on an extension of shlyk's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "a central limit theorem for the stochastic cable equation": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "a subset generalization of the erd\u0151s-kac theorem over number fields with applications": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "generalizations of erd\u0151s-kac theorem with applications": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "finite state dimension and the davenport erd\u0151s theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "linearly distributive fox theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "the shannon-mcmillan-breiman theorem of random dynamical systems for amenable group actions": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "an extended vinogradov's mean value theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "jacob's ladders, e. c. titchmarsh's hypothesis (1934) and new $\u03b6$-equivalents of the fermat-wiles theorem or connections between fermat's rationals and the gram's sequence": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "exact degrees of freedom via a projector-rank partition theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "menelaus' and ceva's theorems for translation triangles in thurston geometries": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "a generalized sphere theorem and its applications": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "finite version of the $q$-analogue of de finetti's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "on a scaled abstract linking theorem with an application to the schr\u00f6dinger--poisson--slater equation": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "invariant submodules of modular operators and lomonosov type theorem for hilbert c*-modules": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "lemmas": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "inequalities (mathematics)": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "mathematical identities": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in algebra": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in mathematical analysis": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "conjectures that have been proved": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in discrete mathematics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in dynamical systems": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in the foundations of mathematics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in geometry": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in mathematical physics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in number theory": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in probability theory": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in statistics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "theorems in topology": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "mathematical theorems in theoretical computer science": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "uniqueness theorems": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "additive combinatorics": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "alexander\u2013hirschowitz theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "approximate max-flow min-cut theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "bauer maximum principle": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "blackwell's informativeness theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "buchdahl's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "budan's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "chasles' theorem (kinematics)": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "classification theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "comparison theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "existence theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "fueter\u2013p\u00f3lya theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "full-employment theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "fundamental theorem of topos theory": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "gauss congruence": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "girsanov theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "greibach's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "grey box model": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "gurzadyan theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 1,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 1
+    },
+    "herglotz's variational principle": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "jouanolou's trick": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "kawasaki's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "kostant's convexity theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "lawvere's fixed-point theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "mathematics of apportionment": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "maximum theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "minimax theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "motzkin\u2013taussky theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "multiplication theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "namioka's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "no free lunch theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "omega-categorical theory": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "petersen\u2013morley theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "rank-index method": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "representation theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "shell theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 1,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 1
+    },
+    "solovay\u2013kitaev theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "stochastic portfolio theory": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "toy theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "transport theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "trombi\u2013varadarajan theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "tutte homotopy theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "vincent's theorem": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    },
+    "zermelo's theorem (game theory)": {
+      "pred_systems": 0,
+      "pred_theorems": 0,
+      "succ_systems": 0,
+      "succ_theorems": 0,
+      "independent_neighbors": 0,
+      "provable_neighbors": 0,
+      "neighborhood_size": 0
+    }
+  },
+  "extended_metrics": {
+    "lemmata": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "at the edge of donsker's  asymptotics of multiscale scan statistics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "reflections on noether's second theorem and the energy-momentum tensor": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "toward khintchine's theorem with a moving target: extra divergence or finitely centered target": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "violation of luttinger's theorem in one-dimensional interacting fermions": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "a marcinkiewicz-zygmund inequality and the kadec pe\u0142czyn\u015bki theorem in orlicz spaces": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "an aubin-yau theorem for transversally k\u00e4hler foliations": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "frobenius theorem and fine structure of tangency sets to non-involutive distributions": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "a rank zero $p$-converse to a theorem of gross--zagier, kolyvagin and rubin": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "central limit theorem of multilevel monte carlo euler estimators for stochastic volterra equations with fractional kernels": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "half-space liouville-type theorems for minimal graphs with capillary boundary": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "an isometry theorem for persistent homology of circle-valued functions": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "real and finite field versions of chebotarev's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "on an extension of shlyk's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "a central limit theorem for the stochastic cable equation": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "a subset generalization of the erd\u0151s-kac theorem over number fields with applications": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "generalizations of erd\u0151s-kac theorem with applications": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "finite state dimension and the davenport erd\u0151s theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "linearly distributive fox theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "the shannon-mcmillan-breiman theorem of random dynamical systems for amenable group actions": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "an extended vinogradov's mean value theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "jacob's ladders, e. c. titchmarsh's hypothesis (1934) and new $\u03b6$-equivalents of the fermat-wiles theorem or connections between fermat's rationals and the gram's sequence": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "exact degrees of freedom via a projector-rank partition theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "menelaus' and ceva's theorems for translation triangles in thurston geometries": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "a generalized sphere theorem and its applications": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "finite version of the $q$-analogue of de finetti's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "on a scaled abstract linking theorem with an application to the schr\u00f6dinger--poisson--slater equation": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "invariant submodules of modular operators and lomonosov type theorem for hilbert c*-modules": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "lemmas": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "inequalities (mathematics)": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "mathematical identities": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in algebra": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in mathematical analysis": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "conjectures that have been proved": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in discrete mathematics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in dynamical systems": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in the foundations of mathematics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in geometry": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in mathematical physics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in number theory": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in probability theory": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in statistics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "theorems in topology": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "mathematical theorems in theoretical computer science": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "uniqueness theorems": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "additive combinatorics": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "alexander\u2013hirschowitz theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "approximate max-flow min-cut theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "bauer maximum principle": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "blackwell's informativeness theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "buchdahl's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "budan's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "chasles' theorem (kinematics)": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "classification theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "comparison theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "existence theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "fueter\u2013p\u00f3lya theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "full-employment theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "fundamental theorem of topos theory": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "gauss congruence": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "girsanov theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "greibach's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "grey box model": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "gurzadyan theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 1,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 1
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "herglotz's variational principle": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "jouanolou's trick": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "kawasaki's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "kostant's convexity theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "lawvere's fixed-point theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "mathematics of apportionment": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "maximum theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "minimax theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "motzkin\u2013taussky theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "multiplication theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "namioka's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "no free lunch theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "omega-categorical theory": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "petersen\u2013morley theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "rank-index method": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "representation theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "shell theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 1,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 1
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "solovay\u2013kitaev theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "stochastic portfolio theory": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "toy theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "transport theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "trombi\u2013varadarajan theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "tutte homotopy theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "vincent's theorem": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    },
+    "zermelo's theorem (game theory)": {
+      "hop_1": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      },
+      "hop_2": {
+        "systems_count": 0,
+        "theorems_count": 0,
+        "independent_count": 0,
+        "provable_count": 0,
+        "both_count": 0,
+        "unknown_count": 0
+      }
+    }
+  },
+  "strength_metrics": "entailment_output\\logical_strength_analysis.md",
+  "advanced_metrics": {
+    "lemmata": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "at the edge of donsker's  asymptotics of multiscale scan statistics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "reflections on noether's second theorem and the energy-momentum tensor": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "toward khintchine's theorem with a moving target: extra divergence or finitely centered target": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "violation of luttinger's theorem in one-dimensional interacting fermions": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "a marcinkiewicz-zygmund inequality and the kadec pe\u0142czyn\u015bki theorem in orlicz spaces": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "an aubin-yau theorem for transversally k\u00e4hler foliations": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "frobenius theorem and fine structure of tangency sets to non-involutive distributions": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "a rank zero $p$-converse to a theorem of gross--zagier, kolyvagin and rubin": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "central limit theorem of multilevel monte carlo euler estimators for stochastic volterra equations with fractional kernels": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "half-space liouville-type theorems for minimal graphs with capillary boundary": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "an isometry theorem for persistent homology of circle-valued functions": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "real and finite field versions of chebotarev's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "on an extension of shlyk's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "a central limit theorem for the stochastic cable equation": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "a subset generalization of the erd\u0151s-kac theorem over number fields with applications": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "generalizations of erd\u0151s-kac theorem with applications": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "finite state dimension and the davenport erd\u0151s theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "linearly distributive fox theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "the shannon-mcmillan-breiman theorem of random dynamical systems for amenable group actions": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "an extended vinogradov's mean value theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "jacob's ladders, e. c. titchmarsh's hypothesis (1934) and new $\u03b6$-equivalents of the fermat-wiles theorem or connections between fermat's rationals and the gram's sequence": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "exact degrees of freedom via a projector-rank partition theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "menelaus' and ceva's theorems for translation triangles in thurston geometries": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "a generalized sphere theorem and its applications": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "finite version of the $q$-analogue of de finetti's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "on a scaled abstract linking theorem with an application to the schr\u00f6dinger--poisson--slater equation": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "invariant submodules of modular operators and lomonosov type theorem for hilbert c*-modules": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "lemmas": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "inequalities (mathematics)": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "mathematical identities": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in algebra": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in mathematical analysis": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "conjectures that have been proved": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in discrete mathematics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in dynamical systems": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in the foundations of mathematics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in geometry": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in mathematical physics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in number theory": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in probability theory": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in statistics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "theorems in topology": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "mathematical theorems in theoretical computer science": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "uniqueness theorems": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "additive combinatorics": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "alexander\u2013hirschowitz theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "approximate max-flow min-cut theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "bauer maximum principle": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "blackwell's informativeness theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "buchdahl's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "budan's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "chasles' theorem (kinematics)": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "classification theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "comparison theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "existence theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "fueter\u2013p\u00f3lya theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "full-employment theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "fundamental theorem of topos theory": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "gauss congruence": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "girsanov theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "greibach's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "grey box model": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "gurzadyan theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "herglotz's variational principle": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "jouanolou's trick": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "kawasaki's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "kostant's convexity theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "lawvere's fixed-point theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "mathematics of apportionment": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "maximum theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "minimax theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "motzkin\u2013taussky theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "multiplication theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "namioka's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "no free lunch theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "omega-categorical theory": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "petersen\u2013morley theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "rank-index method": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "representation theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "shell theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "solovay\u2013kitaev theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "stochastic portfolio theory": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "toy theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "transport theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "trombi\u2013varadarajan theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "tutte homotopy theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "vincent's theorem": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    },
+    "zermelo's theorem (game theory)": {
+      "system_diversity": 0,
+      "independence_ratio": 0,
+      "independent_similarity": 0,
+      "provable_similarity": 0,
+      "path_diversity": 0,
+      "structural_balance": 0
+    }
+  },
+  "independence_patterns": {
+    "independent_theorems": [],
+    "provable_theorems": [],
+    "metric_differences": {},
+    "significant_indicators": []
+  }
+}

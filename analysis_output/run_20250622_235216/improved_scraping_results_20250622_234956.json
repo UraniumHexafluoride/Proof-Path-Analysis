@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "timestamp": "20250622_234956",
+    "scraping_date": "2025-06-22T23:49:56.234117",
+    "total_theorems": 18,
+    "total_relationships": 12,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis",
+          "Twin Prime Conjecture",
+          "Goldbach's Conjecture",
+          "Collatz Conjecture",
+          "Zorn's Lemma",
+          "Well-Ordering Theorem",
+          "Compactness Theorem",
+          "Löwenheim–Skolem Theorem",
+          "Completeness Theorem",
+          "Halting Problem",
+          "Church-Turing Thesis",
+          "Prime Number Theorem"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 18,
+      "relationship_count": 12,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Twin prime",
+        "Goldbach's conjecture",
+        "Collatz conjecture",
+        "Zorn's lemma",
+        "Well-ordering theorem",
+        "Compactness theorem",
+        "Löwenheim–Skolem theorem",
+        "Gödel's completeness theorem",
+        "Halting problem",
+        "Church–Turing thesis",
+        "Prime number theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Axiom of Choice",
+            "relationship_type": "independent_from",
+            "confidence": 0.8
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In 1984, Gerhard Frey noticed an apparent link between these two previously unrelated and unsolved problems, and he gave an outline suggesting this could be proved. The full proof that the two problems were closely linked was accomplished in 1986 by Ken Ribet, building on a partial proof by Jean-Pie"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Examining this elliptic curve with Ribet's theorem shows that it does not have a modular form. However, the proof by Andrew Wiles proves that any equation of the form y2 = x(x − an)(x + bn) does have a modular form. Any non-trivial solution to xp + yp = zp (with p an odd prime) would therefore creat"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's right triangle theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "Only one relevant proof by Fermat has survived, in which he uses the technique of infinite descent to show that the area of a right triangle with integer sides can never equal the square of an integer.[42][43][44] His proof is equivalent to demonstrating that the equation"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The strategy that ultimately led to a successful proof of Fermat's Last Theorem arose from the \"astounding\"[137]: 211  Taniyama–Shimura–Weil conjecture, proposed around 1955—which many mathematicians believed would be near to impossible to prove,[137]: 223  and was linked in the 1980s by Gerhard Fre"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The strategy that ultimately led to a successful proof of Fermat's Last Theorem arose from the \"astounding\"[137]: 211  Taniyama–Shimura–Weil conjecture, proposed around 1955—which many mathematicians believed would be near to impossible to prove,[137]: 223  and was linked in the 1980s by Gerhard Fre"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Following this strategy, a proof of Fermat's Last Theorem required two steps. First, it was necessary to prove the modularity theorem, or at least to prove it for the types of elliptical curves that included Frey's equation (known as semistable elliptic curves). This was widely believed inaccessible"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Epsilon conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's proof of the epsilon conjecture in 1986 accomplished the first of the two goals proposed by Frey. Upon hearing of Ribet's success, Andrew Wiles, an English mathematician with a childhood fascination with Fermat's Last Theorem, and who had worked on elliptic curves, decided to commit himself "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's proof of the epsilon conjecture in 1986 accomplished the first of the two goals proposed by Frey. Upon hearing of Ribet's success, Andrew Wiles, an English mathematician with a childhood fascination with Fermat's Last Theorem, and who had worked on elliptic curves, decided to commit himself "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Catalan conjecture",
+            "relationship_type": "generalizes",
+            "confidence": 0.95,
+            "evidence": "The Fermat–Catalan conjecture generalizes Fermat's last theorem with the ideas of the Catalan conjecture.[167][168] The conjecture states that the generalized Fermat equation has only finitely many solutions (a, b, c, m, n, k) with distinct triplets of values (am, bn, ck), where a, b, c are positive"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fundamental theorem of arithmetic",
+            "relationship_type": "uses",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The theorem generalizes to other algebraic structures that are called unique factorization domains and include principal ideal domains, Euclidean domains, and polynomial rings over a field. However, the theorem does not hold for algebraic integers.[b] This failure of unique factorization is one of t"
+          }
+        ]
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Twin prime",
+        "title": "Twin prime",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Goldbach's conjecture",
+        "title": "Goldbach's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Collatz conjecture",
+        "title": "Collatz conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Zorn's lemma",
+        "title": "Zorn's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Well-ordering theorem",
+        "title": "Well-ordering theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Compactness theorem",
+        "title": "Compactness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Löwenheim–Skolem theorem",
+        "title": "Löwenheim–Skolem theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Gödel's completeness theorem",
+        "title": "Gödel's completeness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Halting problem",
+        "title": "Halting problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Church–Turing thesis",
+        "title": "Church–Turing thesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Prime number theorem",
+        "title": "Prime number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      }
+    ]
+  }
+}

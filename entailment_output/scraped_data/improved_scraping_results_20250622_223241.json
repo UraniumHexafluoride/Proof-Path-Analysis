@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "timestamp": "20250622_223241",
+    "scraping_date": "2025-06-22T22:32:41.670523",
+    "total_theorems": 5,
+    "total_relationships": 50,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 5,
+      "relationship_count": 50,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "\n",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel's completeness theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "theorems",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "mathematical logic",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "philosophy of mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Hilbert's program",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "axioms",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "consistent system",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "axioms",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "\n",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's Last Theorem (book)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Diophantus",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Arithmetica",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Number theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Pierre de Fermat",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Effective abc conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Effective modified Szpiro conjecture",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "\n",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom of Choice (band)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "ZFC (disambiguation)",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "indexed family",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "real numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "axiom",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "set theory",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "collection",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "infinite",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "indexed family",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "\n",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Law of cosines",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Solid geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Non-Euclidean geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Differential geometry",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean triple",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Complex number",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Euclidean distance",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Pythagorean trigonometric identity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "In mathematics, the fundamental theorem of arithmetic, also called the unique factorization theorem and prime factorization theorem, states that every integer greater than 1 is prime or can be represented uniquely as a product of prime numbers, up to the order of the factors.[a][3][4][5] For example,\n",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fundamental theorem of algebra",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "List of theorems called fundamental",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Disquisitiones Arithmeticae",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Gauss",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "law of quadratic reciprocity",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "mathematics",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "integer",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "prime numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "up to",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "composite numbers",
+            "relationship_type": "related_to",
+            "confidence": 0.6
+          }
+        ]
+      }
+    ]
+  }
+}

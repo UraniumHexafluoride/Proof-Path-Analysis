@@ -1,0 +1,26 @@
+{
+  "wikipedia": {
+    "enabled": true,
+    "items": [
+      "Fermat's Last Theorem",
+      "Gödel's incompleteness theorems",
+      "Axiom of Choice",
+      "Continuum Hypothesis",
+      "Riemann Hypothesis"
+    ],
+    "categories": [
+      "Theorems in logic",
+      "Theorems in number theory",
+      "Theorems in geometry",
+      "Theorems in abstract algebra",
+      "Theorems in analysis"
+    ]
+  },
+  "proofwiki": {
+    "enabled": false
+  },
+  "nlab": {
+    "enabled": false
+  },
+  "output_dir": "entailment_output/scraped_data"
+} 

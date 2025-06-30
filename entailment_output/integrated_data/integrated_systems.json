@@ -1,0 +1,153 @@
+{
+  "ZFC": {
+    "description": "Zermelo-Fraenkel set theory with Choice",
+    "strength": 1.0
+  },
+  "ZF": {
+    "description": "Zermelo-Fraenkel set theory",
+    "strength": 0.9
+  },
+  "PA": {
+    "description": "Peano Arithmetic",
+    "strength": 0.8
+  },
+  "PA2": {
+    "description": "Second-order Peano Arithmetic",
+    "strength": 0.85
+  },
+  "ACA0": {
+    "description": "Arithmetical Comprehension Axiom",
+    "strength": 0.6
+  },
+  "PVS+NP": {
+    "description": "A system related to P vs NP problem",
+    "strength": 0.75
+  },
+  "ZFC+LC": {
+    "description": "ZFC with Large Cardinals",
+    "contains": [
+      "ZFC"
+    ],
+    "strength": 1.1
+  },
+  "ZFC+MM": {
+    "description": "ZFC with Martin Maximum",
+    "contains": [
+      "ZFC"
+    ],
+    "strength": 1.4
+  },
+  "ZFC+AD": {
+    "description": "ZFC with Axiom of Determinacy",
+    "contains": [
+      "ZFC"
+    ],
+    "strength": 1.3
+  },
+  "ZFC+PD": {
+    "description": "ZFC with Projective Determinacy",
+    "contains": [
+      "ZFC"
+    ],
+    "strength": 1.2
+  },
+  "ZFC+I0": {
+    "description": "ZFC with rank-into-rank axiom",
+    "contains": [
+      "ZFC"
+    ],
+    "strength": 1.5
+  },
+  "ZF+DC": {
+    "description": "ZF with Dependent Choice",
+    "contains": [
+      "ZF"
+    ],
+    "strength": 0.95
+  },
+  "NFU": {
+    "description": "New Foundations with Urelements",
+    "contains": [],
+    "strength": 0.7
+  },
+  "System1": {
+    "description": "Synthetic formal system 1",
+    "strength": 0.56
+  },
+  "System2": {
+    "description": "Synthetic formal system 2",
+    "strength": 1.21
+  },
+  "System3": {
+    "description": "Synthetic formal system 3",
+    "strength": 1.14
+  },
+  "System4": {
+    "description": "Synthetic formal system 4",
+    "strength": 0.79
+  },
+  "System5": {
+    "description": "Synthetic formal system 5",
+    "strength": 0.91
+  },
+  "System6": {
+    "description": "Synthetic formal system 6",
+    "strength": 1.01
+  },
+  "System7": {
+    "description": "Synthetic formal system 7",
+    "strength": 0.95
+  },
+  "System8": {
+    "description": "Synthetic formal system 8",
+    "strength": 1.25
+  },
+  "System9": {
+    "description": "Synthetic formal system 9",
+    "strength": 1.15
+  },
+  "System10": {
+    "description": "Synthetic formal system 10",
+    "strength": 1.34
+  },
+  "System11": {
+    "description": "Synthetic formal system 11",
+    "strength": 1.21
+  },
+  "System12": {
+    "description": "Synthetic formal system 12",
+    "strength": 1.28
+  },
+  "System13": {
+    "description": "Synthetic formal system 13",
+    "strength": 1.04
+  },
+  "System14": {
+    "description": "Synthetic formal system 14",
+    "strength": 0.62
+  },
+  "System15": {
+    "description": "Synthetic formal system 15",
+    "strength": 1.47
+  },
+  "System16": {
+    "description": "Synthetic formal system 16",
+    "strength": 1.4
+  },
+  "System17": {
+    "description": "Synthetic formal system 17",
+    "strength": 1.21
+  },
+  "System18": {
+    "description": "Synthetic formal system 18",
+    "strength": 0.69
+  },
+  "System19": {
+    "description": "Synthetic formal system 19",
+    "strength": 0.67
+  },
+  "System20": {
+    "description": "Synthetic formal system 20",
+    "strength": 1.35
+  }
+}

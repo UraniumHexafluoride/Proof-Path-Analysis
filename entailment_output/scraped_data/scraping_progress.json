@@ -1,0 +1,21 @@
+{
+  "completed_chunks": [
+    "proofwiki_0_5",
+    "arxiv_0_5",
+    "stackexchange_0_5",
+    "nlab_0_5",
+    "wikipedia_0_5",
+    "mathworld_0_5",
+    "proofwiki_0_2",
+    "nlab_0_2",
+    "wikipedia_0_2"
+  ],
+  "failed_chunks": [
+    "proofwiki_0_5",
+    "arxiv_0_5",
+    "stackexchange_0_5",
+    "nlab_0_5",
+    "wikipedia_0_5",
+    "mathworld_0_5"
+  ]
+}

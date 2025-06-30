@@ -1,0 +1,11 @@
+Source,Target,Entailment Relation
+P,Q,Modus Ponens
+P,P → Q,Cosubstitution
+P,P,Reflexivity
+Q,R,Modus Ponens
+Q,Q,Reflexivity
+P → Q,Q,Modus Ponens
+P → Q,P → Q,Reflexivity
+R,R,Reflexivity
+Q → R,R,Modus Ponens
+Q → R,Q → R,Reflexivity

@@ -1,0 +1,18 @@
+Source,Target,Entailment Relation
+A,B,Entailment
+B,C,Entailment
+C,D,Entailment
+A & B,C,Entailment
+D,E,Entailment
+E,F,Entailment
+F,A,Entailment
+~B,~A,Contraposition
+A | B,B,Disjunction Elimination
+B | C,C,Disjunction Elimination
+C | D,D,Disjunction Elimination
+D | E,E,Disjunction Elimination
+E | F,F,Disjunction Elimination
+"Implies(A, B)","Implies(B, C)",Transitivity
+"Implies(B, C)","Implies(C, D)",Transitivity
+"Implies(C, D)","Implies(D, E)",Transitivity
+"Implies(D, E)","Implies(E, F)",Transitivity

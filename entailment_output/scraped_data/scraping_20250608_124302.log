@@ -1,0 +1,2 @@
+2025-06-08 18:03:16,456 - __main__ - ERROR - Error processing source wikipedia: WikipediaSource.fetch_theorems() got an unexpected keyword argument 'config'
+2025-06-08 18:03:16,456 - __main__ - ERROR - Error running scraper: WikipediaSource.fetch_theorems() got an unexpected keyword argument 'config'

@@ -1,0 +1,33 @@
+{
+  "wikipedia": {
+    "enabled": true,
+    "items": [
+      "Gödel's incompleteness theorems",
+      "Fermat's Last Theorem",
+      "Axiom of Choice",
+      "Pythagorean theorem",
+      "Fundamental theorem of arithmetic",
+      "Continuum Hypothesis",
+      "Riemann Hypothesis",
+      "Twin Prime Conjecture",
+      "Goldbach's Conjecture",
+      "Collatz Conjecture",
+      "Zorn's Lemma",
+      "Well-Ordering Theorem",
+      "Compactness Theorem",
+      "Löwenheim–Skolem Theorem",
+      "Completeness Theorem",
+      "Halting Problem",
+      "Church-Turing Thesis",
+      "Prime Number Theorem"
+    ],
+    "categories": []
+  },
+  "proofwiki": {
+    "enabled": false
+  },
+  "nlab": {
+    "enabled": false
+  },
+  "output_dir": "entailment_output/scraped_data"
+} 

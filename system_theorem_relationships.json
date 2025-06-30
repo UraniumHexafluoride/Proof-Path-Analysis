@@ -1,0 +1,40 @@
+{
+  "ZFC": [
+    ["Fermat's Last Theorem", "Proves"],
+    ["Continuum Hypothesis", "Independent"],
+    ["Axiom of Choice", "Independent"],
+    ["Zorn's Lemma", "Proves"],
+    ["Well-Ordering Theorem", "Proves"],
+    ["Compactness Theorem", "Proves"],
+    ["Löwenheim–Skolem Theorem", "Proves"]
+  ],
+  "PA": [
+    ["Fundamental theorem of arithmetic", "Proves"],
+    ["Gödel's incompleteness theorems", "Independent"],
+    ["Completeness Theorem", "Proves"],
+    ["Halting Problem", "Independent"],
+    ["Church-Turing Thesis", "Independent"],
+    ["Prime Number Theorem", "Proves"]
+  ],
+  "ZF": [
+    ["Axiom of Choice", "Independent"],
+    ["Well-Ordering Theorem", "Independent"],
+    ["Zorn's Lemma", "Independent"]
+  ],
+  "ACA0": [
+    ["Fundamental theorem of arithmetic", "Proves"],
+    ["Prime Number Theorem", "Proves"]
+  ],
+  "ZFC+LC": [
+    ["Continuum Hypothesis", "Proves"]
+  ],
+  "ZFC+MM": [
+    ["Swinerton-Dyer Conjecture", "Proves"]
+  ],
+  "ZFC+AD": [
+    ["Continuum Hypothesis", "Independent"]
+  ],
+  "PVS+NP": [
+    ["P vs NP", "Independent"]
+  ]
+} 

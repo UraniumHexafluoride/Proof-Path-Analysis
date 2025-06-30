@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "timestamp": "20250622_234255",
+    "scraping_date": "2025-06-22T23:42:55.333324",
+    "total_theorems": 18,
+    "total_relationships": 2,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis",
+          "Twin Prime Conjecture",
+          "Goldbach's Conjecture",
+          "Collatz Conjecture",
+          "Zorn's Lemma",
+          "Well-Ordering Theorem",
+          "Compactness Theorem",
+          "Löwenheim–Skolem Theorem",
+          "Completeness Theorem",
+          "Halting Problem",
+          "Church-Turing Thesis",
+          "Prime Number Theorem"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 18,
+      "relationship_count": 2,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Twin prime",
+        "Goldbach's conjecture",
+        "Collatz conjecture",
+        "Zorn's lemma",
+        "Well-ordering theorem",
+        "Compactness theorem",
+        "Löwenheim–Skolem theorem",
+        "Gödel's completeness theorem",
+        "Halting problem",
+        "Church–Turing thesis",
+        "Prime number theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Axiom of Choice",
+            "relationship_type": "independent_from",
+            "confidence": 0.8
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fundamental theorem of arithmetic",
+            "relationship_type": "uses",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Twin prime",
+        "title": "Twin prime",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Goldbach's conjecture",
+        "title": "Goldbach's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Collatz conjecture",
+        "title": "Collatz conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Zorn's lemma",
+        "title": "Zorn's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Well-ordering theorem",
+        "title": "Well-ordering theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Compactness theorem",
+        "title": "Compactness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Löwenheim–Skolem theorem",
+        "title": "Löwenheim–Skolem theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Gödel's completeness theorem",
+        "title": "Gödel's completeness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Halting problem",
+        "title": "Halting problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Church–Turing thesis",
+        "title": "Church–Turing thesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Prime number theorem",
+        "title": "Prime number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      }
+    ]
+  }
+}

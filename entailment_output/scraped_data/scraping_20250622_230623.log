@@ -1,0 +1,18 @@
+2025-06-22 23:06:23,541 - __main__ - INFO - Processing source: wikipedia
+2025-06-22 23:06:23,542 - __main__ - INFO - Items to process: 18
+2025-06-22 23:06:23,542 - __main__ - INFO - Categories to process: 0
+2025-06-22 23:06:24,033 - __main__ - INFO - ✓ Successfully scraped: Gödel's incompleteness theorems
+2025-06-22 23:06:24,725 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-22 23:06:25,255 - __main__ - INFO - ✓ Successfully scraped: Axiom of choice
+2025-06-22 23:06:26,080 - __main__ - INFO - ✓ Successfully scraped: Pythagorean theorem
+2025-06-22 23:06:26,505 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of arithmetic
+2025-06-22 23:06:27,045 - __main__ - INFO - ✓ Successfully scraped: Continuum hypothesis
+2025-06-22 23:06:27,876 - __main__ - INFO - ✓ Successfully scraped: Riemann hypothesis
+2025-06-22 23:06:28,312 - __main__ - INFO - ✓ Successfully scraped: Twin prime
+2025-06-22 23:06:28,697 - __main__ - INFO - ✓ Successfully scraped: Goldbach's conjecture
+2025-06-22 23:06:29,208 - __main__ - INFO - ✓ Successfully scraped: Collatz conjecture
+2025-06-22 23:06:29,681 - __main__ - INFO - ✓ Successfully scraped: Zorn's lemma
+2025-06-22 23:06:31,568 - __main__ - INFO - ✓ Successfully scraped: Halting problem
+2025-06-22 23:06:32,041 - __main__ - INFO - ✓ Successfully scraped: Church–Turing thesis
+2025-06-22 23:06:32,771 - __main__ - INFO - ✓ Successfully scraped: Prime number theorem
+2025-06-22 23:06:34,684 - __main__ - INFO - Results saved to: entailment_output/scraped_data\improved_scraping_results_20250622_230632.json

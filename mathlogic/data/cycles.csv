@@ -1,0 +1,3 @@
+Length,Cycle
+2,P -> Q (P <-> Q) | Q -> P (P <-> Q)
+2,R -> Q (Q <-> R) | Q -> R (Q <-> R)

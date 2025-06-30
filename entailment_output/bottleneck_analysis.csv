@@ -1,0 +1,39 @@
+Analysis Type,Node,Value,Description
+Betweenness,ZFC,0.0368,Node type: system
+Betweenness,PA,0.0103,Node type: system
+Betweenness,ZF,0.0103,Node type: system
+Betweenness,ZFC+LC,0.0000,Node type: system
+Betweenness,PA+Con(PA),0.0000,Node type: system
+Betweenness,ACA0,0.0000,Node type: system
+Betweenness,RCA0,0.0000,Node type: system
+Betweenness,PH,0.0000,Node type: theorem
+Betweenness,GT,0.0000,Node type: theorem
+Betweenness,CH,0.0000,Node type: theorem
+Betweenness,AC,0.0000,Node type: theorem
+Betweenness,Con(PA),0.0000,Node type: theorem
+Betweenness,Con(ZFC),0.0000,Node type: theorem
+Betweenness,GCH,0.0000,Node type: theorem
+Betweenness,ZFC+PD,0.0000,Node type: system
+Betweenness,ZFC+MM,0.0000,Node type: system
+Betweenness,ZFC+AD,0.0000,Node type: system
+Betweenness,ZF+DC,0.0000,Node type: system
+Betweenness,Z,0.0000,Node type: system
+Betweenness,PA2,0.0000,Node type: system
+Betweenness,HA,0.0000,Node type: system
+Betweenness,WKL0,0.0000,Node type: system
+Betweenness,Ramsey,0.0000,Node type: theorem
+Betweenness,KP,0.0000,Node type: theorem
+Betweenness,BT,0.0000,Node type: theorem
+Betweenness,PD,0.0000,Node type: theorem
+Betweenness,MC,0.0000,Node type: theorem
+Betweenness,Ind_Comp,0.0000,Node type: theorem
+Betweenness,FLT,0.0000,Node type: theorem
+Betweenness,4CT,0.0000,Node type: theorem
+Betweenness,Con(ZF),0.0000,Node type: theorem
+Cut Vertex,ZF,N/A,Node type: system
+Cut Vertex,ACA0,N/A,Node type: system
+Cut Vertex,PA,N/A,Node type: system
+Cut Vertex,PA2,N/A,Node type: system
+Cut Vertex,Con(PA),N/A,Node type: theorem
+Cut Vertex,ZFC+LC,N/A,Node type: system
+Cut Vertex,ZFC,N/A,Node type: system

@@ -1,0 +1,103 @@
+Source,Target,Entailment Relation
+ZFC,Fermat's Last Theorem,Proves
+ZFC,Poincaré Conjecture,Proves
+ZFC,Hodge Conjecture,Proves
+ZFC,Zorn's Lemma,Proves
+ZFC,Well-Ordering Theorem,Proves
+ZFC,Compactness Theorem,Proves
+ZFC,Prime Number Theorem,Proves
+ZFC,Continuum Hypothesis,Independence
+ZFC,Twin Prime Conjecture,Independence
+ZFC,Riemann Hypothesis,Independence
+ZFC,Axiom of Choice,Independence
+ZFC,ZF,Contains
+ZFC,PA,Contains
+ZFC,ZFC,Reflexivity
+ZF,Well-Ordering Theorem,Independence
+ZF,PA,Contains
+ZF,ZF,Reflexivity
+PA,Fundamental Theorem of Arithmetic,Proves
+PA,Completeness Theorem,Proves
+PA,Gödel's Incompleteness,Independence
+PA,Halting Problem,Independence
+PA,Church-Turing Thesis,Independence
+PA,PA,Reflexivity
+PA2,Four Color Theorem,Proves
+PA2,Incompleteness Theorem,Proves
+PA2,PA,Contains
+PA2,PA2,Reflexivity
+ACA0,PA,Contains
+ACA0,ACA0,Reflexivity
+PVS+NP,P vs NP,Independence
+PVS+NP,PVS+NP,Reflexivity
+ZFC+LC,ZFC,Contains
+ZFC+LC,ZFC+LC,Reflexivity
+ZFC+MM,Swinerton-Dyer Conjecture,Proves
+ZFC+MM,ZFC,Contains
+ZFC+MM,PFA,Implies
+ZFC+MM,ZFC+MM,Reflexivity
+ZFC+AD,ZFC,Contains
+ZFC+AD,ZFC+AD,Reflexivity
+ZFC+PD,ZFC,Contains
+ZFC+PD,ZFC+PD,Reflexivity
+ZFC+I0,ZFC+I0,Reflexivity
+ZF+DC,ZF+DC,Reflexivity
+NFU,NFU,Reflexivity
+Cantor Theorem,Cantor Theorem,Reflexivity
+Zermelo Well-Ordering Theorem,Zermelo Well-Ordering Theorem,Reflexivity
+Sierpiński-Erdős Duality,Sierpiński-Erdős Duality,Reflexivity
+Martin Axiom,Suslin Hypothesis,Independence
+Martin Axiom,CH,Independence
+Martin Axiom,Martin Axiom,Reflexivity
+Solovay-Tennenbaum Theorem,Solovay-Tennenbaum Theorem,Reflexivity
+Twin Prime Conjecture,Goldbach Conjecture,Independence
+Twin Prime Conjecture,Twin Prime Conjecture,Reflexivity
+Goldbach Conjecture,Goldbach Conjecture,Reflexivity
+Green-Tao Theorem,Erdős-Moser Theorem,Independence
+Green-Tao Theorem,Green-Tao Theorem,Reflexivity
+Erdős-Moser Theorem,Erdős-Moser Theorem,Reflexivity
+Banach-Tarski Paradox,Banach-Tarski Paradox,Reflexivity
+Vitali Set,Vitali Set,Reflexivity
+Borel Hierarchy Theorem,Borel Hierarchy Theorem,Reflexivity
+Freyd-Mitchell Embedding Theorem,Yoneda Lemma,Independence
+Freyd-Mitchell Embedding Theorem,Freyd-Mitchell Embedding Theorem,Reflexivity
+Yoneda Lemma,Yoneda Lemma,Reflexivity
+Four Color Theorem,Four Color Theorem,Reflexivity
+Fermat's Last Theorem,Fermat's Last Theorem,Reflexivity
+Gödel's Incompleteness,Gödel's Incompleteness,Reflexivity
+Continuum Hypothesis,Continuum Hypothesis,Reflexivity
+Riemann Hypothesis,Riemann Hypothesis,Reflexivity
+Poincaré Conjecture,Poincaré Conjecture,Reflexivity
+Hodge Conjecture,Hodge Conjecture,Reflexivity
+Goldbach's Conjecture,Goldbach's Conjecture,Reflexivity
+Collatz Conjecture,Collatz Conjecture,Reflexivity
+ABC Conjecture,ABC Conjecture,Reflexivity
+Navier-Stokes Existence and Smoothness,Navier-Stokes Existence and Smoothness,Reflexivity
+Axiom of Choice,Zorn's Lemma,Implies
+Axiom of Choice,Axiom of Choice,Reflexivity
+Swinerton-Dyer Conjecture,Swinerton-Dyer Conjecture,Reflexivity
+P vs NP,P vs NP,Reflexivity
+Zorn's Lemma,Well-Ordering Theorem,Implies
+Zorn's Lemma,Zorn's Lemma,Reflexivity
+Compactness Theorem,Löwenheim–Skolem Theorem,Implies
+Compactness Theorem,Compactness Theorem,Reflexivity
+Löwenheim–Skolem Theorem,Löwenheim–Skolem Theorem,Reflexivity
+Completeness Theorem,Compactness Theorem,Implies
+Completeness Theorem,Completeness Theorem,Reflexivity
+Incompleteness Theorem,Gödel's Incompleteness,Implies
+Incompleteness Theorem,Incompleteness Theorem,Reflexivity
+Halting Problem,P vs NP,Implies
+Halting Problem,Halting Problem,Reflexivity
+Church-Turing Thesis,Church-Turing Thesis,Reflexivity
+Fundamental Theorem of Arithmetic,Prime Number Theorem,Implies
+Fundamental Theorem of Arithmetic,Fundamental Theorem of Arithmetic,Reflexivity
+Prime Number Theorem,Riemann Hypothesis,Implies
+Prime Number Theorem,Twin Prime Conjecture,Implies
+Prime Number Theorem,Prime Number Theorem,Reflexivity
+Well-Ordering Theorem,Axiom of Choice,Implies
+Well-Ordering Theorem,Well-Ordering Theorem,Reflexivity
+Suslin Hypothesis,Suslin Hypothesis,Reflexivity
+CH,CH,Reflexivity
+AC,Banach-Tarski Paradox,Implies
+AC,AC,Reflexivity
+PFA,PFA,Reflexivity

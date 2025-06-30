@@ -1,0 +1,3 @@
+Start,End,Proof Path,Bottlenecks in Path
+P,R,P -> Q -> R,Q
+P → Q,R,P → Q -> Q -> R,Q

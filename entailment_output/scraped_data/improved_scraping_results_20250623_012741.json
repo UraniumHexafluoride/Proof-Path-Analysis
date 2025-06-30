@@ -1,0 +1,2173 @@
+{
+  "metadata": {
+    "timestamp": "20250623_012741",
+    "scraping_date": "2025-06-23T01:27:41.677443",
+    "total_theorems": 187,
+    "total_relationships": 59,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Fermat's Last Theorem",
+          "Gödel's incompleteness theorems",
+          "Axiom of Choice",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis"
+        ],
+        "categories": [
+          "Theorems in logic",
+          "Theorems in number theory",
+          "Theorems in geometry",
+          "Theorems in abstract algebra",
+          "Theorems in analysis"
+        ]
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 187,
+      "relationship_count": 59,
+      "successful_items": [
+        "Fermat's Last Theorem",
+        "Gödel's incompleteness theorems",
+        "Axiom of choice",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Converse theorem",
+        "Lochs's theorem",
+        "Fundamental theorem on homomorphisms",
+        "Apéry's theorem",
+        "Fold-and-cut theorem",
+        "Thom conjecture",
+        "Mahler's compactness theorem",
+        "Schauenburg–Ng theorem",
+        "Eichler–Shimura congruence relation",
+        "Algebraic number field",
+        "Szemerédi's theorem",
+        "Three-gap theorem",
+        "Lambek–Moser theorem",
+        "Mestre bound",
+        "Freiman's theorem",
+        "Jacobi's four-square theorem",
+        "Roth's theorem",
+        "Skolem–Mahler–Lech theorem",
+        "Eckmann–Hilton argument",
+        "Tijdeman's theorem",
+        "Hasse–Minkowski theorem",
+        "Marsaglia's theorem",
+        "Thomae's formula",
+        "Modularity theorem",
+        "Skoda–El Mir theorem",
+        "Local trace formula",
+        "Dirichlet's approximation theorem",
+        "Chow–Rashevskii theorem",
+        "Jacobi triple product",
+        "Six exponentials theorem",
+        "Artin–Verdier duality",
+        "Katz–Lang finiteness theorem",
+        "Dedekind–Kummer theorem",
+        "Thue equation",
+        "Kummer's theorem",
+        "Davenport–Erdős theorem",
+        "Jørgensen's inequality",
+        "Schneider–Lang theorem",
+        "Soddy's hexlet",
+        "Pappus's centroid theorem",
+        "Murakami–Yano formula",
+        "Quartic reciprocity",
+        "Steinitz's theorem (field theory)",
+        "Hurwitz's theorem (number theory)",
+        "Euclidean division",
+        "Davenport–Schmidt theorem",
+        "Lindemann–Weierstrass theorem",
+        "Chowla–Mordell theorem",
+        "Shimura's reciprocity law",
+        "Riemannian Penrose inequality",
+        "Romanov's theorem",
+        "Local criterion for flatness",
+        "Structure theorem for finitely generated modules over a principal ideal domain",
+        "Tunnell's theorem",
+        "Weil conjectures",
+        "Faltings' product theorem",
+        "Equidistribution theorem",
+        "Von Staudt–Clausen theorem",
+        "Schnirelmann density",
+        "Hyperbolization theorem",
+        "Quillen–Suslin theorem",
+        "Dold–Kan correspondence",
+        "Birch's theorem",
+        "Fermat's right triangle theorem",
+        "Minkowski's theorem",
+        "Latimer–MacDuffee theorem",
+        "Almost flat manifold",
+        "Principal axis theorem",
+        "Glaisher's theorem",
+        "Double limit theorem",
+        "Catalan's conjecture",
+        "Almgren regularity theorem",
+        "Bernstein–Kushnirenko theorem",
+        "Minkowski–Hlawka theorem",
+        "Lickorish–Wallace theorem",
+        "Kronecker's congruence",
+        "Blichfeldt's theorem",
+        "Ribet's theorem",
+        "Zsigmondy's theorem",
+        "Dodecahedral conjecture",
+        "Campbell's theorem (geometry)",
+        "Siegel's theorem on integral points",
+        "Andreotti–Grauert theorem",
+        "Ax–Kochen theorem",
+        "Diophantine set",
+        "Roth's theorem on arithmetic progressions",
+        "Chowla–Selberg formula",
+        "Faltings's theorem",
+        "15 and 290 theorems",
+        "Analytic subgroup theorem",
+        "Strassmann's theorem",
+        "Lagrange's four-square theorem",
+        "Brokard's theorem",
+        "Abhyankar's lemma",
+        "Segal's conjecture",
+        "2π theorem",
+        "Beatty sequence",
+        "Quadratic reciprocity",
+        "Kaplansky's theorem on quadratic forms",
+        "Primitive element theorem",
+        "Cubic reciprocity",
+        "Non-squeezing theorem",
+        "Lamé's theorem",
+        "Chinese remainder theorem",
+        "Generic flatness",
+        "Turán–Kubilius inequality",
+        "Pentagonal number theorem",
+        "Castelnuovo's contraction theorem",
+        "Subspace theorem",
+        "Reshetnyak gluing theorem",
+        "Spherical law of cosines",
+        "Kummer's congruence",
+        "Siegel–Weil formula",
+        "Whitehead's lemma",
+        "Quintuple product identity",
+        "Zeckendorf's theorem",
+        "Brumer bound",
+        "Euclid–Euler theorem",
+        "Nagell–Lutz theorem",
+        "Lehmer's conjecture",
+        "Castelnuovo–de Franchis theorem",
+        "Congruum",
+        "Sum of two squares theorem",
+        "Yau's conjecture",
+        "Torsion conjecture",
+        "Petersen–Morley theorem",
+        "Joubert's theorem",
+        "Ramanujan's congruences",
+        "Moessner's theorem",
+        "Anderson's theorem",
+        "Triangle inequality",
+        "Størmer's theorem",
+        "Schnirelmann density",
+        "Waldspurger's theorem",
+        "Meyer's theorem",
+        "Carmichael's theorem",
+        "Midy's theorem",
+        "Beckman–Quarles theorem",
+        "Legendre's three-square theorem",
+        "Shapley–Folkman lemma",
+        "Abhyankar's conjecture",
+        "Baker's theorem",
+        "Commandino's theorem",
+        "Minkowski's second theorem",
+        "Hilbert's irreducibility theorem",
+        "Catalan's conjecture",
+        "Brauer's theorem on forms",
+        "Dimension theorem for vector spaces",
+        "Bang's theorem on tetrahedra",
+        "Gram–Euler theorem",
+        "Cartan's theorem",
+        "Proizvolov's identity",
+        "Fundamental lemma (Langlands program)",
+        "Ultraparallel theorem",
+        "Jung's theorem",
+        "Multiplicity-one theorem",
+        "Fermat polygonal number theorem",
+        "Erdős–Graham problem",
+        "Manin–Drinfeld theorem",
+        "Eisenstein's theorem",
+        "Gabriel–Popescu theorem",
+        "Euler's theorem",
+        "Isomorphism extension theorem",
+        "Fermat's theorem on sums of two squares",
+        "Euler's rotation theorem",
+        "Collage theorem",
+        "Sophie Germain's theorem",
+        "De Gua's theorem",
+        "Abhyankar's inequality",
+        "Wiener–Ikehara theorem",
+        "Dévissage",
+        "Minkowski problem",
+        "Wendel's theorem",
+        "Theorem of the cube",
+        "Gelfond–Schneider theorem",
+        "Compass equivalence theorem",
+        "Behrend's theorem",
+        "Niven's theorem",
+        "Serre's modularity conjecture",
+        "Erdős–Fuchs theorem",
+        "Erdős–Tetali theorem",
+        "Erdős–Szemerédi theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In 1984, Gerhard Frey noticed an apparent link between these two previously unrelated and unsolved problems, and he gave an outline suggesting this could be proved. The full proof that the two problems were closely linked was accomplished in 1986 by Ken Ribet, building on a partial proof by Jean-Pie"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Examining this elliptic curve with Ribet's theorem shows that it does not have a modular form. However, the proof by Andrew Wiles proves that any equation of the form y2 = x(x − an)(x + bn) does have a modular form. Any non-trivial solution to xp + yp = zp (with p an odd prime) would therefore creat"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fermat's right triangle theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "Only one relevant proof by Fermat has survived, in which he uses the technique of infinite descent to show that the area of a right triangle with integer sides can never equal the square of an integer.[42][43][44] His proof is equivalent to demonstrating that the equation"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The strategy that ultimately led to a successful proof of Fermat's Last Theorem arose from the \"astounding\"[137]: 211  Taniyama–Shimura–Weil conjecture, proposed around 1955—which many mathematicians believed would be near to impossible to prove,[137]: 223  and was linked in the 1980s by Gerhard Fre"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The strategy that ultimately led to a successful proof of Fermat's Last Theorem arose from the \"astounding\"[137]: 211  Taniyama–Shimura–Weil conjecture, proposed around 1955—which many mathematicians believed would be near to impossible to prove,[137]: 223  and was linked in the 1980s by Gerhard Fre"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ribet's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Following this strategy, a proof of Fermat's Last Theorem required two steps. First, it was necessary to prove the modularity theorem, or at least to prove it for the types of elliptical curves that included Frey's equation (known as semistable elliptic curves). This was widely believed inaccessible"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Epsilon conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's proof of the epsilon conjecture in 1986 accomplished the first of the two goals proposed by Frey. Upon hearing of Ribet's success, Andrew Wiles, an English mathematician with a childhood fascination with Fermat's Last Theorem, and who had worked on elliptic curves, decided to commit himself "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's proof of the epsilon conjecture in 1986 accomplished the first of the two goals proposed by Frey. Upon hearing of Ribet's success, Andrew Wiles, an English mathematician with a childhood fascination with Fermat's Last Theorem, and who had worked on elliptic curves, decided to commit himself "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Catalan conjecture",
+            "relationship_type": "generalizes",
+            "confidence": 0.95,
+            "evidence": "The Fermat–Catalan conjecture generalizes Fermat's last theorem with the ideas of the Catalan conjecture.[167][168] The conjecture states that the generalized Fermat equation has only finitely many solutions (a, b, c, m, n, k) with distinct triplets of values (am, bn, ck), where a, b, c are positive"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fundamental theorem of arithmetic",
+            "relationship_type": "uses",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Axiom of Choice",
+            "relationship_type": "independent_from",
+            "confidence": 0.8
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Converse theorem",
+        "title": "Converse theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lochs's theorem",
+        "title": "Lochs's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fundamental theorem on homomorphisms",
+        "title": "Fundamental theorem on homomorphisms",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Apéry's theorem",
+        "title": "Apéry's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fold-and-cut theorem",
+        "title": "Fold-and-cut theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Thom conjecture",
+        "title": "Thom conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Mahler's compactness theorem",
+        "title": "Mahler's compactness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Schauenburg–Ng theorem",
+        "title": "Schauenburg–Ng theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Eichler–Shimura congruence relation",
+        "title": "Eichler–Shimura congruence relation",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Algebraic number field",
+        "title": "Algebraic number field",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Szemerédi's theorem",
+        "title": "Szemerédi's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Three-gap theorem",
+        "title": "Three-gap theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lambek–Moser theorem",
+        "title": "Lambek–Moser theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Lambek–Moser theorem",
+            "target_theorem": "Beatty sequence",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The theorem was discovered by Leo Moser and Joachim Lambek, who published it in 1954. Moser and Lambek cite the previous work of Samuel Beatty on Beatty sequences as their inspiration, and also cite the work of Viggo Brun and D. H. Lehmer from the early 1930s on methods related to their limiting for"
+          },
+          {
+            "source_theorem": "Lambek–Moser theorem",
+            "target_theorem": "Beatty sequence",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "Rayleigh's theorem states that for two positive irrational numbers     r   {\\displaystyle r}   and     s   {\\displaystyle s}  , both greater than one, with        1 r    +    1 s    = 1   {\\displaystyle {\\tfrac {1}{r}}+{\\tfrac {1}{s}}=1}  , the two sequences     ⌊ i ⋅ r ⌋   {\\displaystyle \\lfloor i\\"
+          },
+          {
+            "source_theorem": "Lambek–Moser theorem",
+            "target_theorem": "Beatty sequence",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "Rayleigh's theorem states that for two positive irrational numbers     r   {\\displaystyle r}   and     s   {\\displaystyle s}  , both greater than one, with        1 r    +    1 s    = 1   {\\displaystyle {\\tfrac {1}{r}}+{\\tfrac {1}{s}}=1}  , the two sequences     ⌊ i ⋅ r ⌋   {\\displaystyle \\lfloor i\\"
+          }
+        ]
+      },
+      {
+        "name": "Mestre bound",
+        "title": "Mestre bound",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Freiman's theorem",
+        "title": "Freiman's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Freiman's theorem",
+            "target_theorem": "Minkowski's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The proof of this proposition uses Minkowski's theorem, a fundamental result in geometry of numbers."
+          }
+        ]
+      },
+      {
+        "name": "Jacobi's four-square theorem",
+        "title": "Jacobi's four-square theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Roth's theorem",
+        "title": "Roth's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Roth's theorem",
+            "target_theorem": "Subspace theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "There is a higher-dimensional version, Schmidt's subspace theorem, of the basic result. There are also numerous extensions, for example using the p-adic metric,[3] based on the Roth method."
+          }
+        ]
+      },
+      {
+        "name": "Skolem–Mahler–Lech theorem",
+        "title": "Skolem–Mahler–Lech theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Eckmann–Hilton argument",
+        "title": "Eckmann–Hilton argument",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Tijdeman's theorem",
+        "title": "Tijdeman's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Tijdeman's theorem",
+            "target_theorem": "Catalan's conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Tijdeman's theorem provided a strong impetus towards the eventual proof of Catalan's conjecture by Preda Mihăilescu.[6] Mihăilescu's theorem states that there is only one member of the set of consecutive power pairs, namely 9=8+1.[7]"
+          },
+          {
+            "source_theorem": "Tijdeman's theorem",
+            "target_theorem": "Mihăilescu's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Tijdeman's theorem provided a strong impetus towards the eventual proof of Catalan's conjecture by Preda Mihăilescu.[6] Mihăilescu's theorem states that there is only one member of the set of consecutive power pairs, namely 9=8+1.[7]"
+          }
+        ]
+      },
+      {
+        "name": "Hasse–Minkowski theorem",
+        "title": "Hasse–Minkowski theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Marsaglia's theorem",
+        "title": "Marsaglia's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Thomae's formula",
+        "title": "Thomae's formula",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Modularity theorem",
+        "title": "Modularity theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Modularity theorem",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The conjecture attracted considerable interest when Gerhard Frey[5] suggested in 1986 that it implies Fermat's Last Theorem. He did this by attempting to show that any counterexample to Fermat's Last Theorem would imply the existence of at least one non-modular elliptic curve. This argument was comp"
+          },
+          {
+            "source_theorem": "Modularity theorem",
+            "target_theorem": "Epsilon conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The conjecture attracted considerable interest when Gerhard Frey[5] suggested in 1986 that it implies Fermat's Last Theorem. He did this by attempting to show that any counterexample to Fermat's Last Theorem would imply the existence of at least one non-modular elliptic curve. This argument was comp"
+          },
+          {
+            "source_theorem": "Modularity theorem",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The most spectacular application of the conjecture is the proof of Fermat's Last Theorem (FLT). Suppose that for a prime p ≥ 5, the Fermat equation"
+          }
+        ]
+      },
+      {
+        "name": "Skoda–El Mir theorem",
+        "title": "Skoda–El Mir theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Local trace formula",
+        "title": "Local trace formula",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Dirichlet's approximation theorem",
+        "title": "Dirichlet's approximation theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Dirichlet's approximation theorem",
+            "target_theorem": "Thue–Siegel–Roth theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "The Thue–Siegel–Roth theorem says that, for algebraic irrational numbers, the exponent of 2 in the corollary to Dirichlet’s approximation theorem is the best we can do: such numbers cannot be approximated by any exponent greater than 2. The Thue–Siegel–Roth theorem uses advanced techniques of number"
+          },
+          {
+            "source_theorem": "Dirichlet's approximation theorem",
+            "target_theorem": "Minkowski's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Another simple proof of the Dirichlet's approximation theorem is based on Minkowski's theorem applied to the set"
+          },
+          {
+            "source_theorem": "Dirichlet's approximation theorem",
+            "target_theorem": "Minkowski's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Since the volume of     S   {\\displaystyle S}   is greater than     4   {\\displaystyle 4}  , Minkowski's theorem establishes the existence of a non-trivial point with integral coordinates. This proof extends naturally to simultaneous approximations by considering the set"
+          }
+        ]
+      },
+      {
+        "name": "Chow–Rashevskii theorem",
+        "title": "Chow–Rashevskii theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Jacobi triple product",
+        "title": "Jacobi triple product",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Jacobi triple product",
+            "target_theorem": "Pentagonal number theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "Jacobi's proof relies on Euler's pentagonal number theorem, which is itself a specific case of the Jacobi triple product identity."
+          }
+        ]
+      },
+      {
+        "name": "Six exponentials theorem",
+        "title": "Six exponentials theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Artin–Verdier duality",
+        "title": "Artin–Verdier duality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Katz–Lang finiteness theorem",
+        "title": "Katz–Lang finiteness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Dedekind–Kummer theorem",
+        "title": "Dedekind–Kummer theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Thue equation",
+        "title": "Thue equation",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Thue equation",
+            "target_theorem": "Thue-Siegel-Roth theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Thue's original proof that the equation named in his honour has finitely many solutions is through the proof of what is now known as Thue's theorem: it asserts that for any algebraic number     α   {\\displaystyle \\alpha }   having degree     d ≥ 3   {\\displaystyle d\\geq 3}   and for any     ε > 0   "
+          }
+        ]
+      },
+      {
+        "name": "Kummer's theorem",
+        "title": "Kummer's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Davenport–Erdős theorem",
+        "title": "Davenport–Erdős theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Jørgensen's inequality",
+        "title": "Jørgensen's inequality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Schneider–Lang theorem",
+        "title": "Schneider–Lang theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Schneider–Lang theorem",
+            "target_theorem": "Hermite–Lindemann theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "In mathematics, the Schneider–Lang theorem is a refinement by Lang (1966) of a theorem of Schneider (1949) about the transcendence of values of meromorphic functions.  The theorem implies both the Hermite–Lindemann and Gelfond–Schneider theorems, and implies the transcendence of some values of ellip"
+          },
+          {
+            "source_theorem": "Schneider–Lang theorem",
+            "target_theorem": "Gelfond–Schneider theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "In mathematics, the Schneider–Lang theorem is a refinement by Lang (1966) of a theorem of Schneider (1949) about the transcendence of values of meromorphic functions.  The theorem implies both the Hermite–Lindemann and Gelfond–Schneider theorems, and implies the transcendence of some values of ellip"
+          }
+        ]
+      },
+      {
+        "name": "Soddy's hexlet",
+        "title": "Soddy's hexlet",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Pappus's centroid theorem",
+        "title": "Pappus's centroid theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Murakami–Yano formula",
+        "title": "Murakami–Yano formula",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Quartic reciprocity",
+        "title": "Quartic reciprocity",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Steinitz's theorem (field theory)",
+        "title": "Steinitz's theorem (field theory)",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Hurwitz's theorem (number theory)",
+        "title": "Hurwitz's theorem (number theory)",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Euclidean division",
+        "title": "Euclidean division",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Davenport–Schmidt theorem",
+        "title": "Davenport–Schmidt theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lindemann–Weierstrass theorem",
+        "title": "Lindemann–Weierstrass theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Chowla–Mordell theorem",
+        "title": "Chowla–Mordell theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Shimura's reciprocity law",
+        "title": "Shimura's reciprocity law",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Riemannian Penrose inequality",
+        "title": "Riemannian Penrose inequality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Romanov's theorem",
+        "title": "Romanov's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Local criterion for flatness",
+        "title": "Local criterion for flatness",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Structure theorem for finitely generated modules over a principal ideal domain",
+        "title": "Structure theorem for finitely generated modules over a principal ideal domain",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Tunnell's theorem",
+        "title": "Tunnell's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Weil conjectures",
+        "title": "Weil conjectures",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Faltings' product theorem",
+        "title": "Faltings' product theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Equidistribution theorem",
+        "title": "Equidistribution theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Von Staudt–Clausen theorem",
+        "title": "Von Staudt–Clausen theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Schnirelmann density",
+        "title": "Schnirelmann density",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Schnirelmann density",
+            "target_theorem": "Lagrange's four-square theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "If we set        G    2   = {  k  2    }  k = 1   ∞     {\\displaystyle {\\mathfrak {G}}^{2}=\\{k^{2}\\}_{k=1}^{\\infty }}  , then Lagrange's four-square theorem can be restated as     σ (    G    2   ⊕    G    2   ⊕    G    2   ⊕    G    2   ) = 1   {\\displaystyle \\sigma ({\\mathfrak {G}}^{2}\\oplus {\\mat"
+          }
+        ]
+      },
+      {
+        "name": "Hyperbolization theorem",
+        "title": "Hyperbolization theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Quillen–Suslin theorem",
+        "title": "Quillen–Suslin theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Dold–Kan correspondence",
+        "title": "Dold–Kan correspondence",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Birch's theorem",
+        "title": "Birch's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fermat's right triangle theorem",
+        "title": "Fermat's right triangle theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's right triangle theorem",
+            "target_theorem": "Congruum",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In 1225, Emperor Frederick II challenged the mathematician Fibonacci to take part in a mathematical contest against several other mathematicians, with three problems set by his court philosopher John of Palermo. The first of these problems asked for three rational numbers whose squares were equally "
+          },
+          {
+            "source_theorem": "Fermat's right triangle theorem",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "which can be simplified by introducing a new variable     e = a c   {\\displaystyle e=ac}   to      b  4   −  d  4   =  e  2   .   {\\displaystyle b^{4}-d^{4}=e^{2}.}   Conversely, any three positive integers obeying the equation      b  4   −  d  4   =  e  2     {\\displaystyle b^{4}-d^{4}=e^{2}}   le"
+          },
+          {
+            "source_theorem": "Fermat's right triangle theorem",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "During his lifetime, Fermat challenged several other mathematicians to prove the non-existence of a Pythagorean triangle with square area, but did not publish the proof himself. However, he wrote a proof in his copy of Diophantus's Arithmetica, the same copy in which he wrote that he could prove Fer"
+          }
+        ]
+      },
+      {
+        "name": "Minkowski's theorem",
+        "title": "Minkowski's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Minkowski's theorem",
+            "target_theorem": "Blichfeldt's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The complexity of finding the point guaranteed by Minkowski's theorem, or the closely related Blichfeldt's theorem, have been studied from the perspective of TFNP search problems. In particular, it is known that a computational analogue of Blichfeldt's theorem, a corollary of the proof of Minkowski'"
+          }
+        ]
+      },
+      {
+        "name": "Latimer–MacDuffee theorem",
+        "title": "Latimer–MacDuffee theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Almost flat manifold",
+        "title": "Almost flat manifold",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Principal axis theorem",
+        "title": "Principal axis theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Glaisher's theorem",
+        "title": "Glaisher's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Double limit theorem",
+        "title": "Double limit theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Double limit theorem",
+            "target_theorem": "Hyperbolization theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In hyperbolic geometry, Thurston's double limit theorem gives condition for a sequence of quasi-Fuchsian groups to have a convergent subsequence.  It was introduced in Thurston (1998, theorem 4.1) and is a major step in Thurston's proof of the hyperbolization theorem for the case of manifolds that f"
+          }
+        ]
+      },
+      {
+        "name": "Catalan's conjecture",
+        "title": "Catalan's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Almgren regularity theorem",
+        "title": "Almgren regularity theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Bernstein–Kushnirenko theorem",
+        "title": "Bernstein–Kushnirenko theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Minkowski–Hlawka theorem",
+        "title": "Minkowski–Hlawka theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lickorish–Wallace theorem",
+        "title": "Lickorish–Wallace theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Kronecker's congruence",
+        "title": "Kronecker's congruence",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Blichfeldt's theorem",
+        "title": "Blichfeldt's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Ribet's theorem",
+        "title": "Ribet's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Ribet's theorem",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's theorem (earlier called the epsilon conjecture or ε-conjecture) is part of number theory. It concerns properties of Galois representations associated with modular forms. It was proposed by Jean-Pierre Serre and proven by Ken Ribet. The proof was a significant step towards the proof of Fermat"
+          },
+          {
+            "source_theorem": "Ribet's theorem",
+            "target_theorem": "Taniyama–Shimura conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Ribet's theorem (earlier called the epsilon conjecture or ε-conjecture) is part of number theory. It concerns properties of Galois representations associated with modular forms. It was proposed by Jean-Pierre Serre and proven by Ken Ribet. The proof was a significant step towards the proof of Fermat"
+          },
+          {
+            "source_theorem": "Ribet's theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "In particular, if E is an elliptic curve over      Q    {\\displaystyle \\mathbb {Q} }   with conductor qN, then the modularity theorem guarantees that there exists a weight 2 newform f of level qN such that the 2-dimensional mod p Galois representation ρf, p of f is isomorphic to the 2-dimensional mo"
+          },
+          {
+            "source_theorem": "Ribet's theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In 1982 Gerhard Frey called attention to the unusual properties of the same curve, now called a Frey curve.[4] This provided a bridge between Fermat and Taniyama by showing that a counterexample to FLT would create a curve that would not be modular. The conjecture attracted considerable interest whe"
+          }
+        ]
+      },
+      {
+        "name": "Zsigmondy's theorem",
+        "title": "Zsigmondy's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Zsigmondy's theorem",
+            "target_theorem": "Carmichael's theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "i.e., the set of indices     n   {\\displaystyle n}   such that every prime dividing      a  n     {\\displaystyle a_{n}}   also divides some      a  m     {\\displaystyle a_{m}}   for some     m < n   {\\displaystyle m<n}  . Thus Zsigmondy's theorem implies that       Z   (  a  n   −  b  n   ) ⊂ { 1 , "
+          }
+        ]
+      },
+      {
+        "name": "Dodecahedral conjecture",
+        "title": "Dodecahedral conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Campbell's theorem (geometry)",
+        "title": "Campbell's theorem (geometry)",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Siegel's theorem on integral points",
+        "title": "Siegel's theorem on integral points",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Siegel's theorem on integral points",
+            "target_theorem": "Subspace theorem",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "In 2002, Umberto Zannier and Pietro Corvaja gave a new proof by using a new method based on the subspace theorem.[1]"
+          }
+        ]
+      },
+      {
+        "name": "Andreotti–Grauert theorem",
+        "title": "Andreotti–Grauert theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Ax–Kochen theorem",
+        "title": "Ax–Kochen theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Diophantine set",
+        "title": "Diophantine set",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Roth's theorem on arithmetic progressions",
+        "title": "Roth's theorem on arithmetic progressions",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Roth's theorem on arithmetic progressions",
+            "target_theorem": "Additive combinatorics",
+            "relationship_type": "special_case_of",
+            "confidence": 0.95,
+            "evidence": "Roth's theorem on arithmetic progressions is a result in additive combinatorics concerning the existence of arithmetic progressions in subsets of the natural numbers. It was first proven by Klaus Roth in 1953.[1] Roth's theorem is a special case of Szemerédi's theorem for the case     k = 3   {\\disp"
+          },
+          {
+            "source_theorem": "Roth's theorem on arithmetic progressions",
+            "target_theorem": "Szemerédi's theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.95,
+            "evidence": "Roth's theorem on arithmetic progressions is a result in additive combinatorics concerning the existence of arithmetic progressions in subsets of the natural numbers. It was first proven by Klaus Roth in 1953.[1] Roth's theorem is a special case of Szemerédi's theorem for the case     k = 3   {\\disp"
+          }
+        ]
+      },
+      {
+        "name": "Chowla–Selberg formula",
+        "title": "Chowla–Selberg formula",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Faltings's theorem",
+        "title": "Faltings's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "15 and 290 theorems",
+        "title": "15 and 290 theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "15 and 290 theorems",
+            "target_theorem": "Lagrange's four-square theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "is universal, because every positive integer can be written as a sum of 4 squares, by Lagrange's four-square theorem. By the 15 theorem, to verify this, it is sufficient to check that every positive integer up to 15 is a sum of 4 squares. (This does not give an alternative proof of Lagrange's theore"
+          }
+        ]
+      },
+      {
+        "name": "Analytic subgroup theorem",
+        "title": "Analytic subgroup theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Strassmann's theorem",
+        "title": "Strassmann's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lagrange's four-square theorem",
+        "title": "Lagrange's four-square theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Lagrange's four-square theorem",
+            "target_theorem": "Fermat polygonal number theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.95,
+            "evidence": "This theorem was proven by Joseph Louis Lagrange in 1770. It is a special case of the Fermat polygonal number theorem."
+          },
+          {
+            "source_theorem": "Lagrange's four-square theorem",
+            "target_theorem": "Fermat polygonal number theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.95,
+            "evidence": "Lagrange's four-square theorem is a special case of the Fermat polygonal number theorem and Waring's problem. Another possible generalization is the following problem: Given natural numbers     a , b , c , d   {\\displaystyle a,b,c,d}  , can we solve"
+          }
+        ]
+      },
+      {
+        "name": "Brokard's theorem",
+        "title": "Brokard's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Abhyankar's lemma",
+        "title": "Abhyankar's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Segal's conjecture",
+        "title": "Segal's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "2π theorem",
+        "title": "2π theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Beatty sequence",
+        "title": "Beatty sequence",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Beatty sequence",
+            "target_theorem": "Lambek–Moser theorem",
+            "relationship_type": "generalizes",
+            "confidence": 0.95,
+            "evidence": "The Lambek–Moser theorem generalizes the Rayleigh theorem and shows that more general pairs of sequences defined from an integer function and its inverse have the same property of partitioning the integers."
+          }
+        ]
+      },
+      {
+        "name": "Quadratic reciprocity",
+        "title": "Quadratic reciprocity",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Quadratic reciprocity",
+            "target_theorem": "Quartic reciprocity",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In his second monograph on quartic reciprocity[29] Gauss stated quadratic reciprocity for the ring      Z  [ i ]   {\\displaystyle \\mathbb {Z} [i]}   of Gaussian integers, saying that it is a corollary of the biquadratic law in      Z  [ i ] ,   {\\displaystyle \\mathbb {Z} [i],}   but did not provide "
+          },
+          {
+            "source_theorem": "Quadratic reciprocity",
+            "target_theorem": "Quartic reciprocity",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "In his second monograph on quartic reciprocity[29] Gauss stated quadratic reciprocity for the ring      Z  [ i ]   {\\displaystyle \\mathbb {Z} [i]}   of Gaussian integers, saying that it is a corollary of the biquadratic law in      Z  [ i ] ,   {\\displaystyle \\mathbb {Z} [i],}   but did not provide "
+          }
+        ]
+      },
+      {
+        "name": "Kaplansky's theorem on quadratic forms",
+        "title": "Kaplansky's theorem on quadratic forms",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Primitive element theorem",
+        "title": "Primitive element theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Cubic reciprocity",
+        "title": "Cubic reciprocity",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Non-squeezing theorem",
+        "title": "Non-squeezing theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lamé's theorem",
+        "title": "Lamé's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Chinese remainder theorem",
+        "title": "Chinese remainder theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Generic flatness",
+        "title": "Generic flatness",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Turán–Kubilius inequality",
+        "title": "Turán–Kubilius inequality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Pentagonal number theorem",
+        "title": "Pentagonal number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Castelnuovo's contraction theorem",
+        "title": "Castelnuovo's contraction theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Subspace theorem",
+        "title": "Subspace theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Reshetnyak gluing theorem",
+        "title": "Reshetnyak gluing theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Spherical law of cosines",
+        "title": "Spherical law of cosines",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Kummer's congruence",
+        "title": "Kummer's congruence",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Siegel–Weil formula",
+        "title": "Siegel–Weil formula",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Whitehead's lemma",
+        "title": "Whitehead's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Quintuple product identity",
+        "title": "Quintuple product identity",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Zeckendorf's theorem",
+        "title": "Zeckendorf's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Brumer bound",
+        "title": "Brumer bound",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Euclid–Euler theorem",
+        "title": "Euclid–Euler theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Nagell–Lutz theorem",
+        "title": "Nagell–Lutz theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Lehmer's conjecture",
+        "title": "Lehmer's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Castelnuovo–de Franchis theorem",
+        "title": "Castelnuovo–de Franchis theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Congruum",
+        "title": "Congruum",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Congruum",
+            "target_theorem": "Fermat's right triangle theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Fibonacci was already aware that it is impossible for a congruum to itself be a square, but did not give a satisfactory proof of this fact.[4] Geometrically, this means that it is not possible for the pair of legs of a Pythagorean triangle to be the leg and hypotenuse of another Pythagorean triangle"
+          }
+        ]
+      },
+      {
+        "name": "Sum of two squares theorem",
+        "title": "Sum of two squares theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Sum of two squares theorem",
+            "target_theorem": "Jacobi triple product",
+            "relationship_type": "uses",
+            "confidence": 0.95,
+            "evidence": "Proved by Gauss using quadratic forms and Jacobi using elliptic functions.[4] An elementary proof is based on the unique factorization of the Gaussian integers.[4] Hirschhorn gives a short proof derived from the Jacobi triple product.[5]"
+          }
+        ]
+      },
+      {
+        "name": "Yau's conjecture",
+        "title": "Yau's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Torsion conjecture",
+        "title": "Torsion conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Petersen–Morley theorem",
+        "title": "Petersen–Morley theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Joubert's theorem",
+        "title": "Joubert's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Ramanujan's congruences",
+        "title": "Ramanujan's congruences",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Moessner's theorem",
+        "title": "Moessner's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Anderson's theorem",
+        "title": "Anderson's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Triangle inequality",
+        "title": "Triangle inequality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Størmer's theorem",
+        "title": "Størmer's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Schnirelmann density",
+        "title": "Schnirelmann density",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Schnirelmann density",
+            "target_theorem": "Lagrange's four-square theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "If we set        G    2   = {  k  2    }  k = 1   ∞     {\\displaystyle {\\mathfrak {G}}^{2}=\\{k^{2}\\}_{k=1}^{\\infty }}  , then Lagrange's four-square theorem can be restated as     σ (    G    2   ⊕    G    2   ⊕    G    2   ⊕    G    2   ) = 1   {\\displaystyle \\sigma ({\\mathfrak {G}}^{2}\\oplus {\\mat"
+          }
+        ]
+      },
+      {
+        "name": "Waldspurger's theorem",
+        "title": "Waldspurger's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Meyer's theorem",
+        "title": "Meyer's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Carmichael's theorem",
+        "title": "Carmichael's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Midy's theorem",
+        "title": "Midy's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Beckman–Quarles theorem",
+        "title": "Beckman–Quarles theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Legendre's three-square theorem",
+        "title": "Legendre's three-square theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Legendre's three-square theorem",
+            "target_theorem": "Eureka theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Pierre de Fermat gave a criterion for numbers of the form 8a + 1 and 8a + 3 to be sums of a square plus twice another square, but did not provide a proof.[1] N. Beguelin noticed in 1774[2] that every positive integer which is neither of the form 8n + 7, nor of the form 4n, is the sum of three square"
+          },
+          {
+            "source_theorem": "Legendre's three-square theorem",
+            "target_theorem": "Lagrange's four-square theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "This theorem can be used to prove Lagrange's four-square theorem, which states that all natural numbers can be written as a sum of four squares. Gauss[10] pointed out that the four squares theorem follows easily from the fact that any positive integer that is 1 or 2 mod 4 is a sum of 3 squares, beca"
+          }
+        ]
+      },
+      {
+        "name": "Shapley–Folkman lemma",
+        "title": "Shapley–Folkman lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Abhyankar's conjecture",
+        "title": "Abhyankar's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Baker's theorem",
+        "title": "Baker's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Commandino's theorem",
+        "title": "Commandino's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Minkowski's second theorem",
+        "title": "Minkowski's second theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Hilbert's irreducibility theorem",
+        "title": "Hilbert's irreducibility theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Catalan's conjecture",
+        "title": "Catalan's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Brauer's theorem on forms",
+        "title": "Brauer's theorem on forms",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Dimension theorem for vector spaces",
+        "title": "Dimension theorem for vector spaces",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Bang's theorem on tetrahedra",
+        "title": "Bang's theorem on tetrahedra",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Gram–Euler theorem",
+        "title": "Gram–Euler theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Cartan's theorem",
+        "title": "Cartan's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Proizvolov's identity",
+        "title": "Proizvolov's identity",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fundamental lemma (Langlands program)",
+        "title": "Fundamental lemma (Langlands program)",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Ultraparallel theorem",
+        "title": "Ultraparallel theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Jung's theorem",
+        "title": "Jung's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Multiplicity-one theorem",
+        "title": "Multiplicity-one theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fermat polygonal number theorem",
+        "title": "Fermat polygonal number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat polygonal number theorem",
+            "target_theorem": "Lagrange's four-square theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The theorem is named after Pierre de Fermat, who stated it, in 1638, without proof, promising to write it in a separate work that never appeared.[1] Joseph Louis Lagrange proved the square case in 1770, which states that every positive number can be represented as a sum of four squares, for example,"
+          }
+        ]
+      },
+      {
+        "name": "Erdős–Graham problem",
+        "title": "Erdős–Graham problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Manin–Drinfeld theorem",
+        "title": "Manin–Drinfeld theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Eisenstein's theorem",
+        "title": "Eisenstein's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Gabriel–Popescu theorem",
+        "title": "Gabriel–Popescu theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Euler's theorem",
+        "title": "Euler's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Isomorphism extension theorem",
+        "title": "Isomorphism extension theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Fermat's theorem on sums of two squares",
+        "title": "Fermat's theorem on sums of two squares",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's theorem on sums of two squares",
+            "target_theorem": "Sum of two squares theorem",
+            "relationship_type": "implies",
+            "confidence": 0.95,
+            "evidence": "Since the Diophantus identity implies that the product of two integers each of which can be written as the sum of two squares is itself expressible as the sum of two squares, by applying Fermat's theorem to the prime factorization of any positive integer n, we see that if all  the prime factors of n"
+          },
+          {
+            "source_theorem": "Fermat's theorem on sums of two squares",
+            "target_theorem": "Law of quadratic reciprocity",
+            "relationship_type": "special_case_of",
+            "confidence": 0.95,
+            "evidence": "The above point of view on Fermat's theorem is a special case of the theory of factorization of ideals in rings of quadratic integers. In summary, if        O     d      {\\displaystyle {\\mathcal {O}}_{\\sqrt {d}}}   is the ring of algebraic integers in the quadratic field, then an odd prime number p,"
+          },
+          {
+            "source_theorem": "Fermat's theorem on sums of two squares",
+            "target_theorem": "Minkowski's theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "Fermat usually did not write down proofs of his claims, and he did not provide a proof of this statement. The first proof was found by Euler after much effort and is based on infinite descent.  He announced it in two letters to Goldbach, on May 6, 1747 and on April 12, 1749; he published the detaile"
+          }
+        ]
+      },
+      {
+        "name": "Euler's rotation theorem",
+        "title": "Euler's rotation theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Collage theorem",
+        "title": "Collage theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Sophie Germain's theorem",
+        "title": "Sophie Germain's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "De Gua's theorem",
+        "title": "De Gua's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Abhyankar's inequality",
+        "title": "Abhyankar's inequality",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Wiener–Ikehara theorem",
+        "title": "Wiener–Ikehara theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Dévissage",
+        "title": "Dévissage",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Minkowski problem",
+        "title": "Minkowski problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Wendel's theorem",
+        "title": "Wendel's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Theorem of the cube",
+        "title": "Theorem of the cube",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Gelfond–Schneider theorem",
+        "title": "Gelfond–Schneider theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Compass equivalence theorem",
+        "title": "Compass equivalence theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Behrend's theorem",
+        "title": "Behrend's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Niven's theorem",
+        "title": "Niven's theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Serre's modularity conjecture",
+        "title": "Serre's modularity conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Serre's modularity conjecture",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The level and weight of the conjectural form     f   {\\displaystyle f}   are explicitly conjectured in Serre's article.  In addition, he derives a number of results from this conjecture, among them Fermat's Last Theorem and the now-proven Taniyama–Weil (or Taniyama–Shimura) conjecture, now known as "
+          },
+          {
+            "source_theorem": "Serre's modularity conjecture",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.95,
+            "evidence": "The level and weight of the conjectural form     f   {\\displaystyle f}   are explicitly conjectured in Serre's article.  In addition, he derives a number of results from this conjecture, among them Fermat's Last Theorem and the now-proven Taniyama–Weil (or Taniyama–Shimura) conjecture, now known as "
+          }
+        ]
+      },
+      {
+        "name": "Erdős–Fuchs theorem",
+        "title": "Erdős–Fuchs theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Erdős–Tetali theorem",
+        "title": "Erdős–Tetali theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      },
+      {
+        "name": "Erdős–Szemerédi theorem",
+        "title": "Erdős–Szemerédi theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": []
+      }
+    ]
+  }
+}

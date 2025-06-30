@@ -1,0 +1,174 @@
+2025-06-07 23:30:04,906 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-07 23:30:04,906 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from proofwiki
+2025-06-07 23:30:05,908 - mathlogic.data.chunked_scraper - ERROR - Error processing Pythagorean_Theorem: ProofWikiSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:06,908 - mathlogic.data.chunked_scraper - ERROR - Error processing Fundamental_Theorem_of_Arithmetic: ProofWikiSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:07,909 - mathlogic.data.chunked_scraper - ERROR - Error processing Fundamental_Theorem_of_Algebra: ProofWikiSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:08,910 - mathlogic.data.chunked_scraper - ERROR - Error processing Euler_Formula: ProofWikiSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:09,911 - mathlogic.data.chunked_scraper - ERROR - Error processing Quadratic_Formula: ProofWikiSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:09,913 - mathlogic.data.chunked_scraper - INFO - Completed chunk proofwiki_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:09,913 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-07 23:30:09,913 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:09,914 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:30:09,914 - mathlogic.data.chunked_scraper - INFO - Starting scraping from arxiv
+2025-06-07 23:30:09,924 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from arxiv
+2025-06-07 23:30:10,925 - mathlogic.data.chunked_scraper - ERROR - Error processing math.LO: ArxivSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:11,925 - mathlogic.data.chunked_scraper - ERROR - Error processing math.AG: ArxivSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:12,926 - mathlogic.data.chunked_scraper - ERROR - Error processing math.NT: ArxivSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:13,927 - mathlogic.data.chunked_scraper - ERROR - Error processing math.CT: ArxivSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - ERROR - Error processing math.FA: ArxivSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - INFO - Completed chunk arxiv_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - INFO - Completed scraping from arxiv:
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:30:14,928 - mathlogic.data.chunked_scraper - INFO - Starting scraping from stackexchange
+2025-06-07 23:30:14,940 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from stackexchange
+2025-06-07 23:30:15,941 - mathlogic.data.chunked_scraper - ERROR - Error processing theorem: StackExchangeSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:16,942 - mathlogic.data.chunked_scraper - ERROR - Error processing proof: StackExchangeSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:17,942 - mathlogic.data.chunked_scraper - ERROR - Error processing logic: StackExchangeSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:18,943 - mathlogic.data.chunked_scraper - ERROR - Error processing algebra: StackExchangeSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - ERROR - Error processing analysis: StackExchangeSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - INFO - Completed chunk stackexchange_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - INFO - Completed scraping from stackexchange:
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:30:19,944 - mathlogic.data.chunked_scraper - INFO - Starting scraping from nlab
+2025-06-07 23:30:19,955 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from nlab
+2025-06-07 23:30:20,956 - mathlogic.data.chunked_scraper - ERROR - Error processing theorem: NLabSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:21,956 - mathlogic.data.chunked_scraper - ERROR - Error processing fundamental-theorem: NLabSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:22,957 - mathlogic.data.chunked_scraper - ERROR - Error processing important-theorem: NLabSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:23,958 - mathlogic.data.chunked_scraper - ERROR - Error processing classical-theorem: NLabSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - ERROR - Error processing modern-theorem: NLabSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - INFO - Completed chunk nlab_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - INFO - Completed scraping from nlab:
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:30:24,959 - mathlogic.data.chunked_scraper - INFO - Starting scraping from wikipedia
+2025-06-07 23:30:24,971 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from wikipedia
+2025-06-07 23:30:25,971 - mathlogic.data.chunked_scraper - ERROR - Error processing Category:Mathematical_theorems: WikipediaSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:26,972 - mathlogic.data.chunked_scraper - ERROR - Error processing Category:Theorems_in_algebra: WikipediaSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:27,973 - mathlogic.data.chunked_scraper - ERROR - Error processing Category:Theorems_in_analysis: WikipediaSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:28,974 - mathlogic.data.chunked_scraper - ERROR - Error processing Category:Theorems_in_geometry: WikipediaSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:29,974 - mathlogic.data.chunked_scraper - ERROR - Error processing Category:Theorems_in_number_theory: WikipediaSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:29,976 - mathlogic.data.chunked_scraper - INFO - Completed chunk wikipedia_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:29,976 - mathlogic.data.chunked_scraper - INFO - Completed scraping from wikipedia:
+2025-06-07 23:30:29,977 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:29,988 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:30:29,989 - mathlogic.data.chunked_scraper - INFO - Starting scraping from mathworld
+2025-06-07 23:30:29,989 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from mathworld
+2025-06-07 23:30:30,988 - mathlogic.data.chunked_scraper - ERROR - Error processing FundamentalTheorems: MathWorldSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:31,989 - mathlogic.data.chunked_scraper - ERROR - Error processing LogicandFoundations: MathWorldSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:32,990 - mathlogic.data.chunked_scraper - ERROR - Error processing NumberTheory: MathWorldSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:33,990 - mathlogic.data.chunked_scraper - ERROR - Error processing Algebra: MathWorldSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:34,991 - mathlogic.data.chunked_scraper - ERROR - Error processing Analysis: MathWorldSource.fetch_theorems() takes 1 positional argument but 2 were given
+2025-06-07 23:30:34,994 - mathlogic.data.chunked_scraper - INFO - Completed chunk mathworld_0_5: 0 successful, 5 failed (took 5.00s)
+2025-06-07 23:30:34,994 - mathlogic.data.chunked_scraper - INFO - Completed scraping from mathworld:
+2025-06-07 23:30:34,994 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:30:34,994 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:35:43,030 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-07 23:35:43,030 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from proofwiki
+2025-06-07 23:38:24,421 - mathlogic.data.chunked_scraper - INFO - Completed chunk proofwiki_0_5: 4 successful, 0 failed (took 161.39s)
+2025-06-07 23:38:24,421 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-07 23:38:24,424 - mathlogic.data.chunked_scraper - INFO - - Successful items: 4
+2025-06-07 23:38:24,424 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:38:24,425 - mathlogic.data.chunked_scraper - INFO - Starting scraping from arxiv
+2025-06-07 23:38:24,428 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from arxiv
+2025-06-07 23:38:31,295 - mathlogic.data.chunked_scraper - INFO - Completed chunk arxiv_0_5: 0 successful, 0 failed (took 6.87s)
+2025-06-07 23:38:31,295 - mathlogic.data.chunked_scraper - INFO - Completed scraping from arxiv:
+2025-06-07 23:38:31,295 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:38:31,295 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:38:31,295 - mathlogic.data.chunked_scraper - INFO - Starting scraping from stackexchange
+2025-06-07 23:38:31,308 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from stackexchange
+2025-06-07 23:42:37,409 - mathlogic.data.chunked_scraper - INFO - Completed chunk stackexchange_0_5: 9 successful, 0 failed (took 246.10s)
+2025-06-07 23:42:37,412 - mathlogic.data.chunked_scraper - INFO - Completed scraping from stackexchange:
+2025-06-07 23:42:37,412 - mathlogic.data.chunked_scraper - INFO - - Successful items: 9
+2025-06-07 23:42:37,412 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:42:37,412 - mathlogic.data.chunked_scraper - INFO - Starting scraping from nlab
+2025-06-07 23:42:37,421 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from nlab
+2025-06-07 23:43:01,389 - mathlogic.data.chunked_scraper - INFO - Completed chunk nlab_0_5: 1 successful, 0 failed (took 23.97s)
+2025-06-07 23:43:01,389 - mathlogic.data.chunked_scraper - INFO - Completed scraping from nlab:
+2025-06-07 23:43:01,390 - mathlogic.data.chunked_scraper - INFO - - Successful items: 1
+2025-06-07 23:43:01,390 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:43:01,391 - mathlogic.data.chunked_scraper - INFO - Starting scraping from wikipedia
+2025-06-07 23:43:01,409 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from wikipedia
+2025-06-07 23:51:16,575 - mathlogic.data.chunked_scraper - INFO - Completed chunk wikipedia_0_5: 280 successful, 0 failed (took 495.11s)
+2025-06-07 23:51:16,576 - mathlogic.data.chunked_scraper - INFO - Completed scraping from wikipedia:
+2025-06-07 23:51:16,577 - mathlogic.data.chunked_scraper - INFO - - Successful items: 280
+2025-06-07 23:51:16,577 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-07 23:51:16,577 - mathlogic.data.chunked_scraper - INFO - Starting scraping from mathworld
+2025-06-07 23:51:16,597 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (5 items) from mathworld
+2025-06-07 23:51:28,215 - mathlogic.data.chunked_scraper - INFO - Completed chunk mathworld_0_5: 0 successful, 0 failed (took 11.61s)
+2025-06-07 23:51:28,220 - mathlogic.data.chunked_scraper - INFO - Completed scraping from mathworld:
+2025-06-07 23:51:28,223 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-07 23:51:28,226 - mathlogic.data.chunked_scraper - INFO - - Failed items: 5
+2025-06-08 00:05:18,938 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-08 00:05:18,942 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (2 items) from proofwiki
+2025-06-08 00:07:52,694 - mathlogic.data.chunked_scraper - INFO - Completed chunk proofwiki_0_2: 2 successful, 0 failed (took 153.76s)
+2025-06-08 00:07:52,697 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-08 00:07:52,698 - mathlogic.data.chunked_scraper - INFO - - Successful items: 2
+2025-06-08 00:07:52,699 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:25:39,000 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-08 00:25:39,000 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from proofwiki
+2025-06-08 00:25:39,001 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-08 00:25:39,001 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:25:39,002 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:25:39,002 - mathlogic.data.chunked_scraper - INFO - Starting scraping from nlab
+2025-06-08 00:25:39,002 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (2 items) from nlab
+2025-06-08 00:25:49,106 - mathlogic.data.chunked_scraper - INFO - Completed chunk nlab_0_2: 0 successful, 0 failed (took 10.10s)
+2025-06-08 00:25:49,108 - mathlogic.data.chunked_scraper - INFO - Completed scraping from nlab:
+2025-06-08 00:25:49,109 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:25:49,109 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:25:49,109 - mathlogic.data.chunked_scraper - INFO - Starting scraping from wikipedia
+2025-06-08 00:25:49,121 - mathlogic.data.chunked_scraper - INFO - Processing 1 chunks (2 items) from wikipedia
+2025-06-08 00:26:11,522 - mathlogic.data.chunked_scraper - INFO - Completed chunk wikipedia_0_2: 0 successful, 0 failed (took 22.40s)
+2025-06-08 00:26:11,523 - mathlogic.data.chunked_scraper - INFO - Completed scraping from wikipedia:
+2025-06-08 00:26:11,524 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:26:11,530 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from proofwiki
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Starting scraping from nlab
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from nlab
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Completed scraping from nlab:
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:41:49,024 - mathlogic.data.chunked_scraper - INFO - Starting scraping from wikipedia
+2025-06-08 00:41:49,035 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from wikipedia
+2025-06-08 00:41:49,035 - mathlogic.data.chunked_scraper - INFO - Completed scraping from wikipedia:
+2025-06-08 00:41:49,035 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:41:49,037 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Starting scraping from proofwiki
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from proofwiki
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Completed scraping from proofwiki:
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Starting scraping from nlab
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from nlab
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Completed scraping from nlab:
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Starting scraping from wikipedia
+2025-06-08 00:46:05,517 - mathlogic.data.chunked_scraper - INFO - Processing 0 chunks (2 items) from wikipedia
+2025-06-08 00:46:05,526 - mathlogic.data.chunked_scraper - INFO - Completed scraping from wikipedia:
+2025-06-08 00:46:05,526 - mathlogic.data.chunked_scraper - INFO - - Successful items: 0
+2025-06-08 00:46:05,527 - mathlogic.data.chunked_scraper - INFO - - Failed items: 0
+2025-06-08 02:00:34,639 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 1/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/pythagorean_theorem
+2025-06-08 02:00:35,695 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 2/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/pythagorean_theorem
+2025-06-08 02:00:37,756 - mathlogic.data.sources.nlab_source - ERROR - Error processing theorem pythagorean_theorem: 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/pythagorean_theorem
+2025-06-08 02:00:37,809 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 1/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/fundamental_theorem_of_arithmetic
+2025-06-08 02:00:38,868 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 2/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/fundamental_theorem_of_arithmetic
+2025-06-08 02:00:40,929 - mathlogic.data.sources.nlab_source - ERROR - Error processing theorem fundamental_theorem_of_arithmetic: 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/fundamental_theorem_of_arithmetic
+2025-06-08 02:00:40,934 - __main__ - INFO - Results saved to entailment_output/scraped_data\final_results.json
+2025-06-08 02:00:40,936 - __main__ - INFO - Scraping completed successfully
+2025-06-08 02:05:19,666 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 1/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Pythagorean_Theorem
+2025-06-08 02:05:20,711 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 2/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Pythagorean_Theorem
+2025-06-08 02:05:22,775 - mathlogic.data.sources.nlab_source - ERROR - Error processing theorem Pythagorean_Theorem: 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Pythagorean_Theorem
+2025-06-08 02:05:22,831 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 1/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Fundamental_Theorem_Of_Arithmetic
+2025-06-08 02:05:23,888 - mathlogic.data.sources.nlab_source - WARNING - Request failed (attempt 2/3): 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Fundamental_Theorem_Of_Arithmetic
+2025-06-08 02:05:25,948 - mathlogic.data.sources.nlab_source - ERROR - Error processing theorem Fundamental_Theorem_of_Arithmetic: 404 Client Error: Not Found for url: https://ncatlab.org/nlab/show/Fundamental_Theorem_Of_Arithmetic
+2025-06-08 02:05:25,952 - __main__ - INFO - Results saved to entailment_output/scraped_data\final_results.json
+2025-06-08 02:05:25,954 - __main__ - INFO - Scraping completed successfully
+2025-06-08 02:09:35,548 - __main__ - ERROR - Error running scraper: ('https://api.stackexchange.com/2.3/sites/?pagesize=1000&page=1&filter=%21%2AL1%2AAY-85YllAr2%29', 'Expecting value: line 1 column 1 (char 0)', 'Expecting value: line 1 column 1 (char 0)', 'Expecting value: line 1 column 1 (char 0)')
+2025-06-08 03:05:03,312 - __main__ - INFO - Results saved to entailment_output/scraped_data\final_results.json
+2025-06-08 03:05:03,315 - __main__ - INFO - Scraping completed successfully

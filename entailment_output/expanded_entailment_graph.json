@@ -1,0 +1,564 @@
+{
+  "statements": {
+    "Fermat's Last Theorem": {
+      "symbol": "Fermat's Last Theorem",
+      "description": "No three positive integers a, b, and c satisfy the equation a\u207f + b\u207f = c\u207f for any integer n > 2",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "No three positive integers a, b, and c satisfy the equation a\u207f + b\u207f = c\u207f for any integer n > 2",
+        "proven_by": [
+          "PA2"
+        ],
+        "year_proven": 1995,
+        "complexity": "high"
+      }
+    },
+    "Four Color Theorem": {
+      "symbol": "Four Color Theorem",
+      "description": "Any planar map can be colored with four colors such that no adjacent regions share the same color",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Any planar map can be colored with four colors such that no adjacent regions share the same color",
+        "proven_by": [
+          "PA"
+        ],
+        "year_proven": 1976,
+        "complexity": "medium"
+      }
+    },
+    "Continuum Hypothesis": {
+      "symbol": "Continuum Hypothesis",
+      "description": "There is no set whose cardinality is strictly between that of the integers and the real numbers",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "There is no set whose cardinality is strictly between that of the integers and the real numbers",
+        "independent_of": [
+          "ZFC"
+        ],
+        "proven_independent": 1963,
+        "complexity": "high"
+      }
+    },
+    "AC": {
+      "symbol": "AC",
+      "description": "For any collection of non-empty sets, there exists a function that selects one element from each set",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "For any collection of non-empty sets, there exists a function that selects one element from each set",
+        "proven_by": [
+          "ZFC"
+        ],
+        "independent_of": [
+          "ZF"
+        ],
+        "year_proven": 1938,
+        "complexity": "medium",
+        "also_known_as": [
+          "Axiom of Choice"
+        ]
+      }
+    },
+    "ZFC": {
+      "symbol": "ZFC",
+      "description": "Zermelo-Fraenkel set theory with Choice",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "Zermelo-Fraenkel set theory with Choice",
+        "contains": [
+          "ZF"
+        ],
+        "strength": 1.0,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "ZF": {
+      "symbol": "ZF",
+      "description": "Zermelo-Fraenkel set theory",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "Zermelo-Fraenkel set theory",
+        "contains": [
+          "Z"
+        ],
+        "strength": 0.9,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "PA": {
+      "symbol": "PA",
+      "description": "Peano Arithmetic",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "Peano Arithmetic",
+        "contains": [
+          "HA"
+        ],
+        "strength": 0.8,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "PA2": {
+      "symbol": "PA2",
+      "description": "Second-order Peano Arithmetic",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "Second-order Peano Arithmetic",
+        "contains": [
+          "PA"
+        ],
+        "strength": 0.85,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "ZFC+LC": {
+      "symbol": "ZFC+LC",
+      "description": "ZFC with Large Cardinals",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "ZFC with Large Cardinals",
+        "contains": [
+          "ZFC"
+        ],
+        "strength": 1.1,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "ZFC+MM": {
+      "symbol": "ZFC+MM",
+      "description": "ZFC with Martin's Maximum",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "ZFC with Martin's Maximum",
+        "contains": [
+          "ZFC"
+        ],
+        "strength": 1.15,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "Cantor Theorem": {
+      "symbol": "Cantor Theorem",
+      "description": "For any set A, the power set P(A) has strictly greater cardinality than A",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "For any set A, the power set P(A) has strictly greater cardinality than A",
+        "proven_by": [
+          "ZF"
+        ],
+        "year_proven": 1874,
+        "complexity": "medium",
+        "field": "set_theory"
+      }
+    },
+    "Zermelo Well-Ordering Theorem": {
+      "symbol": "Zermelo Well-Ordering Theorem",
+      "description": "Every set can be well-ordered",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Every set can be well-ordered",
+        "proven_by": [
+          "ZFC"
+        ],
+        "equivalent_to": [
+          "AC"
+        ],
+        "year_proven": 1904,
+        "complexity": "medium",
+        "field": "set_theory"
+      }
+    },
+    "Sierpi\u0144ski-Erd\u0151s Duality": {
+      "symbol": "Sierpi\u0144ski-Erd\u0151s Duality",
+      "description": "CH is equivalent to certain partition properties of uncountable sets",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "CH is equivalent to certain partition properties of uncountable sets",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 1943,
+        "complexity": "high",
+        "field": "set_theory"
+      }
+    },
+    "Martin Axiom": {
+      "symbol": "Martin Axiom",
+      "description": "A weakening of CH that is consistent with both CH and its negation",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "A weakening of CH that is consistent with both CH and its negation",
+        "independent_of": [
+          "ZFC"
+        ],
+        "proven_independent": 1970,
+        "complexity": "high",
+        "field": "set_theory"
+      }
+    },
+    "Solovay-Tennenbaum Theorem": {
+      "symbol": "Solovay-Tennenbaum Theorem",
+      "description": "Martin Axiom + negation of CH is consistent with ZFC",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Martin Axiom + negation of CH is consistent with ZFC",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 1971,
+        "complexity": "high",
+        "field": "set_theory"
+      }
+    },
+    "Twin Prime Conjecture": {
+      "symbol": "Twin Prime Conjecture",
+      "description": "There are infinitely many pairs of twin primes",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "There are infinitely many pairs of twin primes",
+        "status": "open",
+        "complexity": "high",
+        "field": "number_theory"
+      }
+    },
+    "Goldbach Conjecture": {
+      "symbol": "Goldbach Conjecture",
+      "description": "Every even integer greater than 2 is the sum of two primes",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Every even integer greater than 2 is the sum of two primes",
+        "status": "open",
+        "complexity": "high",
+        "field": "number_theory"
+      }
+    },
+    "Green-Tao Theorem": {
+      "symbol": "Green-Tao Theorem",
+      "description": "The primes contain arbitrarily long arithmetic progressions",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "The primes contain arbitrarily long arithmetic progressions",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 2004,
+        "complexity": "high",
+        "field": "number_theory"
+      }
+    },
+    "Erd\u0151s-Moser Theorem": {
+      "symbol": "Erd\u0151s-Moser Theorem",
+      "description": "If the sum of reciprocals of a set of natural numbers diverges, the set contains arbitrarily long arithmetic progressions",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "If the sum of reciprocals of a set of natural numbers diverges, the set contains arbitrarily long arithmetic progressions",
+        "proven_by": [
+          "PA"
+        ],
+        "year_proven": 1953,
+        "complexity": "medium",
+        "field": "number_theory"
+      }
+    },
+    "Banach-Tarski Paradox": {
+      "symbol": "Banach-Tarski Paradox",
+      "description": "A solid ball can be decomposed and reassembled into two identical copies of itself",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "A solid ball can be decomposed and reassembled into two identical copies of itself",
+        "proven_by": [
+          "ZFC"
+        ],
+        "requires": [
+          "AC"
+        ],
+        "year_proven": 1924,
+        "complexity": "high",
+        "field": "analysis"
+      }
+    },
+    "Vitali Set": {
+      "symbol": "Vitali Set",
+      "description": "There exists a subset of R that is not Lebesgue measurable",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "There exists a subset of R that is not Lebesgue measurable",
+        "proven_by": [
+          "ZFC"
+        ],
+        "requires": [
+          "AC"
+        ],
+        "year_proven": 1905,
+        "complexity": "medium",
+        "field": "analysis"
+      }
+    },
+    "Borel Hierarchy Theorem": {
+      "symbol": "Borel Hierarchy Theorem",
+      "description": "The Borel hierarchy does not collapse",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "The Borel hierarchy does not collapse",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 1917,
+        "complexity": "high",
+        "field": "analysis"
+      }
+    },
+    "Freyd-Mitchell Embedding Theorem": {
+      "symbol": "Freyd-Mitchell Embedding Theorem",
+      "description": "Every small abelian category can be embedded in a category of modules",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Every small abelian category can be embedded in a category of modules",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 1964,
+        "complexity": "high",
+        "field": "category_theory"
+      }
+    },
+    "Yoneda Lemma": {
+      "symbol": "Yoneda Lemma",
+      "description": "Natural transformations between functors can be completely determined by their components at a single object",
+      "type": "theorem",
+      "formal_system": null,
+      "is_axiom": false,
+      "metadata": {
+        "description": "Natural transformations between functors can be completely determined by their components at a single object",
+        "proven_by": [
+          "ZFC"
+        ],
+        "year_proven": 1954,
+        "complexity": "medium",
+        "field": "category_theory"
+      }
+    },
+    "ZFC+I0": {
+      "symbol": "ZFC+I0",
+      "description": "ZFC with rank-into-rank axiom",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "ZFC with rank-into-rank axiom",
+        "contains": [
+          "ZFC"
+        ],
+        "strength": 1.5,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "ZF+DC": {
+      "symbol": "ZF+DC",
+      "description": "ZF with Dependent Choice",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "ZF with Dependent Choice",
+        "contains": [
+          "ZF"
+        ],
+        "strength": 0.95,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    },
+    "NFU": {
+      "symbol": "NFU",
+      "description": "New Foundations with Urelements",
+      "type": "system",
+      "formal_system": null,
+      "is_axiom": true,
+      "metadata": {
+        "description": "New Foundations with Urelements",
+        "contains": [],
+        "strength": 0.7,
+        "statement_type": "system",
+        "is_axiom": true
+      }
+    }
+  },
+  "relations": [
+    {
+      "source": "PA2",
+      "target": "PA",
+      "type": "contains",
+      "metadata": {}
+    },
+    {
+      "source": "ZFC+LC",
+      "target": "ZFC",
+      "type": "contains",
+      "metadata": {}
+    },
+    {
+      "source": "ZFC+MM",
+      "target": "ZFC",
+      "type": "contains",
+      "metadata": {}
+    },
+    {
+      "source": "ZFC+I0",
+      "target": "ZFC",
+      "type": "contains",
+      "metadata": {}
+    },
+    {
+      "source": "ZF+DC",
+      "target": "ZF",
+      "type": "contains",
+      "metadata": {}
+    },
+    {
+      "source": "AC",
+      "target": "Banach-Tarski Paradox",
+      "type": "implies",
+      "metadata": {}
+    },
+    {
+      "source": "Vitali Set",
+      "target": "AC",
+      "type": "requires",
+      "metadata": {}
+    },
+    {
+      "source": "Twin Prime Conjecture",
+      "target": "Goldbach Conjecture",
+      "type": "independent",
+      "metadata": {}
+    },
+    {
+      "source": "Green-Tao Theorem",
+      "target": "Erd\u0151s-Moser Theorem",
+      "type": "independent",
+      "metadata": {}
+    },
+    {
+      "source": "Freyd-Mitchell Embedding Theorem",
+      "target": "Yoneda Lemma",
+      "type": "independent",
+      "metadata": {}
+    }
+  ],
+  "formal_systems": {
+    "ZFC": {
+      "description": "Zermelo-Fraenkel set theory with Choice",
+      "contains": [
+        "ZF"
+      ],
+      "strength": 1.0
+    },
+    "ZF": {
+      "description": "Zermelo-Fraenkel set theory",
+      "contains": [
+        "Z"
+      ],
+      "strength": 0.9
+    },
+    "PA": {
+      "description": "Peano Arithmetic",
+      "contains": [
+        "HA"
+      ],
+      "strength": 0.8
+    },
+    "PA2": {
+      "description": "Second-order Peano Arithmetic",
+      "contains": [
+        "PA"
+      ],
+      "strength": 0.85
+    },
+    "ZFC+LC": {
+      "description": "ZFC with Large Cardinals",
+      "contains": [
+        "ZFC"
+      ],
+      "strength": 1.1
+    },
+    "ZFC+MM": {
+      "description": "ZFC with Martin's Maximum",
+      "contains": [
+        "ZFC"
+      ],
+      "strength": 1.15
+    },
+    "ZFC+I0": {
+      "description": "ZFC with rank-into-rank axiom",
+      "contains": [
+        "ZFC"
+      ],
+      "strength": 1.5
+    },
+    "ZF+DC": {
+      "description": "ZF with Dependent Choice",
+      "contains": [
+        "ZF"
+      ],
+      "strength": 0.95
+    },
+    "NFU": {
+      "description": "New Foundations with Urelements",
+      "contains": [],
+      "strength": 0.7
+    }
+  }
+}

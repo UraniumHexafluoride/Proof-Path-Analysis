@@ -1,0 +1,8 @@
+Source,Target,Entailment Relation
+P,Q,P <-> Q
+P,P,Reflexivity
+Q,P,P <-> Q
+Q,R,Q <-> R
+Q,Q,Reflexivity
+R,Q,Q <-> R
+R,R,Reflexivity

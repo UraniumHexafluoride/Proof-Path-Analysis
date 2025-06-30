@@ -1,0 +1,80 @@
+Just completed a major overhaul and new scraping run for my mathematical logic project, this time focusing on data quality and structural integrity over sheer size. This update marks a turning point: the transition from a noisy, overconnected graph to a smaller but much more reliable entailment network.
+
+**Previous Approach (Old Run):**
+- Integrated results from nLab, Wikiproofs, and Wikipedia with minimal filtering.
+- Scraped: 100+ pages, 1,100+ relationships, 225 nodes, 351 edges.
+- The graph looked impressive, but was riddled with noise: many relationships were generic, spurious, or not actually about theorems.
+- Classification and centrality metrics were dominated by artifacts of the scraping process, not true mathematical structure.
+
+**Key Issues Identified:**
+- The scraper was pulling in links to categories, concepts, and non-theorem pages.
+- The analysis pipeline was contaminated by legacy data files, reintroducing thousands of junk edges.
+- As a result, the graph was large but misleading—most connections were not meaningful.
+
+**Current Approach (Latest Run):**
+- Completely reworked the pipeline to validate every relationship: only links to real theorems (by Wikipedia category) are accepted.
+- Enabled category-based scraping, discovering 182 new theorems from major areas (number theory, geometry, algebra, etc.).
+- Strictly excluded all legacy/contaminated data.
+
+**Scraping Summary:**
+- Successfully scraped: 187 theorems
+- New relationships added: 59 (all high-confidence, validated)
+- Failed pages: ~10 (mostly due to category naming mismatches)
+
+**Graph Statistics:**
+- Total nodes: 206 (198 theorems, 8 systems)
+- Total edges: 60
+
+**Classification Distribution:**
+- Provable statements: 2
+- Related provable: 6
+- Related unknown: 198
+- (No spurious 'both' or 'independent' classes—reflects the real structure of the data)
+
+**Centrality Metrics (Averages):**
+Classification   | Degree  | Betweenness | Closeness | PageRank
+-----------------|---------|-------------|-----------|---------
+Provable         | 0.2031  | 0.0358      | 0.1292    | 0.0742
+Related provable | 0.0312  | 0.0000      | 0.1055    | 0.0298
+Related unknown  | 0.0312  | 0.0022      | 0.0211    | 0.0269
+
+**Top Theorems by Strength:**
+1. Axiom of Choice (related_unknown): 6.2998
+2. Fermat's Last Theorem (provable): 5.9908
+3. Fundamental theorem of arithmetic (provable): 4.9181
+4. Gödel's incompleteness theorems (related_unknown): 2.9959
+5. Catalan conjecture (related_provable): 2.1876
+
+**Notable Classical Results:**
+- Zorn's Lemma: not present in this run (category mismatch)
+- Fundamental Theorem of Arithmetic: 4.9181
+- Fermat's Last Theorem: 5.9908
+- Continuum Hypothesis: not present (category mismatch)
+- P vs NP: not present (category mismatch)
+
+**Structural Patterns Observed:**
+- The graph is now much sparser, but every edge is meaningful.
+- Provable statements have higher degree and PageRank, as expected.
+- The "related_unknown" class is large, reflecting the many theorems for which no direct system relationship was found.
+
+**Neighborhood Size by Classification (average):**
+- Provable: 6.50
+- Related provable: 1.00
+- Related unknown: 0.29
+
+**Critical Reflection:**
+- The old graph was visually impressive but fundamentally misleading—most connections were noise.
+- The new graph is smaller, but every node and edge is real and interpretable.
+- The tradeoff: we now have a trustworthy foundation, but need to further expand our input (more categories, more sources) to recover the richness without sacrificing quality.
+
+**The Road Ahead:**
+1. Add more Wikipedia categories (fix naming mismatches, e.g., "Theorems in logic").
+2. Integrate additional sources (nLab, ProofWiki) with the same strict validation.
+3. Enhance relationship detection with more sophisticated NLP and cross-page reasoning.
+4. Implement predictive modeling for independence likelihood.
+5. Add interactive visualizations and expand axiom system analysis.
+
+**Summary:**
+This run marks a shift from "big but noisy" to "smaller but real." The next step is to scale up again—this time, with confidence that every connection in the graph is meaningful.
+
+(Will post a more detailed update and code to GitHub later this week.) 

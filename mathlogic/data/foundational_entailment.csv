@@ -1,0 +1,13 @@
+Source,Target,Relation Type,Description
+RCA0,WKL0,Subsystem,Recursive Comprehension Axiom → Weak König's Lemma
+WKL0,ACA0,Subsystem,Weak König's Lemma → Arithmetical Comprehension Axiom
+ACA0,ATR0,Subsystem,Arithmetical Comprehension Axiom → Arithmetical Transfinite Recursion
+PA,PH,Independence,Peano Arithmetic → Paris-Harrington Theorem
+PA,GS,Independence,Peano Arithmetic → Goodstein's Theorem
+ZFC,CH,Independence,Zermelo-Fraenkel with Choice → Continuum Hypothesis
+ZFC,PA,Proves,Zermelo-Fraenkel with Choice → Peano Arithmetic
+ACA0,PH,Proves,Arithmetical Comprehension Axiom → Paris-Harrington Theorem
+ACA0,GS,Proves,Arithmetical Comprehension Axiom → Goodstein's Theorem
+LCH,CON_ZFC,Proves,Large Cardinal Hypothesis → Consistency of ZFC
+CH,AC,Implies,Continuum Hypothesis → Axiom of Choice
+ZFC,AC,Contains,Zermelo-Fraenkel with Choice → Axiom of Choice

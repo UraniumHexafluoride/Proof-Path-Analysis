@@ -1,0 +1,13 @@
+2025-06-09 22:56:31,550 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-09 22:56:31,551 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-06-09 22:56:33,508 - __main__ - INFO - Processing source: proofwiki
+2025-06-09 22:56:33,509 - __main__ - INFO - Items to process: 49
+2025-06-09 22:56:33,509 - __main__ - INFO - Categories to process: 15
+2025-06-09 23:34:58,833 - __main__ - INFO - ✓ Found 0 theorems from categories
+2025-06-09 23:34:58,834 - __main__ - INFO - Processing source: wikipedia
+2025-06-09 23:34:58,835 - __main__ - INFO - Items to process: 34
+2025-06-09 23:34:58,835 - __main__ - INFO - Categories to process: 12
+2025-06-09 23:35:14,546 - __main__ - INFO - ✓ Found 0 theorems from categories
+2025-06-09 23:35:14,546 - __main__ - INFO - Processing source: arxiv
+2025-06-09 23:35:14,547 - __main__ - INFO - Items to process: 0
+2025-06-09 23:35:14,547 - __main__ - INFO - Categories to process: 10

@@ -1,0 +1,1816 @@
+{
+  "metadata": {
+    "timestamp": "20250622_232237",
+    "scraping_date": "2025-06-22T23:22:37.506935",
+    "total_theorems": 18,
+    "total_relationships": 226,
+    "sources_processed": [
+      "wikipedia"
+    ],
+    "config_used": {
+      "wikipedia": {
+        "enabled": true,
+        "items": [
+          "Gödel's incompleteness theorems",
+          "Fermat's Last Theorem",
+          "Axiom of Choice",
+          "Pythagorean theorem",
+          "Fundamental theorem of arithmetic",
+          "Continuum Hypothesis",
+          "Riemann Hypothesis",
+          "Twin Prime Conjecture",
+          "Goldbach's Conjecture",
+          "Collatz Conjecture",
+          "Zorn's Lemma",
+          "Well-Ordering Theorem",
+          "Compactness Theorem",
+          "Löwenheim–Skolem Theorem",
+          "Completeness Theorem",
+          "Halting Problem",
+          "Church-Turing Thesis",
+          "Prime Number Theorem"
+        ],
+        "categories": []
+      },
+      "proofwiki": {
+        "enabled": false
+      },
+      "nlab": {
+        "enabled": false
+      },
+      "output_dir": "entailment_output/scraped_data"
+    }
+  },
+  "statistics": {
+    "wikipedia": {
+      "theorem_count": 18,
+      "relationship_count": 226,
+      "successful_items": [
+        "Gödel's incompleteness theorems",
+        "Fermat's Last Theorem",
+        "Axiom of choice",
+        "Pythagorean theorem",
+        "Fundamental theorem of arithmetic",
+        "Continuum hypothesis",
+        "Riemann hypothesis",
+        "Twin prime",
+        "Goldbach's conjecture",
+        "Collatz conjecture",
+        "Zorn's lemma",
+        "Well-ordering theorem",
+        "Compactness theorem",
+        "Löwenheim–Skolem theorem",
+        "Gödel's completeness theorem",
+        "Halting problem",
+        "Church–Turing thesis",
+        "Prime number theorem"
+      ]
+    }
+  },
+  "results": {
+    "wikipedia": [
+      {
+        "name": "Gödel's incompleteness theorems",
+        "title": "Gödel's incompleteness theorems",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Axiom",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "It is not to be confused with semantic completeness, which means that the set of axioms proves all the semantic tautologies of the given language."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Inaccessible cardinal",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Similarly, ZFC is not provably consistent from within itself, but ZFC + \"there exists an inaccessible cardinal\" proves ZFC is consistent because if κ is the least such cardinal, then Vκ sitting inside the von Neumann universe is a model of ZFC, and a"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "A set of axioms that is both complete and consistent, however, proves a maximal set of non-contradictory theorems.[citation needed]  The pattern illustrated in the previous sections with Peano arithmetic, ZFC, and ZFC + \"there exists an inaccessible "
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Contradiction",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "Because GF states only that it is not provable in F, no contradiction is presented by its provability within F'."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In general, this meta-analysis can be carried out within the weak formal system known as primitive recursive arithmetic, which proves the implication Con(F)→GF, where Con(F) is a canonical sentence asserting the consistency of F (Smoryński 1977, p. 8"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "That theorem shows that, when a sentence is independent of a theory, the theory will have models in which the sentence is true and models in which the sentence is false."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "A Gödel sentence G for a system F makes a similar assertion to the liar sentence, but with truth replaced by provability: G says \"G is not provable in the system F.\"  The analysis of the truth and provability of G is a formalized version of the analy"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This result, known as Tarski's undefinability theorem, was discovered independently both by Gödel, when he was working on the proof of the incompleteness theorem, and by the theorem's namesake, Alfred Tarski."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Gödel's original statement and proof of the incompleteness theorem requires the assumption that the system is not just consistent but ω-consistent."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Natural number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "A system is ω-consistent if it is not ω-inconsistent, and is ω-inconsistent if there is a predicate P such that for every specific natural number m the system proves ~P(m), and yet the system also proves that there exists a natural number n such that"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The ω-consistency of a system implies its consistency, but consistency does not imply ω-consistency."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of the second incompleteness theorem is obtained by formalizing the proof of the first incompleteness theorem within the system F itself."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The standard proof of the second incompleteness theorem assumes that the provability predicate ProvA(P) satisfies the Hilbert–Bernays provability conditions."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Gödel's second incompleteness theorem also implies that a system F1 satisfying the technical conditions outlined above cannot prove the consistency of any system F2 that proves the consistency of F1."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Gödel's second incompleteness theorem also implies that a system F1 satisfying the technical conditions outlined above cannot prove the consistency of any system F2 that proves the consistency of F1."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This is because such a system F1 can prove that if F2 proves the consistency of F1, then F1 is in fact consistent."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Contradiction",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "For the claim that F1 is consistent has form \"for all numbers n, n has the decidable property of not being a code for a proof of contradiction in F1\"."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Thus a consistency proof of F in F would give us no clue as to whether F is consistent; no doubts about the consistency of F would be resolved by such a consistency proof."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Deductive system",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Undecidability only implies that the particular deductive system being considered does not prove the truth or falsity of the statement."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "In fact Kruskal's tree theorem (or its finite form) is undecidable in a much stronger system ATR0 codifying the principles acceptable based on a philosophy of mathematics called predicativism.[9]  The related but more general graph minor theorem (200"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Kleene (1943) presented a proof of Gödel's incompleteness theorem using basic results of computability theory."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "This proof is often extended to show that systems such as Peano arithmetic are essentially undecidable.[14]  Chaitin's incompleteness theorem gives a different method of producing independent sentences, based on Kolmogorov complexity."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Formal system",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "To begin, choose a formal system that meets the proposed criteria:  The main problem in fleshing out the proof described above is that it seems at first that to construct a statement p that is equivalent to \"p cannot be proved\", p would somehow have "
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Therefore, there is a statement form Bew(y) that uses this arithmetical relation to state that a Gödel number of a proof of y exists:  The name Bew is short for beweisbar, the German word for \"provable\"; this name was originally used by Gödel to deno"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel number",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Therefore, there is a statement form Bew(y) that uses this arithmetical relation to state that a Gödel number of a proof of y exists:  The name Bew is short for beweisbar, the German word for \"provable\"; this name was originally used by Gödel to deno"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This is because any proof of p would have a corresponding Gödel number, the existence of which causes Bew(G(p)) to be satisfied."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Diagonal lemma",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of the diagonal lemma employs a similar method."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "However, for each specific number x, x cannot be the Gödel number of the proof of p, because p is not provable (from the previous paragraph)."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Thus on one hand the system proves there is a number with a certain property (that it is the Gödel number of the proof of p), but on the other hand, for every specific number x, we can prove that it does not have this property."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Boolos (1989) sketches an alternative proof of the first incompleteness theorem that uses Berry's paradox rather than the liar paradox to construct a true but unprovable formula."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Boolos (1989) sketches an alternative proof of the first incompleteness theorem that uses Berry's paradox rather than the liar paradox to construct a true but unprovable formula."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "A computer-verified proof of both incompleteness theorems was announced by Lawrence Paulson in 2013 using Isabelle (Paulson 2014)."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The main difficulty in proving the second incompleteness theorem is to show that various facts about provability used in the proof of the first incompleteness theorem can be formalized within a system S using a formal predicate P for provability."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Once this is done, the second incompleteness theorem follows by formalizing the entire proof of the first incompleteness theorem within the system S itself."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Turing machine",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Much of the debate centers on whether the human mind is equivalent to a Turing machine, or by the Church–Turing thesis, any finite machine at all."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Assuming that it is consistent, either its consistency cannot be proved or it cannot be represented by a Turing machine.[18]  Wigderson (2010) has proposed that the concept of mathematical \"knowability\" should be based on computational complexity rat"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Priest (1984, 2006) argues that replacing the notion of formal proof in Gödel's theorem with the usual notion of informal proof can be used to show that naive mathematics is inconsistent, and uses this as evidence for dialetheism.[21] The cause of th"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Rebecca Goldstein",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Several authors have commented negatively on such extensions and interpretations, including Franzén (2005), Raatikainen (2005), Sokal & Bricmont (1999); and Stangroom & Benson (2006).[24] Sokal & Bricmont (1999) and Stangroom & Benson (2006), for exa"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Sokal & Bricmont (1999) criticize Régis Debray's invocation of the theorem in the context of sociology; Debray has defended this use as metaphorical (ibid.).[25]  After Gödel published his proof of the completeness theorem as his doctoral thesis in 1"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Consistency",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "By 1928, Ackermann had communicated a modified proof to Bernays; this modified proof led Hilbert to announce his belief in 1929 that the consistency of arithmetic had been demonstrated and that a consistent proof of analysis would likely soon follow."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Gödel",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In the course of his research, Gödel discovered that although a sentence, asserting its falsehood leads to paradox, a sentence that asserts its non-provability does not."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Later that year, working independently with knowledge of the first incompleteness theorem, von Neumann obtained a proof of the second incompleteness theorem, which he announced to Gödel in a letter dated November 20, 1930.[30] Gödel had independently"
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Bernays included a full proof of the incompleteness theorems in the second volume of Grundlagen der Mathematik (1939), along with additional results of Ackermann on the ε-substitution method and Gentzen's consistency proof of arithmetic."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This was the first full published proof of the second incompleteness theorem."
+          },
+          {
+            "source_theorem": "Gödel's incompleteness theorems",
+            "target_theorem": "Axiom of Choice",
+            "relationship_type": "independent_from",
+            "confidence": 0.8
+          }
+        ]
+      },
+      {
+        "name": "Fermat's Last Theorem",
+        "title": "Fermat's Last Theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Although he claimed to have a general proof of his conjecture, Fermat left no details of his proof, and none has ever been found."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "These papers by Frey, Serre and Ribet showed that if the Taniyama–Shimura conjecture could be proven for at least the semi-stable class of elliptic curves, a proof of Fermat's Last Theorem would also follow automatically."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "However, the proof by Andrew Wiles proves that any equation of the form y2 = x(x − an)(x + bn) does have a modular form."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Modularity theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Any non-trivial solution to xp + yp = zp (with p an odd prime) would therefore create a contradiction, which in turn proves that no non-trivial solutions exist.[18]  In other words, any solution that could contradict Fermat's Last Theorem could also "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "While Harvey Friedman's grand conjecture implies that any provable theorem (including Fermat's last theorem) can be proved using only 'elementary function arithmetic', such a proof need be 'elementary' only in a technical sense and could involve mill"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Integer",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Only one relevant proof by Fermat has survived, in which he uses the technique of infinite descent to show that the area of a right triangle with integer sides can never equal the square of an integer.[42][43][44]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Integer",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "His proof is equivalent to demonstrating that the equation  has no primitive solutions in integers (no pairwise coprime solutions)."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Integer",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The general equation  implies that (ad, bd, cd) is a solution for the exponent e  Thus, to prove that Fermat's equation has no solutions for n > 2, it would suffice to prove that it has no solutions for at least one prime factor of every n. Each inte"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abu-Mahmud Khojandi",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The case p = 3 was first stated by Abu-Mahmud Khojandi (10th century), but his attempted proof of the theorem was incorrect.[73][74]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Infinite descent",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In 1770, Leonhard Euler gave a proof of p = 3,[75] but his proof by infinite descent[76] contained a major gap.[77][78][79]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Gabriel Lamé",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In 1985, Leonard Adleman, Roger Heath-Brown and Étienne Fouvry proved that the first case of Fermat's Last Theorem holds for infinitely many odd primes p.[130]  In 1847, Gabriel Lamé outlined a proof of Fermat's Last Theorem based on factoring the eq"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Gabriel Lamé",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "In 1985, Leonard Adleman, Roger Heath-Brown and Étienne Fouvry proved that the first case of Fermat's Last Theorem holds for infinitely many odd primes p.[130]  In 1847, Gabriel Lamé outlined a proof of Fermat's Last Theorem based on factoring the eq"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Complex number",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "xp + yp = zp in complex numbers, specifically the cyclotomic field based on the roots of the number 1."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The strategy that ultimately led to a successful proof of Fermat's Last Theorem arose from the \"astounding\"[137]: 211  Taniyama–Shimura–Weil conjecture, proposed around 1955—which many mathematicians believed would be near to impossible to prove,[137"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Andrew Wiles",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "By accomplishing a partial proof of this conjecture in 1994, Andrew Wiles ultimately succeeded in proving Fermat's Last Theorem, as well as leading the way to a full proof by others of what is now known as the modularity theorem."
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "As such, Frey observed that a proof of the Taniyama–Shimura–Weil conjecture might also simultaneously prove Fermat's Last Theorem.[139][140]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The missing piece (the so-called \"epsilon conjecture\", now known as Ribet's theorem) was identified by Jean-Pierre Serre who also gave an almost-complete proof and the link suggested by Frey was finally proved in 1986 by Ken Ribet.[141]  Following Fr"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Their conclusion at the time was that the techniques Wiles used seemed to work correctly.[137]: 261–265 [146][147]  By mid-May 1993, Wiles was ready to tell his wife he thought he had solved the proof of Fermat's Last Theorem,[137]: 265  and by June "
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Beal conjecture",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "The generalized Fermat equation generalizes the statement of Fermat's last theorem by considering positive integer solutions a, b, c, m, n, k satisfying[161]  In particular, the exponents m, n, k need not be equal, whereas Fermat's last theorem consi"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abc conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In particular, the abc conjecture in its most standard formulation implies Fermat's last theorem for n that are sufficiently large.[175][176][177]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abc conjecture",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The modified Szpiro conjecture is equivalent to the abc conjecture and therefore has the same implication.[178][177]"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abc conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "An effective version of the abc conjecture, or an effective version of the modified Szpiro conjecture, implies Fermat's Last Theorem outright.[177]  In 1816, and again in 1850, the French Academy of Sciences offered a prize for a general proof of Fer"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Abc conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "An effective version of the abc conjecture, or an effective version of the modified Szpiro conjecture, implies Fermat's Last Theorem outright.[177]  In 1816, and again in 1850, the French Academy of Sciences offered a prize for a general proof of Fer"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Ideal number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In 1857, the academy awarded 3,000 francs and a gold medal to Kummer for his research on ideal numbers, although he had not submitted an entry for the prize.[179] Another prize was offered in 1883 by the Academy of Brussels.[181]  In 1908, the German"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Number theory",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In March 2016, Wiles was awarded the Norwegian government's Abel Prize worth €600,000 for \"his stunning proof of Fermat's Last Theorem by way of the modularity conjecture for semistable elliptic curves, opening a new era in number theory\".[186]  Prio"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Arthur Porges",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "\"[190] Arthur Porges' 1954 short story \"The Devil and Simon Flagg\" features a mathematician who bargains with the Devil that the latter cannot produce a proof of Fermat's Last Theorem within twenty-four hours.[191]  In the 1989 Star Trek: The Next Ge"
+          },
+          {
+            "source_theorem": "Fermat's Last Theorem",
+            "target_theorem": "Fundamental theorem of arithmetic",
+            "relationship_type": "uses",
+            "confidence": 0.9
+          }
+        ]
+      },
+      {
+        "name": "Axiom of choice",
+        "title": "Axiom of choice",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The axiom of choice was formulated in 1904 by Ernst Zermelo in order to formalize his proof of the well-ordering theorem.[1] The axiom of choice is equivalent to the statement that every partition has a transversal.[2]"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The axiom of choice was formulated in 1904 by Ernst Zermelo in order to formalize his proof of the well-ordering theorem.[1] The axiom of choice is equivalent to the statement that every partition has a transversal.[2]"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "With this alternate notion of choice function, the axiom of choice can be compactly stated as  which is equivalent to  The negation of the axiom can thus be expressed as:  The usual statement of the axiom of choice does not specify whether the collec"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Real number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "For example, while the axiom of choice implies that there is a well-ordering of the real numbers, there are models of set theory with the axiom of choice in which no individual well-ordering of the reals is definable."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Real number",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Similarly, although a subset of the real numbers that is not Lebesgue measurable can be proved to exist using the axiom of choice, it is consistent that no such set is definable.[9]  The axiom of choice asserts the existence of these intangibles (obj"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Another argument against the axiom of choice is that it implies the existence of objects that may seem counterintuitive.[11] One example is the Banach–Tarski paradox, which says that it is possible to decompose the 3-dimensional solid unit ball into "
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In fact, in set theory and topos theory, Diaconescu's theorem shows that the axiom of choice implies the law of excluded middle."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Cohen's model is a symmetric model, which is similar to permutation models, but uses \"generic\" subsets of the natural numbers (justified by forcing) in place of urelements.[19]  Together these results establish that the axiom of choice is logically i"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "If and only if",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of the independence result also shows that a wide class of mathematical statements, including all statements that can be phrased in the language of Peano arithmetic, are provable in ZF if and only if they are provable in ZFC.[20] Statements"
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "It is possible, however, that there is a shorter proof of a theorem from ZFC than from ZF."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "The axiom of choice is not the only significant statement that is independent of ZF."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In fact, Zermelo initially introduced the axiom of choice in order to formalize his proof of the well-ordering theorem."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Set theory",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In 1906, Russell declared PP to be equivalent, but whether the partition principle implies AC is the oldest open problem in set theory,[35] and the equivalences of the other statements are similarly hard old open problems."
+          },
+          {
+            "source_theorem": "Axiom of choice",
+            "target_theorem": "Axiom",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The much stronger axiom of determinacy, or AD, implies that every set of reals is Lebesgue measurable, has the property of Baire, and has the perfect set property (all three of these results are refuted by AC itself)."
+          }
+        ]
+      },
+      {
+        "name": "Pythagorean theorem",
+        "title": "Pythagorean theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Angle",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The four triangles and the square side c must have the same area as the larger square,  giving  A similar proof uses four copies of a right triangle with sides a, b and c, arranged inside a square with side c as in the top half of the diagram.[6]"
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The area of the large square is therefore  But this is a square with side c and area c2, so  This theorem may have more known proofs than any other (the law of quadratic reciprocity being another contender for that distinction); the book The Pythagor"
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Angle",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of similarity of the triangles requires the triangle postulate: The sum of the angles in a triangle is two right angles, and is equivalent to the parallel postulate."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Angle",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The proof of similarity of the triangles requires the triangle postulate: The sum of the angles in a triangle is two right angles, and is equivalent to the parallel postulate."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Angle",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Similarity of the triangles leads to the equality of ratios of corresponding sides:  The first result equates the cosines of the angles θ, whereas the second result equates their sines."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "These ratios can be written as  Summing these two equalities results in  which, after simplification, demonstrates the Pythagorean theorem:  The role of this proof in history is the subject of much speculation."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Angle",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Next, each top square is related to a triangle congruent with another triangle related in turn to one of two rectangles making up the lower square.[10]  The proof is as follows:  This proof, which appears in Euclid's Elements as that of Proposition 4"
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Diagonal",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "A related proof by U.S. President James A. Garfield was published before he was elected president; while he was a U.S. Representative.[19][20][21] Instead of a square it uses a trapezoid, which can be constructed from the square in the second of the "
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The above proof of the converse makes use of the Pythagorean theorem itself."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.85,
+            "evidence": "The reciprocal Pythagorean theorem is a special case of the optic equation  where the denominators are squares and also for a heptagonal triangle whose sides     p , q , r   {\\displaystyle p,q,r}   are square numbers."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In each right triangle, Pythagoras' theorem establishes the length of the hypotenuse in terms of this unit."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.85,
+            "evidence": "The Pythagorean theorem, valid for right triangles, therefore is a special case of the more general law of cosines, valid for arbitrary triangles."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "By rearranging the following equation is obtained  This can be considered as a condition on the cross product and so part of its definition, for example in seven dimensions.[40][41]  If the first four of the Euclidean geometry axioms are assumed to b"
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "That is, Euclid's fifth postulate implies the Pythagorean theorem and vice-versa."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "The Pythagorean theorem generalizes beyond the areas of squares on the three sides to  any similar figures."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Thus, if similar figures with areas A, B and C are erected on sides with corresponding lengths a, b and c then:  But, by the Pythagorean theorem, a2 + b2 = c2, so A + B = C.  Conversely, if we can prove that A + B = C for three similar figures withou"
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The sum of the areas of the two smaller triangles therefore is that of the third, thus A + B = C and reversing the above logic leads to the Pythagorean theorem a2 + b2 = c2."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "special_case_of",
+            "confidence": 0.85,
+            "evidence": "(See also Einstein's proof by dissection without rearrangement)  The Pythagorean theorem is a special case of the more general theorem relating the lengths of sides in any triangle, the law of cosines, which states that      a  2   +  b  2   − 2 a b "
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Generalization",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "The inner product is a generalization of the dot product of vectors."
+          },
+          {
+            "source_theorem": "Pythagorean theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Around 300 BC, in Euclid's Elements, the oldest extant axiomatic proof of the theorem is presented.[80]  With contents known much earlier, but in surviving texts dating from roughly the 1st century BC, the Chinese text Zhoubi Suanjing (周髀算经), (The Ar"
+          }
+        ]
+      },
+      {
+        "name": "Fundamental theorem of arithmetic",
+        "title": "Fundamental theorem of arithmetic",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Prime number",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "This theorem is one of the main reasons why 1 is not considered a prime number: if 1 were prime, then factorization into primes would not be unique; for example,     2 = 2 ⋅ 1 = 2 ⋅ 1 ⋅ 1 = …   {\\displaystyle 2=2\\cdot 1=2\\cdot 1\\cdot 1=\\ldots }    Th"
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Fermat's Last Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This failure of unique factorization is one of the reasons for the difficulty of the proof of Fermat's Last Theorem."
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Euclid",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Proposition 30 is referred to as Euclid's lemma, and it is the key in the proof of the fundamental theorem of arithmetic."
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "André Weil",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Book IX, proposition 14 is derived from Book VII, proposition 30, and proves partially that the decomposition is unique – a point critically noted by André Weil.[c] Indeed, in this proposition the exponents are all equal to one, so nothing is said fo"
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Disquisitiones Arithmeticae",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "While Euclid took the first step on the way to the existence of prime factorization, Kamāl al-Dīn al-Fārisī took the final step[d] and stated for the first time the fundamental theorem of arithmetic.[e]  Article 16 of Gauss's Disquisitiones Arithmeti"
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Integer",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The proof uses Euclid's lemma (Elements VII, 30): If a prime divides the product of two integers, then it must divide at least one of these integers."
+          },
+          {
+            "source_theorem": "Fundamental theorem of arithmetic",
+            "target_theorem": "Composite number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Incidentally, this implies that     s   {\\displaystyle s}  , if it exists, must be a composite number greater than     1   {\\displaystyle 1}  ."
+          }
+        ]
+      },
+      {
+        "name": "Continuum hypothesis",
+        "title": "Continuum hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Set theory",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "In Zermelo–Fraenkel set theory with the axiom of choice (ZFC), this is equivalent to the following equation in aleph numbers:      2   ℵ  0     =  ℵ  1     {\\displaystyle 2^{\\aleph _{0}}=\\aleph _{1}}  , or even shorter with beth numbers:      ℶ  1   "
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Set theory",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "The answer to this problem is independent of ZFC, so that either the continuum hypothesis or its negation can be added as an axiom to ZFC set theory, with the resulting theory being consistent if and only if ZFC is consistent."
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Axiom",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "Cohen[4][9] showed that CH cannot be proven from the ZFC axioms, completing the overall independence proof."
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Large cardinal axiom",
+            "relationship_type": "independent_from",
+            "confidence": 0.85,
+            "evidence": "Further research has shown that CH is independent of all known large cardinal axioms in the context of ZFC.[10]"
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Axiom of constructibility",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Parallel arguments were made for and against the axiom of constructibility, which implies CH."
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Freiling's axiom of symmetry",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "In 1986, Chris Freiling[17] presented an argument against CH by showing that the negation of CH is equivalent to Freiling's axiom of symmetry, a statement derived by arguing from particular intuitions about probabilities."
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "However, Woodin stated in the 2010s that he now instead believes CH to be true, based on his belief in his new \"ultimate L\" conjecture.[21][22]  Solomon Feferman argued that CH is not a definite mathematical problem.[23]  He proposed a theory of \"def"
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Axiom of choice",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "For the early history of GCH, see Moore.[28]  Like CH, GCH is also independent of ZFC, but Sierpiński proved that ZF + GCH implies the axiom of choice (AC) (and therefore the negation of the axiom of determinacy, AD), so choice and GCH are not indepe"
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Cardinality",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "To prove this, Sierpiński showed GCH implies that every cardinality n is smaller than some aleph number, and thus can be ordered."
+          },
+          {
+            "source_theorem": "Continuum hypothesis",
+            "target_theorem": "Kurt Gödel",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "This is done by showing that n is smaller than      2   ℵ  0   + n     {\\displaystyle 2^{\\aleph _{0}+n}}   which is smaller than its own Hartogs number—this uses the equality      2   ℵ  0   + n    =  2 ⋅   2   ℵ  0   + n     {\\displaystyle 2^{\\aleph"
+          }
+        ]
+      },
+      {
+        "name": "Riemann hypothesis",
+        "title": "Riemann hypothesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Number theory",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "It is of great interest in number theory because it implies results about the distribution of prime numbers."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Real part",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The functional equation also implies that the zeta function has no zeros with negative real part other than the trivial zeros, so all nontrivial zeros lie in the critical strip where s has real part between 0 and 1. ..."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Prime number theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "It is already known that 1/2 ≤ β ≤ 1.[5]  Von Koch (1901) proved that the Riemann hypothesis implies the \"best possible\" bound for the error of the prime number theorem."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Arithmetic function",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The Riemann hypothesis implies strong bounds on the growth of many other arithmetic functions, in addition to the primes counting function above."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Real part",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The statement that the equation  is valid for every s with real part greater than 1/2, with the sum on the right hand side converging, is equivalent to the Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Mertens function",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "From this we can also conclude that if the Mertens function is defined by  then the claim that  for every positive ε is equivalent to the Riemann hypothesis (J. E. Littlewood, 1912; see for instance: paragraph 14.25 in Titchmarsh (1986))."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Soundararajan's result is that, conditional on the Riemann hypothesis,  The Riemann hypothesis puts a rather tight bound on the growth of M, since Odlyzko & te Riele (1985) disproved the slightly stronger Mertens conjecture  Another closely related r"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The Riemann hypothesis is equivalent to many other conjectures about the rate of growth of other arithmetic functions aside from μ(n)."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Jeffrey Lagarias",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "A related bound was given by Jeffrey Lagarias in 2002, who proved that the Riemann hypothesis is equivalent to the statement that:  for every natural number n > 1, where      H  n     {\\displaystyle H_{n}}   is the nth harmonic number.[11]  The Riema"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Farey sequence",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The Riemann hypothesis is equivalent to several statements showing that the terms of the Farey sequence are fairly regular."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Farey sequence",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "One such equivalence is as follows: if Fn is the Farey sequence of order n, beginning with 1/n and up to 1/1, then the claim that for all ε > 0  is equivalent to the Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Farey sequence",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Here  is the number of terms in the Farey sequence of order n.  For an example from group theory, if g(n) is Landau's function given by the maximal order of elements of the symmetric group Sn of degree n, then Massias, Nicolas & Robin (1988) showed t"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Zeta function",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The Riemann hypothesis also implies quite sharp bounds for the growth rate of the zeta function in other regions of the critical strip."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Prime number theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "For example, it implies that  so the growth rate of ζ(1 + it) and its inverse would be known up to a factor of 2.[13]  The prime number theorem implies that on average, the gap between the prime p and its successor is log p."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This is a case in which even the best bound that can be proved using the Riemann hypothesis is far weaker than what seems true: Cramér's conjecture implies that every gap is O((log p)2), which, while larger than the average gap, is far smaller than t"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Weil's criterion",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Weil's criterion is the statement that the positivity of a certain function is equivalent to the Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Li's criterion",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Related is Li's criterion, a statement that the positivity of a certain sequence of numbers is equivalent to the Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The de Bruijn–Newman constant denoted by Λ and named after Nicolaas Govert de Bruijn and Charles M. Newman, is defined as the unique real number such that the function  that is parametrised by a real parameter λ, has a complex variable z and is defin"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Many basic properties of the Riemann zeta function can easily be generalized to all Dirichlet L-series, so it is plausible that a method that proves the Riemann hypothesis for the Riemann zeta function would also work for the generalized Riemann hypo"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In particular it implies the conjecture that Siegel zeros (zeros of L-functions between 1/2 and 1) do not exist."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Generalized Riemann hypothesis",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The extended Riemann hypothesis for abelian extension of the rationals is equivalent to the generalized Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Natural number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This is in contrast to canonical quantization, which leads to the Heisenberg uncertainty principle      σ  x    σ  p   ≥   ℏ 2     {\\displaystyle \\sigma _{x}\\sigma _{p}\\geq {\\frac {\\hbar }{2}}}   and the natural numbers as spectrum of the quantum har"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Determinant",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This yields a Hamiltonian whose eigenvalues are the square of the imaginary part of the Riemann zeros, and also that the functional determinant of this Hamiltonian operator is just the Riemann Xi function."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Zeta function",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Despite this obstacle, de Branges has continued to work on an attempted proof of the Riemann hypothesis along the same lines, but this has not been widely accepted by other mathematicians.[27]  The Riemann hypothesis implies that the zeros of the zet"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Zeta function",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Despite this obstacle, de Branges has continued to work on an attempted proof of the Riemann hypothesis along the same lines, but this has not been widely accepted by other mathematicians.[27]  The Riemann hypothesis implies that the zeros of the zet"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Related conjecture of Fesenko (2010) on the positivity of the fourth derivative of a boundary function associated to the zeta integral essentially implies the pole part of the generalized Riemann hypothesis."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Suzuki (2011) proved that the latter, together with some technical assumptions, implies Fesenko's conjecture."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Real part",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Deligne's proof of the Riemann hypothesis over finite fields used the zeta functions of product varieties, whose zeros and poles correspond to sums of zeros and poles of the original zeta function, in order to bound the real parts of the zeros of the"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Zeta function",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The functional equation combined with the argument principle implies that the number of zeros of the zeta function with imaginary part between 0 and T is given by  for s = 1/2 + iT, where the argument is defined by varying it continuously along the l"
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Imaginary part",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "= O(log T) implies that the gaps between zeros are bounded, and Littlewood improved this slightly, showing that the gaps between their imaginary parts tend to 0."
+          },
+          {
+            "source_theorem": "Riemann hypothesis",
+            "target_theorem": "Gram point",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This implies that θ(t) is an integer multiple of π, which allows for the location of Gram points to be calculated fairly easily by inverting the formula for θ."
+          }
+        ]
+      },
+      {
+        "name": "Twin prime",
+        "title": "Twin prime",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "First Hardy–Littlewood conjecture",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "The Polymath Project optimization of Zhang's bound and the work of Maynard have reduced the bound: the limit inferior is at most 246.[15][16]  The first Hardy–Littlewood conjecture (named after G. H. Hardy and John Littlewood) is a generalization of "
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "Prime number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This assumption, which is suggested by the prime number theorem, implies the twin prime conjecture, as shown in the formula for ⁠     π  2   ( x )   {\\displaystyle \\pi _{2}(x)}  ⁠ above."
+          },
+          {
+            "source_theorem": "Twin prime",
+            "target_theorem": "First Hardy–Littlewood conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The fully general first Hardy–Littlewood conjecture on prime k-tuples (not given here) implies that the second Hardy–Littlewood conjecture is false."
+          }
+        ]
+      },
+      {
+        "name": "Goldbach's conjecture",
+        "title": "Goldbach's conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Latin",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The best known result currently stems from the proof of the weak Goldbach conjecture by Harald Helfgott,[14] which directly implies that every even number n ≥ 4 is the sum of at most 4 primes.[15][16]  In 1924, Hardy and Littlewood showed under the a"
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Latin",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The best known result currently stems from the proof of the weak Goldbach conjecture by Harald Helfgott,[14] which directly implies that every even number n ≥ 4 is the sum of at most 4 primes.[15][16]  In 1924, Hardy and Littlewood showed under the a"
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Greedy algorithm",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Although Goldbach's conjecture implies that every positive integer greater than one can be written as a sum of at most three primes, it is not always possible to find such a sum using a greedy algorithm that uses the largest possible prime at each st"
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Greedy algorithm",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Although Goldbach's conjecture implies that every positive integer greater than one can be written as a sum of at most three primes, it is not always possible to find such a sum using a greedy algorithm that uses the largest possible prime at each st"
+          },
+          {
+            "source_theorem": "Goldbach's conjecture",
+            "target_theorem": "Turing machine",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Hence if BB(27) was known, and the Turing machine did not stop in that number of steps, it would be known to run forever and hence no counterexamples exist (which proves the conjecture true)."
+          }
+        ]
+      },
+      {
+        "name": "Collatz conjecture",
+        "title": "Collatz conjecture",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Lower bound",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Certain constraints on any non-trivial cycle, such as lower bounds on the length of the cycle, can be proven based on the value of the lowest term in the cycle."
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Central limit theorem",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The proof is based on the distribution of parity vectors and uses the central limit theorem."
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Simple continued fraction",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "This result is based on the simple continued fraction expansion of ⁠ln 3/ln 2⁠.[14]  A k-cycle is a cycle that can be partitioned into k contiguous subsequences, each consisting of an increasing sequence of odd numbers, followed by a decreasing seque"
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Odd number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Now suppose that for some odd number n, applying this operation k times yields the number 1 (that is, fk(n)"
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "In this context, assuming the validity of the Collatz conjecture implies that (1 0) and (0 1) are the only parity cycles generated by positive whole numbers (1 and 2, respectively)."
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Conjecture",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "For the special purpose of searching for a counterexample to the Collatz conjecture, this precomputation leads to an even more important acceleration, used by Tomás Oliveira e Silva in his computational confirmations of the Collatz conjecture up to l"
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Conjecture",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Some properties of the Syracuse function are:  The Collatz conjecture is equivalent to the statement that, for all k in I, there exists an integer n ≥ 1 such that fn(k) ="
+          },
+          {
+            "source_theorem": "Collatz conjecture",
+            "target_theorem": "Conjecture",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Hence if BB(15) was known, and this machine did not stop in that number of steps, it would be known to run forever and hence no counterexamples exist (which proves the conjecture true)."
+          }
+        ]
+      },
+      {
+        "name": "Zorn's lemma",
+        "title": "Zorn's lemma",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Set theory",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "It occurs in the proofs of several theorems of crucial importance, for instance the Hahn–Banach theorem in functional analysis, the theorem that every vector space has a basis,[3] Tychonoff's theorem in topology stating that every product of compact "
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Maximal element",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "So, if I were equal to R, then it would contain 1, and that means one of the members of T would contain 1 and would thus be equal to R – but R is explicitly excluded from P.  The hypothesis of Zorn's lemma has been checked, and thus there is a maxima"
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Empty set",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "(Note that, strictly speaking, (1) is redundant since (2) implies the empty set is in     F   {\\displaystyle F}  .)"
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Hausdorff maximal principle",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of the weak form is given in Hausdorff maximal principle#Proof."
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Upper bound",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Conversely, the above lemma implies the aforementioned weak form of Zorn's lemma, since a union gives a least upper bound."
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Axiom of choice",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "A proof that Zorn's lemma implies the axiom of choice illustrates a typical application of Zorn's lemma.[17] (The structure of the proof is exactly the same as the one for the Hahn–Banach theorem.)"
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Subset",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "◻   {\\displaystyle \\square }    Essentially the same proof also shows that Zorn's lemma implies the well-ordering theorem: take     P   {\\displaystyle P}   to be the set of all well-ordered subsets of a given set     X   {\\displaystyle X}   and then "
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Axiom of choice",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "\"The Axiom of Choice is obviously true, the well-ordering principle obviously false, and who can tell about Zorn's lemma?\"[22]  Zorn's lemma is also equivalent to the strong completeness theorem of first-order logic.[23]  Moreover, Zorn's lemma (or o"
+          },
+          {
+            "source_theorem": "Zorn's lemma",
+            "target_theorem": "Partially ordered set",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "As a result, any partially ordered set with exclusively finite chains must have a maximal element.[28]  More generally, strengthening the axiom of dependent choice to higher ordinals allows us to generalize the statement in the previous paragraph to "
+          }
+        ]
+      },
+      {
+        "name": "Well-ordering theorem",
+        "title": "Well-ordering theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Well-ordering theorem",
+            "target_theorem": "Well-order",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "It turned out, though, that in first-order logic the well-ordering theorem is equivalent to the axiom of choice, in the sense that the Zermelo–Fraenkel axioms with the axiom of choice included are sufficient to prove the well-ordering theorem, and co"
+          }
+        ]
+      },
+      {
+        "name": "Compactness theorem",
+        "title": "Compactness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Compactness theorem",
+            "target_theorem": "Abraham Robinson",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The compactness theorem implies the following result, stated by Abraham Robinson in his 1949 dissertation."
+          },
+          {
+            "source_theorem": "Compactness theorem",
+            "target_theorem": "Gödel's completeness theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "{\\displaystyle {}^{*}\\mathbb {R} .}    One can prove the compactness theorem using Gödel's completeness theorem, which establishes that a set of sentences is satisfiable if and only if no contradiction can be proven from it."
+          },
+          {
+            "source_theorem": "Compactness theorem",
+            "target_theorem": "Gödel's completeness theorem",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "In fact, the compactness theorem is equivalent to Gödel's completeness theorem, and both are equivalent to the Boolean prime ideal theorem, a weak form of the axiom of choice.[10]  Gödel originally proved the compactness theorem in just this way, but"
+          },
+          {
+            "source_theorem": "Compactness theorem",
+            "target_theorem": "Axiom of choice",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "One of those proofs relies on ultraproducts hinging on the axiom of choice as follows:  Proof:"
+          },
+          {
+            "source_theorem": "Compactness theorem",
+            "target_theorem": "Ultraproduct",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Now for any sentence     φ   {\\displaystyle \\varphi }   in     Σ :   {\\displaystyle \\Sigma :}    Łoś's theorem now implies that     φ   {\\displaystyle \\varphi }   holds in the ultraproduct      ∏  i ⊆ Σ      M    i    /  U ."
+          }
+        ]
+      },
+      {
+        "name": "Löwenheim–Skolem theorem",
+        "title": "Löwenheim–Skolem theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Löwenheim–Skolem theorem",
+            "target_theorem": "Cardinal number",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "It implies that if a countable first-order theory has an infinite model, then for every infinite cardinal number κ it has a model of size κ, and that no first-order theory with an infinite model can have a unique model up to isomorphism."
+          },
+          {
+            "source_theorem": "Löwenheim–Skolem theorem",
+            "target_theorem": "Up to isomorphism",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The proof of the upward part of the theorem also shows that a theory with arbitrarily large finite models must have an infinite model; sometimes this is considered to be part of the theorem.[1]  A theory is called categorical if it has only one model"
+          },
+          {
+            "source_theorem": "Löwenheim–Skolem theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The Löwenheim–Skolem theorem dealt a first blow to this hope, as it implies that a first-order theory which has an infinite model cannot be categorical."
+          },
+          {
+            "source_theorem": "Löwenheim–Skolem theorem",
+            "target_theorem": "Skolem's paradox",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This counterintuitive situation came to be known as Skolem's paradox; it shows that the notion of countability is not absolute.[4]  For each first-order     σ   {\\displaystyle \\sigma }  -formula     φ ( y ,  x  1   , … ,  x  n   )   {\\displaystyle \\v"
+          }
+        ]
+      },
+      {
+        "name": "Gödel's completeness theorem",
+        "title": "Gödel's completeness theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Mathematical logic",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Gödel's completeness theorem is a fundamental theorem in mathematical logic that establishes a correspondence between semantic truth and syntactic provability in first-order logic."
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Axiom",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The completeness theorem applies to any first-order theory: If T is such a theory, and φ is a sentence (in the same language) and every model of T is a model of φ, then there is a (first-order) proof of φ using the statements of T as axioms."
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "If and only if",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Together with soundness (whose verification is easy), this theorem implies that a formula is logically valid if and only if it is the conclusion of a formal deduction."
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Since      S  T     {\\displaystyle S_{T}}   cannot be proven in     T   {\\displaystyle T}  , the completeness theorem implies the existence of a model of     T   {\\displaystyle T}   in which      S  T     {\\displaystyle S_{T}}   is false."
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Deductive system",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "The compactness theorem says that if a formula φ is a logical consequence of a (possibly infinite) set of formulas Γ then it is a logical consequence of a finite subset of Γ. This is an immediate consequence of the completeness theorem, because only "
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Compactness theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This proof of the compactness theorem is originally due to Gödel."
+          },
+          {
+            "source_theorem": "Gödel's completeness theorem",
+            "target_theorem": "Theorem",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Gödel's original proof of the theorem proceeded by reducing the problem to a special case for formulas in a certain syntactic form, and then handling this form with an ad hoc argument."
+          }
+        ]
+      },
+      {
+        "name": "Halting problem",
+        "title": "Halting problem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Computability",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "The problem comes up often in discussions of computability since it demonstrates that some functions are mathematically definable but not computable."
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Alonzo Church",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In April 1936, Alonzo Church published his proof of the undecidability of a problem in the lambda calculus."
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Turing-complete",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "As in the sketch of the concept, given any total computable binary function f, the following partial function g is also computable by some program e:  The verification that g is computable relies on the following constructs (or their equivalents):  T"
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Rice's theorem",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "Rice's theorem generalizes the theorem that the halting problem is unsolvable."
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Soundness",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "Since soundness implies consistency, this weaker form can be seen as a corollary of the strong form."
+          },
+          {
+            "source_theorem": "Halting problem",
+            "target_theorem": "Algorithm",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "This means that there is an algorithm N(n) that, given a natural number n, computes a true first-order logic statement about natural numbers, and that for all true statements, there is at least one n such that N(n) yields that statement."
+          }
+        ]
+      },
+      {
+        "name": "Church–Turing thesis",
+        "title": "Church–Turing thesis",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Computable function",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Turing's \"definitions\" given in a footnote in his 1938 Ph.D. thesis Systems of Logic Based on Ordinals, supervised by Church, are virtually the same:  † We shall use the expression \"computable function\" to mean a function calculable by a machine, and"
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Turing machine",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Next, Kleene proceeds to present \"Turing's thesis\", where results are shown to be uncomputable, using his simplified derivation of a Turing machine based on the work of Emil Post."
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Turing machine",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "[40] Turing's thesis: Turing's thesis that every function which would naturally be regarded as computable is computable under his definition, i.e. by one of his machines, is equivalent to Church's thesis by Theorem XXX.[40] Kleene, finally, uses for "
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Turing machine",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "[40] Turing's thesis: Turing's thesis that every function which would naturally be regarded as computable is computable under his definition, i.e. by one of his machines, is equivalent to Church's thesis by Theorem XXX.[40] Kleene, finally, uses for "
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Turing machine",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "Finding an upper bound on the busy beaver function is equivalent to solving the halting problem, a problem known to be unsolvable by Turing machines."
+          },
+          {
+            "source_theorem": "Church–Turing thesis",
+            "target_theorem": "Computable function",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "His argument relies on a definition of algorithm broader than the ordinary one, so that non-computable functions obtained from some inductive Turing machines are called computable."
+          }
+        ]
+      },
+      {
+        "name": "Prime number theorem",
+        "title": "Prime number theorem",
+        "type": "theorem",
+        "description": "",
+        "source": "wikipedia",
+        "relationships": [
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The prime number theorem is equivalent to the statement that the nth prime number pn satisfies  the asymptotic notation meaning, again, that the relative error of this approximation approaches 0 as n increases without bound."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Complex analysis",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Newman's proof is arguably the simplest known proof of the theorem, although it is non-elementary in the sense that it uses Cauchy's integral theorem from complex analysis."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Complex analysis",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "Newman's proof is arguably the simplest known proof of the theorem, although it is non-elementary in the sense that it uses Cauchy's integral theorem from complex analysis."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Chebyshev function",
+            "relationship_type": "equivalent_to",
+            "confidence": 0.85,
+            "evidence": "The most common such generalized counting function is the Chebyshev function ψ(x), defined by  This is sometimes written as  where Λ(n) is the von Mangoldt function, namely  It is now relatively easy to check that the PNT is equivalent to the claim t"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "D. J. Newman gives a quick proof of the prime number theorem (PNT)."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Complex analysis",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The proof is \"non-elementary\" by virtue of relying on complex analysis, but uses only elementary techniques from a first course in the subject: Cauchy's integral formula, Cauchy's integral theorem and estimates of complex integrals."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Chebyshev function",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The proof uses the same preliminaries as in the previous section except instead of the function     ψ   {\\textstyle \\psi }  , the  Chebyshev function     ϑ ( x )"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This belief was somewhat shaken by a proof of the PNT based on Wiener's tauberian theorem, though Wiener's proof ultimately relies on properties of the Riemann zeta function on the line     R e ( s )"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Riemann zeta function",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "This belief was somewhat shaken by a proof of the PNT based on Wiener's tauberian theorem, though Wiener's proof ultimately relies on properties of the Riemann zeta function on the line     R e ( s )"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Complex analysis",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "Although it does not use complex analysis, it is in fact much more technical than the standard proof of PNT."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "A more recent \"elementary\" proof of the prime number theorem uses ergodic theory, due to Florian Richter.[28]"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "A more recent \"elementary\" proof of the prime number theorem uses ergodic theory, due to Florian Richter.[28]"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Isabelle theorem prover",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "In 2005, Avigad et al. employed the Isabelle theorem prover to devise a computer-verified variant of the Erdős–Selberg proof of the PNT.[29] This was the first machine-verified proof of the PNT."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "This is stronger than Dirichlet's theorem on arithmetic progressions (which only states that there is an infinity of primes in each class) and can be proved using similar methods used by Newman for his proof of the prime number theorem.[31]  The Sieg"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Prime number",
+            "relationship_type": "generalizes",
+            "confidence": 0.85,
+            "evidence": "The prime number race generalizes to other moduli and is the subject of much research; Pál Turán asked whether it is always the case that πc,a(x) and πc,b(x) change places when a and b are coprime to c.[34]"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Pierre Dusart",
+            "relationship_type": "implies",
+            "confidence": 0.85,
+            "evidence": "It gives an ineffective bound on π(x) as a direct consequence of the definition of the limit: for all ε > 0, there is an S such that for all x > S,  However, better bounds on π(x) are known, for instance Pierre Dusart's  The first inequality holds fo"
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Integer",
+            "relationship_type": "uses",
+            "confidence": 0.85,
+            "evidence": "The approximation difference columns are rounded to the nearest integer, but the \"% error\" columns are computed based on the unrounded approximations."
+          },
+          {
+            "source_theorem": "Prime number theorem",
+            "target_theorem": "Irreducible polynomial",
+            "relationship_type": "proves",
+            "confidence": 0.85,
+            "evidence": "It involves a short, combinatorial argument,[47] summarised as follows: every element of the degree n extension of F is a root of some irreducible polynomial whose degree d divides n; by counting these roots in two different ways one establishes that"
+          }
+        ]
+      }
+    ]
+  }
+}

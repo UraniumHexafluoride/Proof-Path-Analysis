@@ -1,0 +1,9 @@
+2025-06-22 22:32:36,862 - __main__ - INFO - Processing source: wikipedia
+2025-06-22 22:32:36,862 - __main__ - INFO - Items to process: 5
+2025-06-22 22:32:36,862 - __main__ - INFO - Categories to process: 0
+2025-06-22 22:32:38,554 - __main__ - INFO - ✓ Successfully scraped: Gödel's incompleteness theorems
+2025-06-22 22:32:39,584 - __main__ - INFO - ✓ Successfully scraped: Fermat's Last Theorem
+2025-06-22 22:32:40,350 - __main__ - INFO - ✓ Successfully scraped: Axiom of choice
+2025-06-22 22:32:41,150 - __main__ - INFO - ✓ Successfully scraped: Pythagorean theorem
+2025-06-22 22:32:41,566 - __main__ - INFO - ✓ Successfully scraped: Fundamental theorem of arithmetic
+2025-06-22 22:32:41,670 - __main__ - INFO - Results saved to: entailment_output/scraped_data\improved_scraping_results_20250622_223241.json
