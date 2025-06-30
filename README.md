@@ -1,5 +1,17 @@
 # Mathematical Logic Entailment & Independence Analysis
 
+![Python](https://img.shields.io/badge/language-Python-blue.svg)
+![Framework](https://img.shields.io/badge/framework-NetworkX-green.svg)
+![NLP](https://img.shields.io/badge/NLP-spaCy-lightgrey.svg)
+![Subject](https://img.shields.io/badge/subject-MathLogic-blueviolet.svg)
+![Entailment Graphs](https://img.shields.io/badge/Topic-Entailment%20Graphs-orange)
+![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=UraniumHexafluoride.Proof-Path-Analysis)
+![Last Commit](https://img.shields.io/github/last-commit/UraniumHexafluoride/Proof-Path-Analysis)
+![Issues](https://img.shields.io/github/issues/UraniumHexafluoride/Proof-Path-Analysis)
+![Pull Requests](https://img.shields.io/github/issues-pr/UraniumHexafluoride/Proof-Path-Analysis)
+![Stars](https://img.shields.io/github/stars/UraniumHexafluoride/Proof-Path-Analysis?style=social)
+
 A computational framework for analyzing the logical structure of mathematical knowledge using entailment graphs, NLP, and advanced structural metrics.
 
 ## Current Status
